@@ -75,32 +75,28 @@
             })
           })
           .then(function(){
-            createGitHub(file);
             var uploadedFileNode = document.createElement('div');
             uploadedFileNode.innerHTML = 'Success: '+ file.name;
             list.appendChild(uploadedFileNode);
+
+            return fetch(apiBaseURL+"/createFile", {
+              method: "GET",
+              headers: {
+                'Content-Type': 'application/json'
+              },
+              body: JSON.stringify({
+                name: file.name,
+                type: file.type
+              })
+            })
           });
+          .then(function(response){
+            return response.json();
+          })
         });
         reader.readAsArrayBuffer(file);
       }
       return false;
-    }
-
-    function createGitHub(file){
-      console.log('Creating file in GitHub');
-      fetch(apiBaseURL+"/createFile", {
-        method: "GET",
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          name: file.name,
-          type: file.type
-        })
-      })
-      .then(function(response){
-        return response.json();
-      })
     }
 
     // Tells the browser that we *can* drop on this target
