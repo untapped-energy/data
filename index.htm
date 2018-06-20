@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>A File Upload Demo</title>
+  <title>Untapped Energy Data Upload Tool</title>
   <style>
     html, body {
       height: 100%;
@@ -27,13 +27,34 @@
       display: flex;
       align-items: center;
     }
+    #instructions {
+      width: 400px;
+    }
   </style>
 </head>
 <body>
   <div class="aligner">
-    <div id="drop">Drop files here.</div>
+    <h2>Untapped Energy Data Upload Tool</h2>
+    <div id="instructions">Please choose a pod and enter a description for your data, then drag your file onto the purple circle. The data (and a metadata file) will be saved to the <a href="https://github.com/drewgillson/untapped-data-handler/tree/master">untapped-data-handler repository</a> on GitHub.</p>
+    <hr/>
+    <p>
+      <label for="pod">Choose a pod:</label><br/>
+      <select name="data_pod" id="data_pod">
+        <option value="1_aging_infrastructure">Aging Infrastructure</option>
+        <option value="2_business_models">New Business Models</option>
+        <option value="3_environment">Environment</option>
+        <option value="4_health_safety">Health and Safety</option>
+        <option value="5_repurpose_infrastructure">Repurpose Infrastructure</option>
+        <option value="6_social_license">Social License</option>
+        <option value="7_other">Other</option>
+      </select>
+    </p>
+    <p>
+      <label for="data_description">Please describe your data file.<br/>- What does it contain?<br/>- Where did it come from?<br/>- Why do you think this data is valuable?<br/><br/>Write a description:</label><br/>
+      <textarea name="data_description" id="data_description" rows="10" cols="50"></textarea>
+    </p>
+    <div id="drop">&nbsp;&nbsp;&nbsp;Drag your file here</div>
     <div id="list">
-      <h1>Uploaded Files:</h1>
     </div>
   </div>
 
@@ -86,7 +107,9 @@
               },
               body: JSON.stringify({
                 name: file.name,
-                type: file.type
+                type: file.type,
+                description: document.getElementById("data_description").value,
+                pod: document.getElementById("data_pod").value
               })
             })
           })
