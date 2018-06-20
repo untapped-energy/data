@@ -89,6 +89,9 @@
                 type: file.type
               })
             })
+            .then(function(response){
+              return response.json();
+            })
           });
         });
         reader.readAsArrayBuffer(file);
