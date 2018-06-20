@@ -75,7 +75,7 @@
             })
           })
           .then(function(){
-            createGitHub(file)
+            createGitHub(file);
             var uploadedFileNode = document.createElement('div');
             uploadedFileNode.innerHTML = 'Success: '+ file.name;
             list.appendChild(uploadedFileNode);
@@ -101,10 +101,6 @@
       .then(function(response){
         return response.json();
       })
-      .catch(function (err) {
-        console.log(err)
-        return err;
-      });
     }
 
     // Tells the browser that we *can* drop on this target
