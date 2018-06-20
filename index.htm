@@ -40,7 +40,7 @@
   <script type="text/javascript">
     var drop = document.getElementById('drop');
     var list = document.getElementById('list');
-    var apiBaseURL = "https://7g3pfy1l14.execute-api.us-east-1.amazonaws.com/dev";
+    var apiBaseURL = "https://rgu710ez3i.execute-api.us-east-1.amazonaws.com/dev";
 
     function cancel(e) {
       e.preventDefault();
@@ -55,7 +55,7 @@
         var file = files[i];
         var reader = new FileReader();
         reader.addEventListener('loadend', function(e){
-          fetch(apiBaseURL+"/analyzeFile", {
+          fetch(apiBaseURL+"/submitFile", {
             method: "POST",
             headers: {
               'Content-Type': 'application/json'
