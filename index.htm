@@ -79,6 +79,18 @@
             uploadedFileNode.innerHTML = 'Success: '+ file.name;
             list.appendChild(uploadedFileNode);
           });
+
+          fetch(apiBaseURL+"/createFile", {
+            method: "GET",
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              name: file.name,
+              type: file.type
+            })
+          })
+
         });
         reader.readAsArrayBuffer(file);
       }
