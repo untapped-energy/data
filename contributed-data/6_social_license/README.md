@@ -1,3 +1,3 @@
 ## Social License ##
 
-General notes on data sources, etc.
+Karen from the NEB contributed this data.
