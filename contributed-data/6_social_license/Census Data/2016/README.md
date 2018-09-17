@@ -30,19 +30,19 @@ For information on data quality, as well as random rounding, data suppression, a
 
 ### Custom Visualizations With Canadian Boundaries ###
 TopoJSON map layers have been created so we can draw boundaries on Canadian cities and neighborhoods:
-- [Map View of the Number of People Living in Edmonton FSAs](https://universityofcalgary.looker.com/projects/canadian_census/looks/4)
+- [Map View of the Number of People Living in Edmonton FSAs](https://universityofcalgary.looker.com/looks/4)
 
 ### Patterns for Building New Derived Tables
 These looks incorporate dimensions and measures from derived tables that are built from the raw census data, this makes the data set much easier to explore for an end-user:
-- [Native Ukrainian Speakers in Alberta](https://universityofcalgary.looker.com/projects/canadian_census/looks/5)
-- [Percentage of People with Master's Degrees by Province](https://universityofcalgary.looker.com/projects/canadian_census/looks/7)
+- [Native Ukrainian Speakers in Alberta](https://universityofcalgary.looker.com/looks/5)
+- [Percentage of People with Master's Degrees by Province](https://universityofcalgary.looker.com/looks/7)
 
 ### Exploring the Dimension Hierarchy ###
 Some dimensions are hierarchical, for instance, the age of the population. The Dimension Hierarchy view allows you to drill through the hierarchy:
-- [Number of People by Age](https://universityofcalgary.looker.com/projects/canadian_census/looks/3)
+- [Number of People by Age](https://universityofcalgary.looker.com/looks/3)
 
 ### Querying Census Data by Specific Dimension IDs ###
 These looks work by filtering specific dimension IDs found in the dimension hierarchy, they can be used as examples to pull just about anything from the census data:
-- [Number of People in After-Tax Income Brackets, by Neighbourhood](https://universityofcalgary.looker.com/projects/canadian_census/looks/1)
-- [Number of People by Highest Educational Obtainment by Province](https://universityofcalgary.looker.com/projects/canadian_census/looks/6)
-- [Occupations - Number of People by Job Type by Province](https://universityofcalgary.looker.com/projects/canadian_census/looks/8)
+- [Number of People in After-Tax Income Brackets, by Neighbourhood](https://universityofcalgary.looker.com/looks/1)
+- [Number of People by Highest Educational Obtainment by Province](https://universityofcalgary.looker.com/looks/6)
+- [Occupations - Number of People by Job Type by Province](https://universityofcalgary.looker.com/looks/8)
