@@ -1,0 +1,6079 @@
+                                                    Letter of Comment
+Date: 4/2/2007 8:28:41 PM
+                                                      Proceeding Information
+Project Name:     Application for Keystone Pipeline                          Company Name:     TransCanada Keystone Pipeline GP Ltd.
+Hearing Order No:     OH-1-2007                                              File Number: OF-Fac-Oil-T241-2006-01 02
+                                                        Contact Information
+Name: Donald Harron                                                          Address: Box 195
+Title: B.Sc. P.Biol.                                                         City: Starbuck
+Organization:                                                                Province:   Manitoba
+Telephone:     (204) 793-8317                                                Postal Code: R0G 2P0
+Facsimile:                                                                   Email: deharron@hotmail.com
+Please ensure that your letter of comment includes:
+      ·   the nature of your interest in the application
+      ·   comments on the application
+      ·   any relevant information that will explain or support your comments
+For further information, please refer to the Hearing Order on the NEB website at www.neb-one.gc.ca.
+                                                                Comments
+                                                        Attach additional pages if necessary.
+Dear Sir or Madam
+I) Nature of Interest in the Project:
+The following comments are submitted regarding the TransCanada Keystone Pipeline GP Ltd Project, with specific
+reference to Section 9: Wildlife.
+I have been a biologist for 22 years, and involved in impact assessment for nearly 20 of those years, and have been an
+environmental scientist in Manitoba for the last 15 years. I live in the town of Starbuck, adjacent to the Project as it
+ proceeds southward to the US border. My primary interest in the Project is with respect to the practice of
+environmental assessment in Manitoba. I have focused my comments on four items with respect to wildlife issues the
+in the assessment only. Terrestrial and aquatic wildlife is an area in which I have substantive experience in effects
+assessment.
+The following are my personal comments on the Project, independent of my employer, clients and any other
+association of with I am a member.
+II) Comments on the Application:
+1) Determination of Significance: Section 9.7.1 “Definitions of Effects Significance” on pg 9-66 to 9-70. I note that the
+standard or threshold of “significant effect” presented in Table 9-17 “Determination of Environmental Significance” is
+such that the Project, by definition, cannot result in a “significant effect”. That is, during the Project’s existence or
+“Medium Term Duration” even a “Moderate to High Magnitude” effect would still result in a finding of “Not
+Significant”. Using this assessment criteria, there is no possible scenario whereby the Project, while it exists, could
+result in a finding of “Significant Effect”, and all determinations of significance in Section 9: Wildlife should be
+disregarded.
+2) Manitoba Buffer Guidance: On pg 9-83, Table 9-22 “Buffer Considerations for Other Significant Resource Values in
+Manitoba” is referenced to Manitoba Natural Resources (1996), however this citation is not provided in Section 9.10
+“References”. I believe that the assessment is referring to the MDNR (1996) “Manitoba Natural Resources
+Consolidated Buffer Management Guidelines”, but if this is the case the values presented in Table 9-22 are meant for
+timber planning and operations and are not applicable outside the forested region of Manitoba. These guidelines are
+not applicable to the Project.
+3) Manitoba Endangered Species Act: Table 9-4 “Status of Wildlife in the Keystone Project Area” references the
+Manitoba list to “MB Con (1993)”. In 1993, Manitoba Conservation did not exist, and the reference should have
+reflected the departments name at the time of Manitoba Natural Resources. The list provided is also not applicable to
+1993, but appears to use an updated list that includes species, which in 1993 were not yet included. The reference
+should be to The Endangered Species Act – Threatened, Endangered and Extirpated Species Regulation. Table 9-4
+also excludes the Peregrine Falcon and the Prairie Falcon from potentially occurring with the Project area in
+Manitoba. The list also fails to recognize the potential migratory occurrence of both the Whooping Crane and Eskimo
+Curlew, also listed by the Manitoba act. The potential presence of the listed threatened invertebrates the Dakota
+Skipper and the Ottoe Skipper are also omitted. The subsequent assessment sections don’t specifically address the
+potential effects of the Project in Manitoba on any of the species listed by the Act, and the potential for adverse effects
+on any of these protected species in Manitoba is unknown.
+4) The use of Professional judgment: Table 9-2 “Potential Effects on Species Diversity (VEC 1)” and Table 9-3
+“Potential Effects on Wildlife Habitat Integrity (VEC 2)” appear to entirely justify the assessment conclusions based in
+“Professional judgment, professional ESA experience”. This approach appears to circumvent the need to provide
+detailed, logical, science-based justification for the assessment conclusions. As a result, it is difficult to review the
+value of the assessment.
+a. If this approach of justifying an assessment with “judgment” is acceptable;
+i. How does the occurrence of minor errors in the assessment reflect upon the validity of the conclusions, not only the
+examples given above, but others, like on pg 9-16, where the Project is described as occurring within the “Parkland
+ecoregion and falls in the Winkler and Winnipeg ecodistricts” (the Project occurs within both the Aspen Parkland
+Ecoregion, and also the Lake Manitoba Plain Ecoregion and extends across at least nine ecodistricts, as more
+accurately reflected in the assessment Figures 9-10 and 9-11)?
+ii. How does the occurrence of substantive omissions in the assessment reflect upon the validity of the conclusions if
+they are based in judgment?
+1. An example of this is the discussion of avian mortality associated with powerlines in Section 9.8.1.5 “Assessment of
+Cumulative Effects” on pg 9-127. The section inappropriately discusses the potential for raptor electrocution as a
+cumulative effect (the powerlines to the various stations are a necessary component of the Project and therefore are a
+related physical activity, not a cumulative effect) but ignores the well-established effects described in the literature
+regarding anticipated annual avian mortality due to collisions with the overhead wires (i.e. powerlines), which if
+assumed to be four birds per kilometer of line per year, over the course of its life the Project would result the death of
+hundreds to thousands of birds.
+iii. How did the judgment address subtle complex issues like fragmentation that often have seemingly contradictory
+effects depending on the circumstance?
+1. For example; Table 9-30 “Assessment of Cumulative Effects on Valued Ecosystem Components” on pg 9-129
+ presents in response to the effect “Increase in Habitat Fragmentation, Loss and Alteration” under “Mitigation
+Measures” the concept of “Parallel pipeline with existing RoW whenever feasible”. The nature of this other “RoW” is
+not discussed, therefore it is not known if it is another pipeline, a road, a highway, a powerline or a transmission line
+or other feature or combination of features. In some cases this may be an effective mitigation, to concentrate the
+effects of the Project in areas already affected by historical developments. In other cases, the cumulative effect of the
+Project may be such that it causes an ecological threshold to be exceeded, resulting in a magnified effect. For
+example, if the other RoWs are a highway, flanked by a transmission line RoW and a Powerline RoW, then the
+cumulative effect of the addition of a fourth RoW may be enough to create an absolute barrier to movement for some
+species. In this case, the separation of the Project’s RoW would be the best mitigation.
+b. In Alberta, the Alberta Society of Professional Biologists exists, however no similar provincially recognized
+organization exists in either Saskatchewan or Manitoba. The use of the term “Professional” may therefore have
+different implications in the various distinctive provincial regions of the assessment with respect to the appropriate
+use of professional judgment.
+Concluding Remarks:
+The Manitoba portions of the assessment do not adequately describe the potential effects on wildlife of the Project.
+The assessment’s conclusions that the Project will not result in a significant adverse effect on Manitoba wildlife are
+not supported.
+Thank You
+Don Harron B.Sc. P. Biol.
+I i I , ”
+Conservation W .. 3
+Environmental Stewardship Division
+Environmentai Assessment & Licensing Branch ”M? g?“ g g”; 53 §: § 3
+123 Main Street, Suite 160 5% e i w “ W ‘
+Winnipeg, Manitoba R30 1A5
+www.gov.mb.ca/conservatien/envaggrovais M V W
+March 29, 2007
+Michel L. Mantha
+Secretary ‘
+National Energy Board
+444 7th Ave SW
+Calgary, Alberta
+T2P OX8 -
+Dear Mr. Mantha: _
+Re: TransCanada Keystone Pipeline GP Ltd. Keystone Pipeline Project - National Energy Board
+Hearing Order OH-‘I-ZOO File OF-Fac-OiI-T241-2006-O1 02.
+Please find enclosed letters of comment on the above referenced application ﬁled by the
+Manitoba Department of Conservation and the Manitoba Department of Water Stewardship.
+Bryan Blunt
+Environment Officer
+Environmental Assessment &
+Licensing Branch
+cc. Tammy Gibson
+Jeremy Angus
+Manitoba
+spmted enerqq
+
+493/27z0? 10:5? FAX 204 945 4552 ‘ SUS RES MGMT BR -} ENV @001
+Manitoba ' h Memorand m
+DATE: March 26, 2007' '
+
+TO: Mr. Bryan Blunt FROM: Tammy Gibsan. Directar
+Environmental Assessment & Licensing Br. Sustainable Resource & Policy
+Environmental Stewardship Division Management Branch
+Manitoba Conservation Environmental Stewardship Division
+160 - 123 Main Street , Manltoba Conservation
+
+BOX 38, 200 Saulteaux Crescent
+
+SUBJECT: TRANSCANADA KEYSTONE PIPELINE
+
+This branch has reCaived the following comments regarding the above:
+
+1. Birds could be directly affected during the cehstmc’cion phase. because of disturbances and
+habitat destruction. Long—term effects will be governed by the am cunt of habitat alteratihn andfor
+lass. To alleviate these problems, construction should not take place during mating. nesting and
+brood rearing periods.
+
+2. The proponent should have pravided diagrams shawing the locations of wetlands and springs
+along the Manitoba portion of the route (similar to the am far Alberta), more detail on the: exact
+laoatioh 0f the pipeline, and the habitat lhfhhhatlﬁh for each aptian mute. The Wildlife 8:
+Ecysystem Protection Branch would like the Uppoﬁur’llty t0 review and camment on this
+information befOre a licence i3 i3sued‘ i
+
+3‘ The proponent should identify potential impacts on upland and wetland habitat and the Uptlons to
+avoid, minimize or mitigate these impacts- Development in wetland areas may require directional
+boring under wetlands while impacts to native praih'e areas will require re~establishment 0f native
+prairie species- Thg Wildlife & Ecosystem Fratection Branch wculd prefer that the route chosen
+would have the least habitat alteration Gr destmc’tion-
+
+4. If habitat loss does occur, compensatian should be provided. Manitoba has established a
+process to compensate for habitat loss caused by highway construction and that can and should
+be applied to this pipeline prhject.
+
+5. Habitats of endangered species or species 0f concern must be avoided. The occurrences of
+endangered species from the Censervation Data Centre (CBC) database are based on minimal
+Survey affhri in the siudy area. The absehse af’tiafa in the CEC ciaiabase ln any particular
+gemgra’phi‘c area mes hat hecessarlly‘ mean that spades- ar ecological communities 0f cancem
+are not present, The ihfcma’cion shuuld not be regarded as a ﬁnal statement cm the occurrenca 01‘
+am; species 61‘ cahcem mr car: it subsﬁmm far Qh—site 3:: ways fer speciea that wig b6 affected by
+the development. Therefare; it is the respmsibility 0f the proponent t0 inspect all potentially
+affected sites prior to and during constructicn to determine if any listed species may be affected. .
+The proponent needs to be aware that if rare or endangered species are present, removal or
+destructionof individuals or their habitat may be in cantraventlon of Subsection 10(1) “Prohibition"
+of The Endangered Specks Aci (Manitoba). In addition, the faderal Species alt Risk Act prohibits
+
+Manitoba
+9pm energq
+
+23031-‘272’07 10:57 FAX 204 945 4552 SUS RES MGMT BR -> ENV I002
+Page 2
+
+any activities that kill or otherwise harm COSEWIC listed plant or animal species and prehiblts
+destruction cf their habitat. if species of concern are present, the praponent must contact the
+Biodiversity Canservaticm Section of the Wildlife and ECOSystem Pretectisn Branch (Jason
+Greenall, $452912) to discuss possible mitigation opﬁons. Note: all pmpments who Genduct
+
+. biological surveys in conjunctionwith their developments are asked to share that data with the
+
+. Biodiversity Csnservatlon Section. This will provide important updates to the Manitoba CDC
+
+database;
+
+6. Killing or harming migratory birds and disturbance, destruction er taking of their nests or eggs is
+prohibited under the Migratory Birds Conventicm- Act. The propeneht is responsible for ensuring
+that no migratory birds will be harmed and no active nests of migratory birds will be destroyed as
+a result of the development. If migratery birds Gr their nests may be harmed by this development
+the propcnent must contact the Canadian Wildlife Service far further directihn-
+
+W
+' t; ,1 Tammy Gibson
+Cc: J- Dubai's
+, 1 l ‘3‘!
+
+Manitoba Q9, )
+W
+DATE: March 23, 2007 Memorandum
+
+TO: Bryan Blunt FROM: Jeremy Angus
+Environmental Assessment & Policy Analyst
+Licensing Ecological Services Division
+123 Main St, Suite 160 Manitoba Water Stewardship
+Winnipeg, MB. R30 1A5 200 Saulteaux Cres.
+Winnipeg, MB
+RSJ- 3W3
+PHONE: 945-1007
+FILE:
+SUBJECT: TransCanada Keystone Pipeline
+Manitoba Water Stewardship has reviewed the above noted proposal and submits the following
+comments for your consideration:
+Based on regional staff experience it is our preference that at minimum those crossings with a defined
+channel and potential to carry water during spring runoff be directional drilled. This is due to the difficulty
+in stabilizing those sites when open cut trenching is used and the ongoing erosion and sedimentation
+which results.
+A number of the “isolated” crossings would carry water during spring1 runoff. lf, as indicated by the
+proposal these “isolated” and HDD crossings are done after June 15 and the mitigation proposed is
+implemented, particularly the work is done in the dry, temporary and permanent erosion an sediment
+control measures are implemented and the proponent is willing to monitor and rectify any issues, then our
+concerns should be addressed.
+Any fish salvage operations will require a Live Fish Handling Permit issued by Fisheries Branch, Manitoba
+Water Stewardship. We would like to see any site specific vehicle crossings implemented according to
+the Manitoba Stream Crossing Guidelines for the Protection of Fish.
+Our comments, with the exception of the permitting process, do not take precedent over DFO’S review.
+As long as they are involved in reviewing this proposal and manage fish habitat to meet the intent of their
+no net loss policy, provincial fisheries management interests should be met.
+A permit from Manitoba Water Stewardship is required for any drainage works undertaken on any lands
+where it is proposed to alter or divert the natural flow of a watercourse. This includes the placement of
+culverts, dykes, dams, and drainage or consolidation of any type of wetland.
+According to section 10.2, different study areas of variable distances on either side of the Right of Way
+were considered. Subsequently, section 10.3 suggested some scenarios related to groundwater, What
+will be the precautions?
+l) Where drinking water pipelines are located within the above study areas?
+it) When an oil pipeline crosses a water main?
+As with alt pipeline projects, hydrostatic testing of a pipeline requires an authortzation under The Water
+Rights Act.
+Please be advised that the proposed pipe‘iine crosses various Provincial Waterways and therefore
+requires authorization from Manitoba Water Stewardship under The Water Resources Administration Act.
+Manitoba Water Stewardship will check the location map of the subject project and notify you about the
+terms and conditions of the required authorization in due course. Should you have any questions, please
+contact Paul Dhaliwal at 2049456995.
+Jammy ﬂgaf
+
+2
+cc. R. McDougal
+‘ R. Matthews
+L.Janusz
+T. Makuch
+M. Rahman '
+P. Dhaliwal
+
+                                                    Letter of Comment
+Date: 4/10/2007 11:00:20 PM
+                                                      Proceeding Information
+Project Name:     Application for Keystone Pipeline                          Company Name:     TransCanada Keystone Pipeline GP Ltd.
+Hearing Order No:     OH-1-2007                                              File Number: OF-Fac-Oil-T241-2006-01 02
+                                                        Contact Information
+Name: Jon Kruse                                                              Address: 303 E N Heights Drive
+Title: Landowner                                                             City: Seward
+Organization:                                                                Province:   Nebraska
+Telephone:     (402) 643-4714                                                Postal Code: 68434
+Facsimile:                                                                   Email: jonandbonnie@hotmail.com
+Please ensure that your letter of comment includes:
+      ·   the nature of your interest in the application
+      ·   comments on the application
+      ·   any relevant information that will explain or support your comments
+For further information, please refer to the Hearing Order on the NEB website at www.neb-one.gc.ca.
+                                                                Comments
+                                                        Attach additional pages if necessary.
+Dear National Energy Board:
+  I am a landowner in Seward Nebraska USA. My concerns regarding the TransCanada Keystone Pipeline Project are
+found in the US Department of State Scoping Summary for the Keystone Pipeline Enviormental Impact Statement and
+the Keystone Pipeline Project Summary of Issues Raised at NEPA Scoping Meetings and Subsequent Letters. Both
+doucments can be found online on the internet. I request that both documents be considered by the National Energy
+Board. The decisions made by the National Energy Board impact the life of people in the United States and the
+economics of the United States.
+   Thank you for your consideration.
+           Jon W. Kruse
+ Jon W. KruseAPR.11‘2007 08:43l780 495 4099 EP AB division #0276 9.002/009
+. Environment Environnement
+Canada Canada ‘
+ENV 1R0 ENTAL FROTECEION a R V . _ ,s .
+PRAIRIE & NORTHERN REGION
+Win A ‘ #2 f? m : é six é? 3
+v Room 20 , 4999-98 Avenue ZﬁE m H g = $ ”
+Date: 0 04-03
+Michel L. Mamba
+Secretary
+,,,,,,,,,,,,N,ational,, ,,n¢rgy B,oard,,, . . .. ... ... . ... ... .... .. ... .. ..
+444 -— Se nth Avenue SW
+Calgary, lbena T2]? 0X8 .
+Dear Mr. V antha:
+RE: H : aring Order 0114-2007
+Fi ye OF»Fac—Oil~T241-2006uﬂl 02
+T ansCanada Keystone Pipeline GP Ltd. .
+Kystone Pipeline Project
+In accord as with the direction provided by the National Energy Board (the Board) in its
+Hearing Order O.H«L-ZOO? of January 29, 2007,, Environment Canada is providing this Letter of
+Comment to the Board as part of its public hearing into this project pmposal. The following
+commen .. y is being provided to the Board in the centext of specialist department infomation
+and knoWedge pursuant to Section 12 (3) of the Canadian Environmental Assessment A at.
+Environmnt Canada’s advice is being provided in the context 0f the following Departmental
+responsibi! ities required by legislation and associated policies:
+. Dnarrment ofrhe Environment Act
+- M2 mrory Birds Convention Act and Regulations
+0 Spcies at Risk Ac!
+0 C ' adian Environmentai Protection Ac!
+0 Federal Policy on Wetland Conservation
+In the» prejaration of this Letter of Comment Environment Canada has reviewed the following
+documem‘ pmvided for this assessmen‘i:
+i
+0 K9: stone Pipeline Application, Volume 1 of 2, TransCanada Keystone Pipeline GP Ltd.,
+De ember 2006.
+s c Kc stone Pipeline Application, Volume 2 of 2, TransCanada Keystone Pipeline GP Ltd,
+De; ember 2006.
+E .
+E
+Canad . 5; ’ EP/SMART/780~6544 1
+
+APR.11'2007 08:44‘780 495 4099 EP AB division #0276 9‘003/009
+Environment Environnement
+Canada Canada
+. E vironmental and Sociouﬁconomic Assessment for the Canadian Portion 0fthe
+' K ystone Pipeline Proj cot, Volume 1, TransCanada Keystone Pipeline GP Ltd., ‘
+D camber 2006.
+o E vironmental and Socio~Bconomic Assessment for the Canadian Portion of the
+K ystone Pipeline Project, Volume 2, TransCanada Keystone Pipeline GP Ltd.,
+D camber 2006.
+Enviromn .1: Canada has raised several questions and made several recommendations, outlined
+in bold tv e, in the commentmy that follows.
+i
+E
+§
+f
+Canada; EP/WARTﬂé’O-«éﬁzz 2
+
+APR.11'2007 08:44 780 495 4099 EP AB division #0276 9.004/009
+. Environment Envirennement
+Canada Canada
+I COMMENTARY
+PROJECT DESCRIPTION
+The prop sed Keystone pipeline would extend ﬁom Hardisty, Alberta to Wood River and
+Patoka, Il inois in the United States of America. The Canadian portion of the proj ect would run
+' from Ha: isty to a point near Haskell; Manitoba at the Intemational Border.
+The pipel e would include two parts: conversion of approximately 864 kilometres of an existing
+natural 3 ,. Pipeline m S&SkﬁtCheWﬁﬂ and. Manitoba to permit the transmissionof oil and . - -~ --- ~ ~-
+' "' " ' ' "consume )3 of approximately 371 kilometres of new oil pipeline in Alberta (268 km),
+Saskatche an (3 km), and Manitoba (100 km). Pipeline construction will require a 30 metre
+wide righ of-way (ROW), consisting of 20 metres of pennanent ROW and approximately 10
+metres of emporary workspace.
+The porti n of the proj eat that involves the conversion from natural gas transmission to oil would
+also requi e the commotion of 9 pump stations and would include 19 electric pumping units.
+The porti m of the project involving the construction ofnew pipeline in Alberta and
+Saskatche an would include 5 pump stations With 15 electric pumping units. The portion of the
+proj eat in >olving the construction of new pipeline in Manitoba would include 2 pump stations
+with 5 ele tric pumping uhits. Pump stations will require 1.5 ha of land each including
+tempor workspace. The stations will have pump pads equipped With drip pads that will be
+drained in 0 an undergound sump. The sumps would be double-walled tanks that would be
+monitore- as part of Keystone’s proposed pipeline monitoring system.
+The proj t would also include construction of 3 operational tanks with a total volume of about
+1,050,000 bbl, associated manifold piping, and control and metering facilities at Hardisty,
+Alberta I he footprint for this component of the proposal is estimated at 13 ha.
+ATMOSP ERIC ENVIRONMENT
+Project rel ted air emissions include emissions of criteria air contaminants (CACs) and
+greenhous gases (GHGS) from construction and fugitive emissions of H28, volatile organic
+compounos (VOCS) and meroaptans ﬁrom operation of the three oil product storage tanks.
+Constmctin emissions are expected to be the most signiﬁcant source of GAG (802, N OM CO,
+PM, THC: and GHG emissions. Consfmctien emissiens were quantiﬁed in the environmental
+impact statement (EIS) and are expected to be short-tenn and transient in nature. The Alberta.—
+Saskatche an and Manitoba portions of the pipeline are estimated by the proponent to take 90
+deys and 100 days for construction completion respectively. Construction of the storage tanks
+wﬂl take 1 55 time. Construction of the pump stations is expected te take approximately one
+yeah g
+E .
+Canadﬁf EP/SMAR 777304544 3
+
+APR.11'2007 08:44 700 495 4099 EP AB division #0276 9.005/009
+‘ '1 Environment Environnement
+0 § Canada Canada
+Operatic. :2] emissions from tlu'ee new oil product storage tanks (350,000 bbl each) at the Trans
+Canada Ppeline Operational Tank Facilities include fugitive emissions oszs, benzene,
+ethylbenzne, toluene, xylenes and mercaptans. Total emissions of H28, benzene, and
+memapt s from the three Keystone storage tanks were provided in the EIS. The storage tanks
+are locate directly adjacent to the existing Hardisty Complex where there are already 43
+existing 0 1 product storage tanks storage tanks, pipeline terminals etc.
+Dispersio modelling was conducted by the proponent to detennine the potential adverse effects
+on ambi ~ t air quality in the area surrounding the Hardisty Complex asseeiated with operations
+phase emisions from the pmposed Pipeline Operational Tank Facilities. Predictions were given
+for Baseli :3 (existing and approved developments), Prcjeet Alene, Application (Baseline plus
+~’ Project) , V d Cumulative Effws Amse‘mmt (CEA). Cases- .Estimated .tankemissionswere. _ _ ..
+' ' ' determine by“C1em-smne'Engineerirzg assuming CCME guidelines for Aboveground Storage
+Tanks.
+Maximu predicted concentrations fer H28 and benzene in the Project Alone Case were all well
+below A] erta Ambient Air Quality Objectives (AAAQO). There :is currently no AAAQO for
+mereapt- 3, however 1-hr maximum predicted concentrations of mercaptans were below the
+Ontario inisters of the Environment Ambient Air Quality Criteria.
+Maxim . predicted ground~1evel concentratione of H28, benzene and merceptans in the
+Application and CEA assessment cases were all below guidelines and are predicted to occur
+along the .oundaries of the Herdisty Cemplex er the Pipeline Operational Tank Facilities
+Property.
+Predictio x of maximum concentrations at 20 sensitive receptors were also proﬁded for each
+assessm » 1; case. All predicted maximum values of H28 and benzene were well below the
+AAAQO.
+Mitigatio proposed by the proponent includes equipment maintenance? use of low sulphur fuel,
+dust supp essants (water, tackiﬁer, other approved products or reduction of vehicle speed),
+scheduling, and minimization of disturbance and reduction of idling. Internal ﬂoating roofs will
+be used 0 the storage tanks. The proponents are also plazming a computer based leak detection
+system. addition, burning will not be allowed on facilities sites without permits.
+Based on ‘ he information in cluded in the EIS, and considering the methods of mitigation
+planned y the preponent, Environment Canada has concluded that the TrensCeeeda
+Keystone ?{Pipeline Project is unlikely to reeult in eigniﬁcant air quality impacts.
+EMERGE CY RESPONSE PROCEDURES
+The prope ent addresses the subject of accidents or malfunctions at several points in the
+documen tion, for example: Volume 13 Section 4.7, Malfunctions and Upset Events, Volume 2,
+Section I g Accidents and Maiﬁmctiens, and Volume 23 Section 18 Enviremnemal Protection
+Canada] EP/SMART/780-6544 4
+
+APR.11’2007 08:44 780 495 4099 EP AB division #0276 9.006/009
+Environment Environnement
+Canada Canada
+Plan, Sp aiﬁcally: Appendix E - Contaminated Soils Contingency Plan, Appendix F ~ Directional
+Drill. Mu Release Contingency Plan: and Appendix G - Spill Contingency Plan.
+In these 5 cations the proponent has provided a general description of Emergency Response
+Proced a , including the level ofpreparedness, safety, response capability and procedures in the
+case of «. mergency. The proponent has provided some detail to understand how the
+Emergen «gr, Response Programs would work, including the identiﬁcation of mergency
+condition , response procedures and the steps that would be taken to notify or inform all persons
+Who may 6 affected.
+However Environment Canada staff believes that there is still a requirement for more
+detail in, V, {??ystm’? ‘e‘mergﬁncy reapensa precedures _ The. follcwing narrative. is a 1ist.of.. . . .. .
+
+' ' ' 'iﬁformati a 11 needs that Environment Canada- recennnends. It is our opinion that some but not all
+of these i 'fonnatiOn needs have been addressed in the documentatien. Environment Canada
+recomme -. d3 that the preponent demonstrate to the Board’s satisfaction that its emergency
+response . rocedures have met the following information needs.
+
+Environ ant Canada recommends that in developing Emergency Reaponse Plans, the
+propane should include the following information:
+
+21. An inventory of petroleum products, chemicals and other hazardous substances
+and associated storage facilitias and locations to be used during construction and
+aperational phases.
+
+b. Identiﬁcation of resources (equipment and staff) to he onusite and/or available to
+respond to envirom'nental emergencies.
+
+c. Procedures for responding to spills and releases including an incident reporting
+and notiﬁcation system.
+
+(1. A list of response organizations and their respective roles.
+
+e. Cleanup and disposal procedures for generated wastes.
+
+f. Monitoring and follow-up procedures to ensure that restoration. measures are
+effective. -
+
+Environ. ent Canada also recemmends the proponents’ Emergency Response Plan also
+address:
+
+g. The types of emergencies that might reasonably be expected to occur, including
+
+; potential on-site and off~site consequences:
+
+5 l1. Preventien (evaluatien of risks)? Preparedness (raso-urces & training): Respense
+
+é (noﬁﬁcaticn & mobilizatien of resources) and Recovery (assessment of damages.
+
+f and restoration of envimnment).
+
+i. Involvement of communities, agencies, boards and stakeholders who may be
+
+impacted by an enviromnental emergency or involved in an emergency response
+
+Emergcnc Response Plans should be consistent with industry standard publications such as
+Emergency Planning for Industry (CAN/‘CSA-Z731).
+
+i
+W; EPXSMARTX780~6544 5
+
+APR.11'2007 08:44 780 495 4099 EP AB division #0276 P.007/009
+' , Environment Environnement
+
+Canada Canada
+
+!
+WILDLIELE
+
+1
+Alberta ;1.u ent Sheets
+Alberta a ’gnment Sheet Nm'nber 8: at PMZ21. CWS netes that the pipeline ROW intersects the
+adge. of a : arge wetland basin. Environment Canada recommends there be minimum 100m
+setbacks i. om wetland basins, irrespective of whether they are wet or dry. Other examples
+include ,1 gnment Sheet 19 near T8172, Aligmnent Sheet 22 at PM61, Alignment Sheet 23 at
+882.2621, = d Mignment Sheet 31 at CA131.
+See Ali : ent Sheet 8 at PM233 where the pipeline crosses a large linear wetland.
+EC reco _ mends that either the ﬁr'dpéheht aireai‘...1 arm at :‘h‘ima‘tion‘ or absm‘em‘ ' ' "
+recomme ded 100 m setback to minimize impacts to the wetland.
+Vol 3 1 Sectio 3.2.2A1temative11 subsection 3.2.2.2 Routin '0 tions - Alberta
+The routittg Options for Alberta for both Alternative II, which was the chosen alternative and
+Alternati e I, which was the rej acted alternative, did not identify nor compare the amount of
+native prﬂ‘rie that would be crossed. For the chosen alternative, see Table 3.2., Options 1
+through 3
+Secondly it is unclear why the proponent did not do an overlay of the three route options
+considere in Alternative II with Figure 9-3, in Section 9 Wildlife of Volume 2. This would
+have p ﬁtted a relatively easy visual ccmpariscm of the extent of native prairie vegetation
+crossed b : the three options of Alternative 11. Neither is it apparent whether a combination of
+the three outs options was considered by the proponent. A combination of Options 3 and 2 may
+have min' .ized impacts to native prairie While avoiding the “Class A” South Saskatchewan
+River cro sing. For example, were might be beneﬁts from using a route that follows Option 3
+from Hat isty to Oyen, then follows Option 2 and rejoins Option 3 at the South Saskatchewan
+River crosing.
+Environ em Canada recommends that the proponent discuss the potential extent of
+impact 1: r native prairie 0f the three route options or any combination of portions of the
+three mu 6 Options and. to factor this information into the route selection process.
+NOTE: 6:6 is a table (Table 9-4 8 Length ofPipel'me .[nterse-cting Native Prairie in Alberta and
+MmitobagSecticvt: 0f Project} presented in Volume 2, page 9-75 that previdaﬁ infomatiop. 0n the
+overall I gth of native prairie in Atbeﬁa that waul'd be impacted by pipeline censtmction.
+Hewgvsr. this table provides inﬂammation solely on the chosen route altsmative and option and
+does not rovide a comparison with the route Options that were rejected. .
+Volume 2 . Section .18. Seed mixes in A endix H of the EFF.
+aniro . t Canada notes a high preponderance of wheat grasses in the seed mixes and a lack
+of ferbs. ?nvimnment Canada recommends the preponent add additional ferb species to
+
+l
+Carmﬁ EP/SMAR T/780~6544 5
+
+APR.11'2007 08:45 780 495 4099 EP AB division #0276 P.008/009
+” Environment Environnement
+Canada Canada
+the upla :1 mixes to provide a better balance. Environment Canada also recommends that
+the prop nent use local native ecological varieties in reclamation, especially in areas where
+large tra ts of native prairie are crossed. Preplanning may be essential to assure supplies of
+the reel ation seed mixes. _ ‘ .
+V0 6 . Section 8.5.6. Wetlands
+WETLA D POLICY
+The Fade 211 Policy on Wetland Conservation promotes the wise use of wetlands and the
+promotio of wetland protection through adequate consideration ofwetland 0011061113 in
+environm- tal assessments of new development proj acts. The policy promotes the maintenance
+, ,. , ,ofthe fun. tions and, valuasderived .fmmwetlands thoughout Canada, enhancement. and. . . . .. .. . .. .
+rehabilita ion of wetlands in areas where continuing loss or degradation of wetlands have
+' reached c ‘tical levels, and utilization of wetlands in a mmmer that enhances prospects for their
+sustained v d productive use by ﬁxture generations.
+Although e proponent has undertaken signiﬁcant measures to avoid a munber ofwaterbodies
+there are till a number of wetlands and dry wetland basins that will be impacted by the project,
+yet the as essment of impacts to wetlands appears insufﬁcient. Envimnment Canada
+recomme ds the proponent identify the amount of wetland habitat that will be affected by
+the proje t (in hectares) and identify how it will comply with the Federal Policy on Wetland
+Conserv “on including the potential for compensation for loss of wetland function.
+Volume 2 Section 9 Wildlife
+Table 9~1 age 94 shows data requirements (timing restrictions) for species at risk.
+Envimn em: Canada recommends the timing restrictions for Burrowing Owl be modiﬁed
+to April 1“ to August 15 500111 and August 15 to September 15 250m. ”
+Environ ent Canada recommends that data on all species at risk wildlife observations be
+forwarde’ to appropriate data management systems to improve baseline information on
+species.
+0 In Alberta: Alberta Fisheries and Wildlife Management Information System
+0 In Saskatchewan: Saskatchewan Canservation Data Centre
+. In Manitoba: Manitoba Conservation Data Centre
+Figure 94:8 shows a proposed pump station (Bindloss) that would be located within one
+kiiomcter ‘f sever} avitm species at risk 11th or burrows arid 0116 mphibiaﬁ species at risk
+population; As this would be a new pump station. it is unclear why this site was chosen given
+’ that there is a high dcnsity of specias at risk in close pmximity, Ehvimnmcut Caha'cla
+recomme ds Keystone clarify whether it considered alternative locations for this station
+and justi the selection of this site over other alternative sites.
+If the pro , nent convinces the Board that the station must be located at this site, then strategies
+for mitiga king potential impacts to species at risk become paramount. It is reassuring that the ‘
+dacnmentﬁtion makes speciﬁc mention of mitigation measures for the Bindloss site, see Volume
+Canadﬁi EP/SMAR 77780—6544 7
+
+APR.11’2007 08:45 780 495 4099 EP AB division #0276 P.009/009
+I Environment Environnement
+I Canada Canada
+2, Subsecion 9.7.2.3 Mitigation and Effects Management, page 9-1 11.. However, as it stands
+this sectin does not appear to discuss potential follow—up mitigation that may be required as a
+result of .ost construction monitoring (e.g. sound mufﬂing, construction of nests or burrows for
+species at risk). Environment Canada recommen ds that should monitoﬁng programs at the
+Bindloss '-ite determine that operations are causing a disruption to species at risk, the
+propane e t identify and apply an adaptive management approach that would ensure
+mitigatio . for any of the identiﬁed impacts.
+With raga d to Table 9-25 Site Speciﬁc Wildlife Mitigation, the proponent states that, where
+constructin activities occur within setback distances for Species at risk, it Will monitor nest sites
+to ensure o disturbance. Environment Canada recommends the proponent make all efforts
+to avoid onstruction and high disturbance reclamation activities during the time periods
+' " ' " that'spec‘ es at 'ri8k' and'migmto'ry'birds are" 'neStin'g/bréeding; Should a'CtiVitie's occur " ' ' " " "
+during t- ese time periods then, Environment Canada also recommends that wildlife
+biologists monitor the nest sites. The biologists shall have expertise with species at risk,
+includin the ability to identify stress in individuals and exposure of nests and young to
+predator and the elements, t0 ensure that disturbance does not occur.
+DRAFT RBENING REPORT
+Environmnt Canada’s understanding 0f the NEB public healing process is that following the
+close of e oral portion of hearing, the NEB will release a draft screening report for comment.
+Environ. g. ent Canada requests receipt of the draft screening report once it is available.
+Sincerely,
+( “1‘"? f é
+Shauna Si urdson
+A/Region-t Director
+cc: M . Dave Murray
+agar, Regulatory Services -—— Facilities
+Trs. sCanada PipeLines Limited
+45! First Street SW
+C :gary, Aiberta ”f2? 5Hi
+MII CI Kemm Yates} QICé
+Stikeman Elliot LLP
+43 0 Bankers Hall West
+88 Third Street SW
+CaIgary, Alberta. T20 5C5
+Canadﬁ EPXSMART/780~6544 3
+I
+
+APR.11'2007 08:43 780 495 4099 EP AB division #0276 P.001/009
+Erwiwnmenza Assessmen! ' '
+Environmenta Protection Operations .
+
+Prairie & Nan Emnronment Canada
+200, 499998 Avenue, Edmonton ~
+Azbena. T88
+To: Mic e! L. Mamba, Secretary National Energy Board
+Fax: (403) 292-6503
+From: M rcia (Administrative Assistant) on behalf of Mr. Andy Smart
+Date: April 11, 2007
+a Note- I Comments: Hem i$ the miter of cemments on:
+File OF-Fac-OihTZéllthOOG-Ol 02
+TmnsCanada Keystone Pipeline GP Ltd.
+Keystone Pipeline Project
+Original 15 er will follow by currier today.
+This com : unication is intended to» be received only by the Individual to whom it is
+addresses It shows! not be read by or delivered to any other person. Unauthorized use
+may resul' in the breach of certain Ia ws or the infringement of third parties.
+If you ha 6 received this fax in error please notify us immediateiy by calling our ofﬁce
+(coiiect, i necessary) so that we can arrange for its return. '
+Phone (??(?)952 43858 '
+Fax ( : 0,3495409‘9 ‘
+~ Wank yet: far your assistance and m-operatian‘ _ ‘
+f
+;
+i m
+i
+
+”2 APR~12~2007 THU 03:45 PM Transport Canada Program Fax N0. 2049835048 P. 02
+I I 'lfanepod Transponts
+* Canada Canada -.
+
+3“E Floor~344 Edmonton Street m ' _ i ‘  ;
+
+wnngpeg! Manitoba ; h . . .
+
+R30 0P6 . M N mg m;
+
+' Aprii 11, 2007 5E eurFﬁé-at E? 811%-?)
+
+444 —- 7m Avenue SW.
+
+Caigary, Al
+
+TZP 0X8
+
+Attention: Michel L. Mantha, Secretary
+
+Dear Sir,
+
+Sggiact: Tranecanada Keystone Pigeline GP Ltd. -- Agglicaﬂan fer Keystone Pigeline
+
+Transpert Canada has reviewed the applicatien for the Keystone Pipeline submitted to the National Energy Board on
+December 12, 2006. .
+
+Transport Canada's integest in the Praieet
+
+Transport Canada issues Navigabie Waters Protection Act (NWPA) approvals for watercourse crossing across navigabie .
+watercourses. NWPA Approvals issued under Section 5(1) or Sectien 6(4) of the NWPA require that an environmental
+assessment be conducted under the Canadian En vironmental Assessment Act (CEAA). The proponent has identified 16
+watercourse crossings in Alberta and 40 watercourse crossings in Maniteba that comprise part of the project. Transport
+Canada’s NWP office has reviewed the information previded on each of the watercourse crossings and, based on the
+information provided to date, has been unable to determine whether or not NWP approvals are required for these
+watercourse crossings or which type of NWP approve! may he issued for any crossing. Additionally, NWP applications for
+approvals may be required for any vehicle or equipment cressings over navigable waterways. Accordingiy, Transport
+Canada has advised the proponent to submit NWP applications for each crossing to Transport Canada’s NWP ofﬁce. The
+NWP ofﬁce will review these applications and advise which types at NWP approval will be required for each crossing.
+Trans: art 031 adg ’..!ﬂ............m..........ti the .___.._...._.........E ms
+
+Until such time as Transport Canada's Navigabie Water Protection Office receives applications for approval under the
+NWPA and can advise of the type of the approvals that may he issued fer the project, Transport Canada's Environmental
+Affairs is proceeding under the assumption that there may be CEAA triggers (Le. issuance of an NWP Section 5(1)
+approval) for any at the watercourse crossings associated with the project. Accordingly, Transport Canada is participating
+in the cnordinated federal environmental assessment review of the project to fulfill its duties as a Responsible Authority
+under CEAA.
+
+Transport Canada intends to limit its involvement in the environmental assessment process to those components of the
+project for which it has a CEAA trigger (Le, watercourse crossings of navigabie watercourses requiring an NWP Section
+5(1) Approvai). Accerdingly, Transport Canada intends to restrict its input into the NEE prepared screening report for the
+project to watercourse cressings cf navigebie watercourses for which ii: may issue a Section 5(1) or Section 6(4) approval
+under the NWPA.
+
+Other Matters
+
+in Section i3: Other Autherizatiehs, Appendix “i3-‘i, Tabie “3331-1 centains a reference to a “permit for exception“ under the
+Transportation of Dangerous Goods Act (TDGA). Please be advised that the prcper wording is Permit for equivalent level
+of safety (PELS).
+If TransCanada or one of their subcontractors pians to conduct an activity which is outside what the TDG reguiations allow,
+they must make eppiicatien ta Transport Cenacia to conduct such werk and demonstrate that what they pian ta do is safe
+and wouid provide an “equivaient ievei of safety” as foiiewing the TDG regulations.
+
+f? HPR"12*2007 THU 03:45 PM Transport Canada Program FAX N0. 2049835048 P. 03
+The onus is on the company conducting this work to make an appiication for a PELS well in advance of any activity that
+requires this parmit for relief from any TDG reguiatcry requirement.
+
+Sincereiy, ‘
+Jo~Anne L. Foy
+Superintendent, Environmental initiatives Management Program
+Environmental Affairs. Programs
+Prairie and Northern Region
+“I
+Canada .
+
+QPR*12”2007 THU 03:44 PM Transport Canada Program FHX NO. 2049835048 P. 01
+l*l Transport Transparts
+Canada Canada
+3m Fioar - 344 Edmonton Street FACSIMILE TRANSMITTAL FORM
+Winnipeg, MB R30 0%
+BORDEREAU DE TRANSMISSION POUR
+TELECOPIEUR
+www.tc.gc.ca
+I Faxtot ~Téiécopiar a rm“ V I
+' Michal I.- .. Mantha
+; Fax nuzﬁber . Num‘ém Ga téééccpieur F Tempmae number - Numém :13 téléphgng
+i403-292w5503 l
+Pram: ~ De : Fax number - Numém de télécopieur
+Margaret Zellis-Skiba 20%w983u5048
+Comments: — Cammentgires : _
+Plaaae find attached Transport Canada's Letter of Cemment an the TranaCanada Keystone
+’Pipeline applicatﬁon.
+!
+E s
+f l
+, f
+l ;
+Numger of pages EnciudEng [his sham - Nombre de pages induaﬁt ééile-ci Transmissicn data - Date de transmission
+3 2 0 O 7 - 04 .. 12
+”Wk...‘ .
+: For addltiona: infomatim, piea$$ mates! me at: - Pm: ptus de renseigmments, mposer re : E
+£364~983w1392 ‘ g
+WWWW_.MWM.W-W
+Canadﬁ'
+4G~0223 {0505432}
+
+7 V ‘ v A e M. 303 E. N. Heights Drive
+, ' ‘ Seward, NE 68434
+., 5, r». w “3 USA
+"6 m A .. Phone 402-643—417 1 4
+Cell 4026410336
+Email jenandbonnie@hehnaﬂ.eom
+; April 23’ 2007
+David Young
+Acting Secretary
+National Energy Board
+., ,. CalgaryABTZPOXS .. . . .. . .
+Canada
+Dear Mr. Young:
+
+Enclosed are Ewe cioeuments (1) US Department of State Scoping Summary for the
+Keystone Pipeline Project Envimmnental Impact Statement and (2) Keystone Pipeline
+Project'summary of Issues Raised at NEPA ScopingMeetings and Subsequent Letters.
+
+I am submitting these documents to you at the request of Julie Fisk and Louise Niro. I
+request that these documents be filed With the National Energy Board regarding the
+TransCanada Keystone Pipeline GP Ltd. Application (Hearing Order OH~1-2007.) At
+the request of Ms. F isk I have highlighted the portions of the documents that I wish to
+draw attention
+
+Thank you and the Natiehai Energy Board for your consideration. A second series of
+Scoping meetings will be taking place before the ﬁnal US Department of State Summary
+is mitten. For more infomation regarding the Presidential Permit You may contact:
+Elizabeth A. Orlando, Esq.
+
+US Department Of State
+
+OES/ENV
+
+Foreign Affairs Ofﬁcer
+
+Muhﬂaterai Team
+
+Tele: 202647-4284
+
+Fax: 202647—3052
+
+{Eel}: 2403236 1 5:"?
+
+Oﬂmﬁeee@@s€ete gee
+Sincereiy,‘
+Eee W, Kmee
+
+Rev. 1, March 9, 2097
+minimize petentiei ham be or wiihin the ﬁeed plain. “The geai of any eeestmetien in
+the ﬂeed plain is to aehﬁeve the highest levei ef ﬂood protection with 21ers impact to
+adj acent preperty.” Censtruetien must follow Executive Order (E0) 11988. The project
+wiﬂ eneeenter numerous ceueties/eemmunities Which participate in the Nationai Flood
+Insurance Program. Construction in these areas must be compliant with state, county
+endf’er Ieeal ﬂeed plain 0rdinances.
+Grazgnmeater -~ Yeur plans should he eeerdinated with the US. Emhenmeete} Preteetiee
+agency, which is currently involved m a program te preteet ground water resources.
+F 119k and Wildlife —~ If not already done, it is recommended yea eenselt with the US Fish
+and Wildlife Service, the South Dakota Game, Fish: and Parks Department, and the
+Nebraska Game and Parks Commission.
+C ultural Resources -- The South Dakota and Nebraska State HiStOf'iC Preservation Ofﬁces
+should be contacted for information and recommendatiens.
+Section 404 - If any eonstmetien activities involve any work in water of the United
+State» a Section 404 permit may be required Prelimim ed ﬁeal Projectplms should . . . .. . . . . . . . . . . .
+” ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' " " ' 'b'e'sent'to beth thepi'erre Regulamry' Ofﬁce and {he'Weh-rspann Regulatory Office
+G US. Environmentai Protection Agency, Region 8, Nevember 30, 2006 -— “Region 8 is the
+lead region for the EPA on this prej eet.” “Our primary concerns are with any potential
+wetlands and water quality impacts, the control of noxious weeds and invasive plants,
+and impacts relation to Environmental J ustice concerns.” We offer speciﬁc mitigation
+recommendations (attached) for the following ten areas: 1)Pretecting wetlands and
+riparian areas and associated ecesystems, 2) Mitigation of wetlands, river, stream, lake
+and riparian. impact areas, 3) Protecting greund and surface water quality, 4) Protection of
+air quality, 5) Road and construction issues, 6) Environmental Analysis ﬁndings from
+Canada, 7) Noxious weeds and invasive plants, 8) Effects on vegetation, wildlife habitats,
+and area hunting ﬁshing, 9) Cumulative Impacts, and 10) Potential project effects on
+Iecal communities, and reasonably foreseeable development considerations.
+3.2.2 Public Comment Letters
+In additien te verbal comments and cemmem farms (summarized in Section 3.1), public
+comment letters have been received from individual landowners and other concerned parties. The
+letters incorporate many of the comments and questions outlined above in Sectien 3.1.
+Additional topics not covered are summarized below:
+Environmental Consequences
+Soils
+E. Disease impacts 0;} land Within St. Charles Ceehty; eeil instabilities created by the
+pipeline would have eeenemie effects en farming in the ceuety fer 3~S years.
+Fig}; {zed wgieigee
+3 Disease imeeeES eh: pheesee‘is end heave: e: adéiiéee ea geeﬂ eeé mrhey
+Vegemzfee
+1. Discuss the protection Of Old grewth native timber especial 1y in the vicinity 0f Lincoln
+Creek h} Nebraska
+Keysteee Scepieg Summary F i113} Rev} 9
+
+Rev. 1, March 9, 2007
+2, Acidress concerns; related to maintain “ehemicaliy free” status as an organic farm.
+Surface Waters and Fieeding
+
+1. Discuss impacts on ﬂood protection such as dikes and the use of terracing especially in
+the area of Seward Nebraska. Farmland in the impacted areas weeld be more prone to
+aggressive ﬂeeding end eresien.
+
+Growedwazer
+1. Address impacts to the Lane Bear Aquifer in North Dakota.
+Other Issues
+m V V V V V V V V V V, V V V V V V V, ,1 ~ V ,V Address ismrﬂateé t0 emOtWIStrejss ef 1334mm in the right-0f+ways. ... . .. . . . .. . . . . . . . .
+
+2. Senator John 0. Jones 54‘:h Legislative District, Illinois, wrete in support 0f the Keystone
+pipeiine project on October 25, 2006.
+
+3. On November 28, 2006, Curt Helm, WEB Water Development Association General
+Manager in North Dakota, wrote with several cenaems regarding the impacts of the
+Keystone Pipeline on the rural water system and the rural community served by WEB.
+The concerns include that in the event of a spill or leak, the PVC waterlines could be
+
+' breached end the water supply contaminated. The letter suggests that the oil pipeline be
+encased in a second steel pipe for 300 ft on either side of the water line were crossed. The
+letter also states that the EIS should address the emergency response measures in the
+event of a leak or spill. WEB recommends that emergency response personnel be
+stationed at intervals of not less than 70 to 90 miles. The EIS should also address the
+effects of a Spill or leak on the J ames River basin. Before a permit is issued a sample of
+the crude oils should be taken and analyzed to determinepotential impacts en PVC pipe,
+soils, water, air quality and the environment. Other issues discussed in the letter include
+giving sufﬁcient peter netice fer ceestmetien cemmeneemeet (2-3 weeks), creating a
+dispute resolution process, requiring that all road crossings be bered rather than open cut,
+and providing a toll-free hot line for project concerns and complaints.
+
+Keystone Sewing Summary Fina} Rev} 10
+
+iii
+.4 313 Qua
+£90310 5"“ mm
+.m-*“ Q's .1353 no.“
+”QT: BM 5:: 0 3 a e.)
+0:: ""‘csI-«e >0 §I> c: ~
+Q . (c “6 Q) 091% H .—1
+.m (a :3 . o\ Gggc" >940." 0'3
+?h *’ 3 c: o “'5 '4'" o :6 ‘39 ;>~.‘3
+g agdggagg $53 gga'égﬁ §§5§3§§ Q3
+(0" H‘" o “J: '“o f“ "“
+Q1) 0 “mm“. (and m “G we 9H3, CH 0
+g § §§2%a§<% ﬁg §8§§§ aavév° ﬁww
+g 8 Omaﬁiaggé gem :éaazg ga.§“§§ Egg:
+735" amiss 9‘00.“ thug Eﬁook‘: 085?:335 3‘3 0
+gm? toga 2mg °g omsav wvaoag mu"
+' {53:2 0o”,2<§""3 8-5 .Eoyo>\ vgm‘ma’u ‘53:: o
+:9 a 3.3m,“ 03a) . 8 mg 9,960 ca
+2:333 mgmgg‘vgﬂg §§ nﬁgag g.grgvﬁ“ EE :5:
+a2 .H,mmmw ac Eazm mmooﬁ 0:
+808 “Ev“ﬁﬁﬁﬁ m“ agmxs vo£§0 Aw
+moan,“ ”gagmw0> OQ r1230” 0551313.... 3'33“
+yaga §%§§3§§5 ﬁg ggga; 33%8§§ $3
+:3,” ‘3 35w % ma wﬁﬂg‘ﬁ ”amgmo {Ho
+.&&§ 33H“<§£ go egaau ﬁe?§%§ 0:
+aga zaéaﬁgaﬁ g; gmam§ $08 ”9 Q“
+gvg bégéavaﬁ g“ @ﬁﬁﬁm £§§§5§ 3%
+«gm a-mmovam o3 saga sgﬁaa «a
+358 o ““§%~85§ $885“ Ewgwﬁﬁ €M
+Q “MA. {303' “(H‘Hﬁo :8 v6.80 3....
+08;“ GNQ'gggﬂ mm 0 am“ p‘QHgW-Ué 9‘3 '
+HOQ‘ mom. 3:35 7-3 mm“ "D G m ,9
+aag aéaéﬁggé %§ gaggg gégggg g3 H.H--ww
+1725‘ 00 ‘34 ‘. :5 RE '53.“ -. MW‘U
+H S: g $23 ‘2‘ QJ- O a - 0 q... 9.1": _(2) “030 g :3 .S :3
+550,8 ”é .3033 Egm-ﬁ‘o‘.m..§93 “qu‘aog O
+‘3‘: 3a<§wmwn mm..<.-~o"3”§ﬂ§¢¢ wmoga‘w 83
+3' "" ©093$____§,a~--m00 g. ...._ ”LSUH>>>‘ 2*?
+ggg mg§gﬁgggﬁ §§E§g§3§ §8d§§a ﬁg
+"c: o my; 9* a: 95:63»; ..--.'.~::’ .3; >5...
+08¢: mOwaomog gga "U.~¢3.-m E30500 w... No
+,3 v (M _ c: 53 ._. - N .
+mvwvv $33 gﬁggﬁaﬁv égo Bagég §£§ﬁ§§ $3
+" % vg'ng ﬁL§>‘>\..H?§g 5%)", maﬁa _"f3m00$ N8
+gv gala gémwa‘aoQ >95 gmgwo “agﬁgmv 5 -
+__ V 9463 «aemumwga ”ﬁg; '8-""-§*d$ m mow» mm
+9 ms w 388 (mm a ** a g >- 1L~m$°£ '"6
+I—l ELEQ hmmdn‘ggo «Cd? 80 (D u“ w M
+m 0:: a cue»... u; 8 mmmﬁ.“,_c: 0")
+«a ”‘60 “Swag” ”:2. 5-5:: ‘aa‘HazmM £123 ”gm 135
+' ’5 35“ “3333 2““ 0“ mmmmn 230%” 2::
+s “ME éhw=g%mac *H~m vaav= °s°ﬁ 3 w
+6" 9mm Him“ :7:qu “Q‘s: Scams» ﬂag Em S
+0 39*» “Ciao 000 08:6 ;...._ 30:3 h _o."..:‘ a) ._.
+m 992+» ‘3 “€94 "“M 1'3 0'5 >54 H'Muo 6' 0“”
+g -§g° ”éaoaéég “3% ﬁﬁg2° Hggmﬁﬁg E8
+- .m m *0 . m
+m 93?, Eng 3.2..m3”; Ema ?agwau 'E‘E‘oZuDS“ 9';
+g 88%, gaggﬁmgﬁ :wa Rﬁﬁowé aggﬁogo $3
+es tea": “3 mvoﬁwan- "“3” “N :21CM mﬁi§>mk 4...
+cu.“ " 53¢! HE D >~. - O a.) (3 --‘ g1:
+m Momﬁ Mo . A a 00 0 mg a m>
+Hg.» aaga g-ngsggg gag mgsgg'g «a‘ﬁEoEgg mg
+. .N m“
+33 m 2“E% ﬁﬁﬁgﬁ Sﬁ avg §m§0>g ﬁhmﬂ“
+mm g “33:1 ﬂvﬁts'm $34 0.9:: 93‘3“?"
+8° e gaaa omwsgmge mm”
+m: ah 'c‘a’c'g ﬁ‘i‘ji‘iﬁ v
+0%” 33 £53“
+£3
+0::
+gut.) [x
+1‘ U)
+gg m w E
+3m Idgf E
+&Z gaze» g.
+g? “Q9 . o
+3 , ﬁzz“ Q
+03 .“ﬁ: _ I
+a & .ﬁgg a
+m U .Bﬁﬁ :3
+8 g 244 E
+:3 0
+Q E “a
+H Q) M
+“A > m
+o » y 8
+% m g
+{a o o
+> (I) (O
+E g - g
+E . 63 m
+:53 3.22 s
+O": M
+33“ “5“
+0:: 5
+, .Hu-N .
+§3§ ’%
+i :8335 g
+,438? {E .
+i e was .
+3 saga m
+E »3€3 Q) ‘33
+a c3359 8
+i as.“ :> E; .
+,‘8'8‘5 0
+800” o
+hm p}
+Z £mOE> (j
+L4
+>¢3ng s.
+E 4,9233 _ 5
+“53% a
+Q 396$."
+,0 '5’*§>“.~ a,
+gay aﬁww“ Z
+., » :3 N 0
+i2: . w'ﬁﬁ , ,0“
+m 333;“8“, m g
+}Q 3363ng .
+8 gBBwM mmwm_mmmmmwmmj .
+E
+,m%
+m ~~
+
+I a g {,5 g
+0 8-; C38 >3 ..
+CH ‘13 \D a-D d)
+.5: “~33 '6 cm 3 Q, 351:: .
+9-. 05,8 N :3 Bid 6.} >~.
+9<ﬁ 9-4 ”.2: .5300 oh mg
+.53 E 08 *5 g”nm £1.05, ..... E
+“0"“ M E *3 *“ «E&zc mmw
+Ema 930v .“msﬁowﬂ ”§a
+o>sx 56552320” “’09.,« .2:-
+ds'g...‘ wosoopuxzmggmﬁ' H4913
+rm V ﬁgoﬁgur—‘Ow'gm ‘Hbﬁ
+€03 3%aﬁw3e3ma53 éos
+5.3 3“.”g’Zv-csg58‘5r: 0°95: b
+No» gwgc-s 4:) H 9““ 35'5” m
+~36 gaggwgaﬁggw: ”a3 w
+335 Wndéggggﬁggb §w§ 1 3
+3mg ﬁgﬁmwogmugég can 0
+“go ana,3mgaauga m3§ w
+.gn‘ﬁ 33H0:.m'a§32m3>~. 3:530 53
+“w,” 3"”.SDQNOUDMQ ems
+00‘” 539...... $333 win M 0
+H00 3,amog)oo—§q-_=o_ gum .
+gwm @ggﬁoa3932nﬁ ms;
+mgv aovammpﬂgmgo ago
+mag ”“0000‘95403‘ H .M 3
+Mom ouxﬁn§4>n *c: :3 a
+op. .am: mane? m ... 8
+noé @3459“ muggy“ 'Go
+§ﬁm £3 éﬁﬁéﬁésaﬁ 33E
+.93 H'MF: 0 5.35.2 g: 00 .
+a;§ vgﬁﬁxggﬁgaagv 32%
+o. @H'" 5.3'
+Bug gmgwa.§6mox°§§ vwg
+a c: m‘wm.omm «5 £6,
+mﬂﬂ,, gag §§<3m3§%$253 825
+, ,, W ,,,,....N..M....$...€>...m..0. ...:<s...::.'.§.tm.c:. ""0
+o: 023 mﬁomggsggawﬁ mmg ~ '
+a a2« §g§§33§=ﬁﬁﬁﬁ ' a§a
+1—1 "a'i-«g O&kgoﬁmngW5 .aga
+« 3gb m3§a$w33°3u3 -£%a
+3 ﬁg“ ”W0g3£§“8£§a wwﬁ
+a bag 34133056 $3.30“ .Q, $80
+* Vg~o a haemagmn g a . ¢
+3 ”<1: . gﬁowwom‘" ?W” C5 '2:
+.ﬂ L60.” N «642 bnﬁpd'u @0133 0-33”
+xm—n “t3 WOG'ﬂmsuggm-B » ”mac"
+5: 33‘: g 30mg‘gnv-.m‘338 whg
+, u J25 N aﬁ$<os§§omae. $3?
+a moo .4 308m“0 08*“ "3"~ E...
+a Mpg“ 4... uoﬁggg wbwqm ___;M--
+o. ,3...._.<§.~_»%Fﬁ_ m gamma; ~H°
+m £1409 .8 «Hog mm Q.- 3.gg-.M. _ . Mag.“
+-. Hﬁhmm 0‘3300‘9 m Ehoumg @130
+“a ”woo” QHM- _m,::ﬁ€ ”‘g>-« «a
+U. D m m 00"“ “C33 ”Hg” +3.13
+.25» 8°§§= «9££Q%5°2oagu«> -aws
+a8; .5 38% gﬁwﬁﬁmEZmﬁang _c:8;i_
+£24: c).'*‘““§’§ ovﬁwgg gmaouﬁm gwm.
+% ﬁnﬁg“ “Egg“oe ﬁﬁﬁﬁgg 3% 3
+.. . "q Hut u-v‘ .I—d "
+gag agﬁgg’gﬁavgﬁgéﬁsﬁa-u '“%Eﬁ
+"5"" "'3 “‘0 M-«v'ﬁmmmuﬁg‘aﬁcﬁﬁ 3.1???
+“‘8 (13qu
+Em «
+§< T . s 5
+am 33 3 ‘3‘ - ES .
++5318 . . $4 «0 .5 m .
+M: In mlu w . in w
+Qi-t ” " o) ‘4') mm ‘ '
+M“ E a -a m o a Q
+"g a a £25394 0 E
+C: 0“
+£3 % i 33% Ema a 3' '
+,,*I,-! ..... .M _ ﬁ _, «3 (<3 .
+m0 g a éx uEE m x
+3h E»E 335 Egg 3 S
+g y—H-“a Z a
+H mg 0
+05° . m .mg €6.53 ca 51
+E ’Q ”'5 81—40“. ﬁquENZEQQ " w
+8 305:.>£ @0'3890‘ Q!) E
+a a Hao~°a 'Oﬁaggnaé
+:5 ‘H ' OOung-E -0 c<w u) a O
+m % ghgggg aﬁcmmagv W E
+» “a ag-aww wgmw-gg w" -
+’ w. ’Gmwwe'ﬁ G g'm'ﬁ‘t“ a i g
+‘3 gong 3.. “3398011“ .0 o
+.54 “’0‘“ £33 gm,§moaﬁ.§ w B .
+o . a» .s'cscc: :1.“ E
+: g {Gw‘é‘xa 685.10“ m‘" . co
+:0 Q6 0.2:; o ,‘Hw'cwﬁ-t . 94
+w » (1):: '5 _ Qiﬁﬂmqgm
+[ g...‘ 3° 3;: ﬁﬁwﬁw": <3) M
+. ”‘3 mo Q.’¢.,B w» .m 0330" oxﬁ ‘ m
+» $8 0 e2 mﬁbg Qﬂ§<§mfa;. 5-3 B
+it: E 'i'o‘ccm3mm gﬂwmaﬁogﬁ cs ‘ ,2:
+W3 8 33338935 ﬁﬁ‘o‘” mm‘; a $3
+, §o 0 EQW’JSQ dam §§81ﬁc C: U
+;>'w 52383} aggoggéa g. E g .
+: >~ om Mg} a—4 0 '1 ‘ ,
+fggg §S§g§$ g.gﬁwagﬁ a i g
+.9 ﬁgs s$v&35 waaa¥8<v a 'g
+~ z §<w ?goﬁ'cgg Egzogg ,g "a 33
+m . Ana
+<05) crEBmO O 3mo§>,ggo 18:23;
+2 §§8 eggﬁag 18,“ oﬁa‘c: $.95 g
+> ‘ :2: 1H» 0' ”m b ‘M ' ﬁ
+3 9§§ 35§g§> 5§§3aa3§.§£ 8
+$0 égg $$m¢§g 2““33ﬁ%0%‘3 0
+w _ aawmga .Mggwagamﬁﬁo ; »
+z;ﬁgﬁ myaxag aawsgoaca x g a
+N» §GE»¢ €3,559” 23”” §¢Ogdﬁ‘&.woy$ g '
+mgg “ w ﬁGEam omﬁgwﬁm,Mma . w
+0 £38§ ggﬁggggg 8&go‘gﬁgmﬁngg ¥ E
+U ?gmg 30:36.36“? Q‘Booﬁnﬁugww {1.2
+m “8“ 03a OM% Ow gmm 33mg ..
+m , 3°°v £<§Uagﬁgggg a
+a g 2;}
+m G w Y m Q
+.~. P" w;
+
+3 3 o
+E w H H
+38% 3m 8 ﬁ 5
+0.3 a cost: 5... 8 0 o
+wwﬁg “”3 “O c)” w @ '13
+gwsm me» 2533 Edomog g
+v 0‘3“E‘t: g?“ 0....‘89 83533455 or;
+co>€ba mug 3% ' .~ §“H-H3? 38?;
+‘33) "U 55% 3-«33‘ "'1 GEO.SOEan‘-«
+- :3 w vmc: p... m - 6:0“
+'5 0-...” «34‘3“:3 5‘3 3mg :1“
+aggﬂg org smog .c‘éoﬁwac’g 0;?
+o-w° €54 wago “gowmx 8 °”
+a 3% m cm ”uﬁw ”0 ﬁg
+.... 5y 0H0 . ;>, W “(699“«39‘
+“ £303 Ha: 0° 9 a ...... 5mm 43¢:
+'gﬁgo ﬁg? gag“ ogga va£“€8
+£95575 52:3,: 16:30.2 ' mgow‘ég’ag'as‘avc'ﬁ b.
+53%f *8” &*%Q amééggés$§3 M
+2gaﬁ Egg géag §§§§EQ§BEe3 % ‘
+,3? ”’o vu‘u m omﬁwu'g w m
+“50%:38 33‘“? Maﬁa -°&gbmgg§§§'8§ o
+guiuﬁ "ggﬂ (30 % .ggogaﬁggg‘gw g9
+sagaa :mw aééé aé§3a§3o§s§ * ‘
+m$§oz £933 Bxﬁmd Eaﬁ‘ng “80%?
+£33»? gags) 2538.5 aﬁié-gﬁg's‘anﬂﬁ
+mmz p» H cw -o&mo vaca
+%3%» a gag @253 gwﬁewggeaao
+cup @ o mawug eﬁa saaoﬁ
+sx-Sm Ewe) 0 m5 «3
+m x" mm “ﬁmuo 2‘3 330.0 E §°
+”0:239?” H'M 000 C.) "-45 :3“ 3” H
+4-»an Q76 94 0-800 “mga‘umgomoﬂ
+mw$u o ,hgow- mmgv>§ Eva
+£5g0&>; ég-ﬁgoggbé gagﬁhwfaav ‘
+VMHMVVMMHHWM g§%gs 53§§§vg§2 mgvﬁﬁgégggé
+CL: ‘5 NH? mw-i " “Ow N'OQ>ODH m' ' :3
+9;“, ,m akamog Qua» « "...,
+“97,0 53‘“ m _ m Hﬂ>‘00. E
+' a Q a H ' -- - ...m. m 0'4
+‘9' «ﬁdiémg BGQENE'Eﬁv“ “awog”35o;~>-BS . _
+g °g~£§18%§ 6.8.20.5..«029'3 8M§gﬂgag§5§dém ' ~- . ..,‘
+~—~3;2 HM -*-“ 0'43““ ' ” H "“ H
+d gggag §§§§gg§gg -a8%§%aeggea~
+ﬂ '5»; E; :33 aim.ﬁ.—.>¢u +a- ' xgggmmcmbgw _
+g g§§%§ 3953§0pgé §§“&3§*3”o’
+,, avgéu‘ﬁg 030“”??? 0 - . Um; 'nogvggg
+a mmiﬂ'ﬁt‘: ﬁ'ogughaﬁ‘ , ﬂ $O'L‘G3-mg.”
+m 0mg... - «9";1‘30 $33: - . \0 0c .-+-ac:.o....- _on 9-:
+Ha 9%ﬁz «maumgﬁgmmq cq «Soagogm gﬁﬁ
+: |*Q%E‘ asav»gogmw @ maawgmg mm
+2 “0%ss maa3§zaugg “ agagwgegﬁus
+- "5’? mo ' "ﬂ 0) .- “311‘ '13 "333(1) 90:93:30.“
+5 ﬁﬁ%m 45“; ago a ﬁg Og_ q“ .
+a_ M ...-400 .huw-MQ 503:3“: .ﬂ 0 ”Sb 08 g
+m I o E??? MoﬁwﬁF—Iﬁgaom "1"“ u) "awm5m8ﬁ§“§5
+.. “'13 '8 og .33. wagmm H ‘ “chﬁgﬂowﬁgﬁw
+Q}: m 5c: 0,5: .0“ 0.3:.“ cc c-wgb m_w_ ﬁg“
+04: m3 13 w; -ﬁ®§°wo§€ ““ “8;:“9‘H-59M ”.218-
+‘398 003% s: Ema Mmom 33 wa-HQEOmw ”3&3
+:5: *3253 aaezaiéﬁﬁg gm agaaﬁsﬁgtﬁvv
+:3. 3°13 c: g‘ggumuouam .3 Oz: G.&a§§.g3.ms
+«um obn3% ~ asa°gmwg mm omﬁoga w m
+am§ Owe"? 03’.» ..m - §‘~3"‘“‘ 8° mgu’w'cr’" ”1:31: ‘9
+m«- cm N m v-auﬁmmﬁ “ *0 H —ﬁ-°vo
+%- Ubvﬁ m$aﬁﬁgsw08 $3 dvsswéﬁab—gﬁé
+“a 094mm {19 ”J o +-' a:
+«.0 mm 2 man's: 0m _u'ﬂo
+mm uwmtfogggﬁsa
+a¢ M
+gnu 2'2 ‘3
+. Hm I a pn-q
+mz ‘0 N N a
+h m - .é mﬁﬁ
+mi... $5.. a. _N w "7-.
+'8 z Z ‘3‘ d “m ﬁg
+.23 - :2“? g Q .9; E6”:
+am 8 g; '- Z on “2%
+94"? *a. :5 a a" mm $3? ‘93
+car... g o .8 O iai‘ .gm :6
+35" m g ' ﬂ ‘3. g-M- ”mg '9"
+m ,4 :3 M33 3'53 93
+=o- ‘“ é. ‘3
+‘9 §§§R ‘8 o 3 B H ' 0
+.i-- m "w '
+u o§§g8 a Bean mo 3 w 9
+a .“sgo o w ww‘ub m“ a - “H ‘
+E m%%«“8‘rﬁ 8 m8§§ now “3 "‘ O a
+zvoéa'UEi Qx-K ’31“ $1“ '5‘ ‘2 “ '9
+E “QUE 0’ mm 0800 »C'8 3 a :3 +53
+:3 “W'oéﬁkﬁ «a “QUU__;_-Qm _.. .. o g
+”3 32%“?3 AZ“ §.ﬁ-0“°"’n +5? ‘3 3
+* goﬁﬁmg ﬁg, wgﬁggo 4, 'n a a
+*mﬁwxas Ea éaagmwh u*- “#3 ﬂ
+‘ Em§%§ g H ogagﬁgg 8% Emw m
+‘3 g ‘9 “3° ' “:3 51“” cans '19
+, 5 g.,,3.£0 “MO ”gt?" (/3ch 03...... . r.)
+: E$3§owﬁmwm a“§m 33m ° u"£ s
+Ekaai‘mﬂoaam gwm “33:219.: .9' 353/” . O
+“Eboiaﬁwa‘i’ﬁ §§“Q .33“ w 2. ‘3‘“ "3
+, ta   :08%ES3 ,6 -ggao3ﬁmﬁ.$ g “-533 g
+; ££§§zggmgg aggowﬁﬁgéu .ggm
+<3 mm”? wag Upggoéo ..V-f-m m .0” ‘3
+«8%53&03¢> *géwﬁvﬁﬁéza .233 O
+"c‘émcmg 3“?“ ’g’gogeguﬁﬁ'ﬁ £0.33 3
+P %vwﬁ % 9s £Qm0”'m"~- we“ -' m
+N‘ME’O owaag 2
+z Og,3sv£°% §Q.@g§3'*‘ EUSV g
+$22 a: moan QM wwwoﬁ wad"? “Has“; >
+woozyﬂtzg» wag 8'a°.-°.“' 3x0? E
+“5 09‘90 {LCD 0.9 g “;«»‘33€*' 0
+m3£um>£ > m ,39mdomﬁ 00 6)
+80:2: townsmb: O&M'Q‘U'mH‘Mﬂo‘D #{339‘ m
+o owvswog°s 5£O:3*-39a§ 0032 g
+{J 5.3 8 .2 §«9 >73 0‘ {9'33 ‘36 :1: 0 50 ﬁg g ‘39. m E w 4-: ‘5" 8
+E gsmwgibwmeJ-T avﬁﬁOg'gvowwo 333% ‘3 ‘
+:Usaﬁﬁmm“§3$ mm waowJQQW $305 0
+put M’s: ”E&szgm $345635 mag . 33.: wag: ..
+a iﬁaésgmgmv ieﬁﬁbh‘gO‘ﬂE“? Wm": "3
+% %.&§"63§§§‘§*§§ ﬂagxaf‘gi-ESZ‘OEE g.ggg g g
+Q£3~.»mmmm$ ggagzazogs‘a ﬁnam £2 ,
+mo ... o o o m
+. i “““C’WUE'U “Qa‘ Q
+m I X ii E
+3-03 or; a 0‘ g H N E ‘ O
+. 4 ﬂ; *1 M53 33x0 i {,3
+v—t AP; . .F:
+r-dv—‘M .
+
+. >2
+2% % a
+53.30 m i g
+ﬁéw § 3
+V 1 “5 .33 U M
+~ m.ﬁd 0 W“
+*Eaf >, B
+"’ av; .13 m
+§§mg w - k
+9 :i'a 3 ‘9
+ugg'gc 9’ i\
+“M "‘ O
+3%“ 3 '° 3
+._... s:
+Sago? g .53 O
+V Owa‘a 0 53 ‘3‘
+‘ “5.232%..53 94 m g
+3 3.5"“ ,c: ‘1’ ca
+08 "a
+5:“.5‘“ a -
+00 “w “a
+533%. .3
+003.»:1 3 0
+”9 5%) w E
+“"358 0 o.
+a a o m
+3.6 :2. .0 9*
+HO d.) 9-! 0d
+,,,,......gsv=“ a “5‘28
+63 2.130 3; W08 '
+*5 83%“ 3 mg
+g mg'ag ~E , 8t; .
+‘ .. 94 a)” ' . “o
+o -m“5§§ '8 g“ -
+E 0-5“... 3... “a
+v 3‘ka Q ”a
+:3 I “co-n .0
+V-«>3 0"”
+CD “3. H >v-u-q
+. a 53m 0 (DO
+‘ E <34 3 m”3‘= <3; 03‘
+~ - .——i "C? o.c’ w . £0
+a w .4 .4 aﬁmg g , “2‘3
+um“ *9 '8 0 E33? 88: "'5 ._: "55.x:
+“’5 5:: :2: $3 “:30 ~m2 c ' .,.: -~ #:QH a;
+"—50“ t1 ow'”"" 3 w 8 M "‘63 ' ‘
+“92 8. a a “3333 0‘ a v o o »“ .... .
+- an m :3. F%cw a c: m 0 H "’ 83° 0
+£263 6) d) a: 0m Rm :1 w 0 o s“ w
+n. M H 0 O C.) MMO o C: m m 090
+””3 a) o ‘4 Q” 0 03% Q o ‘3 c: “Hm 3%
+an“ o 3'30 “av ‘0 % ° 5““ a
+mu £ w 8 3623 awn a o a 8 avg o
+c» m 9095, M" q, H 3 ‘0 m5 :2
+mg 3,53”) $£ ® a; q; H 33. 0'38 m '
+5% w m a v a “m~ 8
+. g 0 8m” 0
+c243. on m3“ 0
+“Q“ \o (I) m
+9 N "7
+wk] on Ch m ‘0
+W " , P_: g Q
+Ma Q o a a é gd 8£3&.9 R5 “
+a 2 M m 0 $2 Eggg’ax- mas. E «:0.
+Q n «h 0 M d ' “F: ‘6 “t: “an A '2
+f: c; " 0-“ E d.) “H S
+.wu o - * Ma: 52 L11 0 E: . . m
+“"u H O 3:: C3 :4 m 0 2.3:) (H . M a
+am a x 0 “:3 Em 033:) ”Mam“ «1 d)
+{3.10 0- "'5 .m 3 a o'f: EV°<OQO mmo 7» ~23
+m '. 1: E 0 a ,hoxocﬁmmmo ~O . g o g
+d)“ ,«3’ g . Q ‘3 Otb mg *0 «03*!» 2 g
+”I“ L) C.) O “'2 33d???“ ”5.4835073 8‘“ . -E"‘ can)
+m 2 -a 5 xwmo.bo.n~aﬁm¢ < O“ s
+’3'" «c ogsﬁgﬁaéegggvm M 3., M
+M ' ”‘3 ”Q3233ﬁou'uﬁg M 0" 93
+Q 13 “U ' £3me QMQEZ’ w
+A x: «2 0mm: “3 o
+{3% m o o: o _ Zm> ,3
+h 00 0:: a 5m 3
+a ,c: ~50. u. '2: so!) - .0
+mg 5 O 0 mo. - Q '
+i. a -E‘ > g% 3» "a 35 age £ .
+a 8 S “13‘ _;>8 “‘63: 33 “gym *1; G, s: .
+:1 0a) $V’Mm C234 7" '43:: 0% o .9
+» U} 3:0 a 03 "" H“ 13 «a H
+“‘3“. go.) 3 4:.» E a». 3"; 3:; c: ”a 3 a
+. $0 .QQE-a 3% 0 ca? '65 0-3F—1m «a E
+. gzgﬁéag 8% ﬂ *9 gw ‘éﬁaig a ﬁ
+‘ ’ ’ .;::~== '“ *9 am '39 O .H. c:
+00900.3? 3% O SSS mug; 3mg“: g M
+£U~8+523 ”a $34 “’0 “£9“ ggch‘a m 3
+> . esa*a§m§»8v s s: Owa .o-mu: o o
+“x: H w 43g g3; -. «a :39 63an :3
+‘5»mwm.g§m * 3:6 23.x” §H§>g 5 8
+90901333 $5 *.> g“ >xH . ‘mggg «:22 a4
+?gﬁtﬁ’mﬁ’ew :a Eg 0538 Q‘Uvg': >5 Qmmwlz 0 v----'
+‘ aﬁm‘agao tutu E. m 532' ”3 33mg.” 24* “g
+E Egbﬁvx ”HQ .51.“ g 621.3 mag E <3 93%.” gas 5
+3“umvg“ w -w Mm u*« .g “£32% He 9
+‘ s aﬁmmﬁ’g $3 Eﬁ am 553 335 yum mg m
+. w. m a 3 am - w a.waw g n
+2 ma v a Eﬁ a 0g ﬁgs a anwawagm a
+W ”a: “3&5: w: > me. »: ’S‘ouv o “Ravi :23 3
+‘ 2 ‘g33 8.40» v ’H'Q cs ”3‘33 $3238< w “”10““ g m1
+(9530 £35 '8'63 3:: ,ﬁg 0;: m oat: 3‘ 73 >-
+2 gmwﬁwﬁ ‘ cam nu a Mom‘s}. <3 “‘44:: N-n -‘=‘ '
+O Q‘ MOg,° 09‘) CD “8:: H W QO 3 (I)
+> H Q! 5 NH O“ 0 <3ka a CLH.9 ‘HQQVQ'E‘
+A °é§§°§u§w 5% smﬁa §§§ i egmﬁéaﬁm 3
+,»§ "'*"‘ . ,. cw ‘H "A .H ‘H
+3’ ‘%‘§:§~m3”6 8w.» »3§"Pc “5:0 8 «+5.33% .01: 5:9
+é» i‘§gi¢:'%@3%ﬁ3 ga$< 3mg 3 go'we‘a ﬁg a
+r a: <3> Mam ‘53“,3.‘ 43¢: ,__.. a £- @~
+t.) 0 c3 63*» §~u~ 6:: _ w... 0 g... H
+Sigéasgﬂéoﬁé- §§§§3%:§%@ aggﬁggzéﬁ§a
+. w ‘Uv-ngﬁga’vagB ’ouwci‘os'aggvgx g gﬁ§§0¢mvg3 jg
+M a OEM'9‘ gmmﬁ08%3' 3-”: O'G'vwgﬁmlg . g.“
+ﬁg 03 o§ﬁ§mo~o% a ggoogwgg z
+. m “'1 M 8 <3 E ' “9*
+
+c: ‘H
+m .13 Do 3 G ‘
+Gmﬁ '-" .322 .
+, §8§ tag b03333
+$5503 .§o§83"g*“
+awe) .ﬁqku.3m {Lg
+$83322°¢£§3§§8
+vv-It Q’s. .gao'o >3 0
+Q£.mmgoomgmvaam .
+"'8 33:21:30.3 O 0“” “3
+3§>33~§Sm~ﬁ9§0
+53>.” Qamﬁogﬁﬁo
+. ﬁmwﬁwmﬂo< .a ,o'c (N
+‘9 :35 “mo-«aom g m"; m
+g 8°§§§§%§D&m§3€ %
+0' Q) "“13
+’w $0§§$§§5&3”%§5 “
+Oﬁogﬁau§%.§8%.5 3’0
+3 a_z £Mvﬁnwmaaw a
+% §§§wagggﬁDvﬁw§
+‘* ,3: “.g-m 389930.63
+a Hum ‘~>‘§‘*-* '5 '3 O
+u-c V ' 'é‘mgﬁgﬁmm “Ammw
+av $REﬁgaaaﬁ§o§§
+cc: Shgawmgb°ﬁ03 0
+w: mﬁog’ggﬂm'ﬂgvﬁgﬁ
+0 5-: 5‘ o t H M
+Q g .' .mmoo '85 “.3“
+a sgﬁagmggmg 3:;
+g 8m°3aﬁv3E“oa&w
+m mmb.§n5§'8£m859m8
+m amm. “H0130 895
+g :2g8333bsﬁganﬁ
+3 EBS§§aégﬁﬁa§§§ .‘.. . ,.H
+,, ‘3 """"""""Qfa'ggoﬁ-a ﬁgguug
+" " 3 ' 3mmnﬁngmu§opﬁgﬁ
+m 8 agmgagameﬁgagg -
+a o . §E§09h0a2£§>mh*a
+g t: Egga‘abe:uwsaha
+a 5 . a“e“mm§€°§°
+a 36m“? 0 a o. o
+A w ﬁﬁmggggaﬁﬁﬁggw
+‘ HQ} " om
+g, % §Mﬂ§uiemgjgghmis§ . ‘
+g & '&©Eﬂ§‘§$$“‘d:§'§ﬂ '1
+.. 0 511-“ “"Hm'HHo'I-«B ""
+a a 2§au§§w9285owg v
+3, a ggmgggggggaagw s
+I‘M 0 w
+a lr5 gﬁwwwegwga .4 "'1
+* ‘ . 01°33} EgHOgQUO-gg - N
+g a a gﬁpﬁgmaﬁoavééé 2" 8
+F“! _N . .- “.8 a '0'!
+3 3 8 v* m3§g§§333g3M3§¢g .3
+«a a v a §§E§ﬁ$83§m§%om§g g
+33 a a g mﬁguhamﬁ amﬁéﬁsnd %
+33% a & % §ga8§%35£§52558§ 8
+U) ”“0 o .H_
+9‘21; 5-4 H magmmum tum mﬂcud) ‘9
+d) 0'0 ""0 {6:30 ('1)
+35:3 333 rig g M08£8g3Q%QVH3£Nm
+. 0m
+ﬁe, K”:
+cu” “ ..... "
+Em g “ aga m w
+‘94 *3 g £1”ch m K? W:
+“A "" £02: <1- 1‘3‘ Q
+8m N a -ﬁﬁ - V M.
+m ‘" '0) a 12'5” 9“ . ' W
+>32: >3 . 30‘“) . g, “
+ﬁg Ewig vmé % - § 2 3
+On) ' “ 5: c6
+” gaaggggg. g a 5 3
+go 23:: m_ch‘g‘ﬁo bl) g. g:
+'08}: Emkh 51:03 E "“ 75
+Q :3“ Mvumw § 0
+5: $912,930me 2 U) o
+g?“ QZZWV—«L—ngﬁ Q
+I
+a O h a mu) UJ‘E g
+m mg a) *6, O-0 =35 ..... .
+M ”M w 0; '“O 0 w 4...
+¢ 3:0) 05 4:3 “w .CQG N
+g& 3 - $.33 3‘“ 3%” E
+a ma) F1 o§§ £30034“ 0 “:3
+E 3'5 % gﬁg % agggsm g: M
++~Fm ~, :3 A . :c m
+«L... .
+S Bg‘é'g .03 ?ESU'BE "3 8
+m ow aiﬁ 2 wvgw a a
+3-; £8 .33: _ 138° ?HEOE :3. ‘0
+»£ 3% 3 a b 88°£os 2 3
+» 3:3 :0326’23 3.93 E @5333 m . 94
+, :4: Lawrag» »,:::_§3 Saga: .H .55 g
+ﬁg ﬁgkm '.@§§. Iyagﬁga g x
+t R bc'dﬁ , i r132“ «2 §©ﬁé§m£2 §>3 =3
+- amx *» 350$ «Ogm ,9“. U
+f i foam: 6'5“ ww'ﬁ r2 H3
+33 4-: Q “6% m g 5‘ gum Gﬂ< 2-1:. M c; 0
+3 gggg  .»8;3 aﬂaoﬁvgwg 3
+E a M333 i ngg uxaawa ”g E
+i 0 Ego“: ’ 30%.? 00.5321“ gm .5:
+3 3““é gﬁgy ‘Umooga go in
+*% §§“g mggg . §§§m88 33 a
+gig wmaa ands awn a 38 s
+m E ﬁgma ‘§£“s 323 % uﬁ a
+. tr: “*6 51*
+. _ . a u) w u... Gm o
+2 E § %“ Bzém .NO?<Em «3- <3
+2 . "“5333 310': g 3§N§Qgg gag H
+,' ,‘HQ; $22.. ’ ”’05 gnaaam «g...
+iwsgégar‘s" Qom’“ um Evanéoa a
+50 “<3 3 «9‘603 oévazoévﬁ’ 2
+£2: £8 ”3‘!'Séas $390”) .gogﬁggu-g' 1:23
+"N E‘s? Eﬁgrsg amﬁ B “P’sﬁmgnﬁ ‘ a
+{m EM ,angs aﬁmmg‘ ga>f6aooa4 M
+Q i” {g 89’“ 9>g§3m mom smug: L,”
+o 5 aﬁoﬁﬁ a““°a “m“goo' 2
+g ‘ = > ¥ 0 O
+,. 5.3.; g y m
+m N m 1"} . N
+
+l 8
+$3 1335...; o
+t 3 «2; *"
+V i a :3 mm
+:0 00
+V 8 ~30 «ca
+1 2;: 8 3“
+2 O 0 2s
+a £8 E
++9.: HQ 05
+a .ﬁ‘“ ﬁg
+.93. 9.8 ~§°
+E _' '51:: "3 rx
+' 3,51: @3553; g‘g 3
+a 33;. $3? ° =
+'13 mm 0.; \O
+V 9N 39% 33 w
+Q0 40'” (3'0 9.4
+w 3.9““ 0O
+0 SM??? .5“
+Mg 3mm 0““
+<30 3.50 g”
+> ‘0 "‘ CL”
+, 88 géa a‘cé’
+, ‘So ' “5”" s: .‘
+V . 3-19 o.&—8 .2 §.§
+a 3‘” 35M 8‘5 “'5
+,, , 5: gas 393: 23% gm“
+v v v 94W £5 ,g :10 “cm
+m :2: 94 9‘
+3.. Q m - .. . Q
+a) :33 g?) 'Q--'U “mt;
+v a D .2 .1 m ““5 :6 ‘ ‘ “ ‘ ‘
+,5: “ "(3.930 E O k ' ‘
+Q) 3-: mt: 0a 0099
+Q % 0.53911 m “0 --;:
+... v 53 gnw >3on 1:55 50
+5 . go w romeo w
+~a- s: 00>“ hm "‘ “’15
+c: c: 0.9. -o**‘:“ “ o”)
+w ‘ w o 00:: mm 00 {3M HQ: ‘
+w 0 mo b0- “0;: Q
+Q 13 <1.) :3 38-5 «ﬂgpo 0'13 ME
+:3 9° <90 53:40 ES ”:3 “‘3 0° -
+m 5 “c; >> - ED” EMU “3 "‘0
+c: 9'5 mm ﬁﬁrﬁm c1) rod.)
+'5 "“1 . cs 00"”; 9'0 " 'M>6 ‘34 i3 53":
+a N w: m on. agg 30358 DE “'53
+ea. c N - “Dv—e 2:1,...“ 5 0 man 00
+m 3; o ‘3 2'3“"m‘ am“ 30‘550 OS 5‘32
+-I H «a “H . "Mo 5:: .wq 0
+33 a o o ”'53 “0% 3'35 ﬁg” 80 “a
+.owg c: a m g 0 0°“ ”'agg‘”w"‘” 03'
+5:3» a. a 8 «323 8-30 ﬁw-aﬂgogé f:
+9-1 :3. o o “J ”mm “>15” mhhd’00‘ND 35
+u..w S k 8 803 Q) G H WMMmEB DB...
+_E§§ ‘5) 8 0) 3'31“ Mgg Gw'g
+m.“ m U) Q -0;>..°" 0' >5 ...... 83:“
+ac ”3 543$ ' “En” .' ”“3""
+_ u E-“sdbd g’ﬁ-«g
+5m _ 5-6.8“
+(m
+2": cs 3 “ “
+and .l“ N " CG m
+ﬁg 1 g: m E H
+> m Ch > " A ..
+m2 ‘9 Eg az’é :56” N
+o D “+3 I." n. H
+M33 3‘ ma; 3%}.3. 2'. .3 c;
+P": - " 9
+"3 M 5% 3:; 3 5* Q
+d) - Ea)
+ﬁnal I am omv m 0 Z
+"w 0 $0“: \0 0 2 ﬁ
+«6 c: Q‘bas‘c: 5:
+3a.: .5 §‘5Q$%q - 58 E} g
+g“ 4 ugiﬁgg ggﬁﬁ 2 ﬁ
+- N
+9-. . '
+o c: .2 E 8 m
+8513" 62 g :3 O
+, z... ,g'“3$ .... 4: Q
+N O’DOQ’M g 00 w I
+a 3%». 9.. pr“ *"
+E “mﬁw ommﬂ ‘53 '2
+m egg: “jﬁgg 5 »  , a
+5..., ""m H “U 0 I
+’ ’ 3:53:39 £13355 $5; H
+- Mam 9.5ng m: ' 3’3
+§§o EEHM 83: ‘ 8
+; woi‘w‘c: “’33 m.“ -- Q
+S “....q» g ”G I a I g
+i one o .Mag aw *1 I “’
+g 03.9)?“ §t$§ {$90.1} m a
+w ’ > »' '
+€804? 3.&Bw&§€§§ 5 o 53’
+‘ comma :3.) Mmmc‘m“ '8 a)
+"GHQ“ '15 M” m 03
+2 H0130 ‘53 "C393“t6 "3 D
+3:69:13 “won't: “3 "" :2“:
+‘ 333% $ER¢Q§Q§§ ““5 LE
+, <9 0'5‘ :3‘3’Ua 'c: 53 '5
+Fgfﬁoaw wiggééﬁg ..3 ‘ g
+sap wags ngé’agg'ﬁ 25 a
+g 394w 0 $0 5"“ 1'32 >Q-q {D
+:2 3’23 “a -w§3$3¢’£2. \‘5 O
+3 13:15:56) 3 3’? 3’3 4:: "‘30 H
+iOgN-Q $34.9 ﬁgwaa :0 .
+Q :5; mﬁ :33": m 93 23
+U ﬁogmw ”ﬁanuvﬁgo “B ‘
+m [u c8,§3« “55330,,” Q So ‘ E
+. EWMMQ «*3 _a ”ﬁne s-‘c: Z
+'2. 5 M Ehdgag $6) '
+_ , , {a0 ‘1'}
+£92} E Q
+m» (r §§ Z
+w . W \0 § ﬂ
+H N oi ‘ i“ 00 i v‘
+,, , N 03 ~ "2 ' O
+N Mm
+
+m u? .23: .53
+O ”U r: ‘8 O
+bﬁi g g w W
+eggg \o i (i: ‘7"!
+E m» ‘ N
+m «3 #1:
+éwo§2 5;: E § :3
+gm» ,2 m. 3 0
+08"“ 3 g 3 ’3
+30% o g 3 3
+33° 33 :2: n4 ‘3‘ b
+Q'ge.) :6 u: 8 g M
+":3 5... m c...
+:s-«o - "" «1 C2 t\ '
+gaag : m s 8 g g
+H .
+E SE a m m m
+mg“: as O “(5' “5 O
+€335... .5” m w E 2:"
+085,33 3 g g ta g
+' 3:80:53 *3 3‘ E E t
+. goon >§ "“ 555 «3
+ngg u g a Q m
+"3 as M a u ’1’ 3
+maaé a a: a Q
+“0.23% "—5 H 9 0 0
+$138” 3 :8 =3 . . a 5 ﬂ
+9—53-35 m :3 _ ”52 g g - o 0
+$09” a g M Hm-m m SO 3 3
+.goggg g .2 m g; g E n4§ g g 5 . . .
+013329 .3 '52 é §U____. UH EWQW (9). %
+”ﬂo'" a) O U” u 0
+,, gngg ”:3 - o 0.5 5. o ”a ... g;
+m “553:3 D .N ‘5 5‘3 ‘H c“ c...” c 92
+h 3n§g § § a aﬁ ° ° 05 5 a
+w mg‘m C} Q CD. - ‘ ' >3 3‘
+3 8M“? 8 a v wv * 5 :0 M Q
+0 u... - c: =3
+W 38'5“”? bl) """" a 850: O .5 2M 5;: c:
+g “Bh‘a‘ ‘m 1.93 .5-4: ‘5 g 8.5 1H "n.
+a gmﬁa 5 M 3 88 8 v 0v 8 E
+3:: "U U) U} (/19) m m
+a €336 % g w W“ H H ﬁg m g
+. m, 0 ﬂ .. w 3“ “a gig 53 C3 0 {D
+S b§§§ é § 3.33 a 3 Eé 3 E -
+“Q" "“ c“ o . m ‘0‘” 3 3 med «3 _ "2
+g ggme % EM a as g g ﬁw M M 8
+m; 3 F5 g ‘9‘ 0 8 3 .ﬂ .3 -2 ,Q .Q 'H E cu ‘1) g
+f: ' mm .48 g: 0 <9 0 °’ :3 =3 a.
+B E . s... v 0 :3 :3 :33 a; to -w
+0130 0.33” 3 i=8. a 33 g 3 $3.4 .524 3H8
+‘4'“: m =3...“ “Mm U) mm . _'_' .Mu-A m
+m N m .m 'M'M “ {A .F‘
+82% 33:3; 3. £8 m mm ‘51, ﬂ ggg 523% -§8
+Rut i=1. am.ow 003 0:9 :5 "“E E .c: SF“ 194;: 553360
+u*'$ vagag ow: .335; H £5“ {—5 5-“ M
+EEK M'ﬁcem 4" E“ . .
+m-
+ca
+O In
+3% w W m
+041' Q E ”f 3. a X 5.52:"
+Egg, g .. so? g Q‘ Q? ' P" “3* $2:
+@E d ﬂ 7“ Q E m 0 av a
+M“ a £2 ‘1‘ '% [fizz 33 %Z E -g" 40:88 E
+1’, :3“ .. a a a ’6 '6'5 5:? .m Hd‘R 8
+$0 63 'G ‘13 H 33'“? O E “.mm w
+«’9 {31) 3-4 " '73 .m. » .D 330x. O
+m 24 '5‘ U 3 m 0
+m m .
+«5-5 2 .
+5
+an . $21
+H G) s... 5;; 5:) 0 m1
+9 v9 0 '33 -;>~.w8 0°05 *9 f3 §~ E
+0 E g m) :31) 03w ’3 o 0%
+5 m o :3 Egg “*‘Féﬁ 8. on U .53
+-. * s... 55: {3‘13 __g 131,—“ '38 mm“ g mg 5:;
+a m 3% g 8525 em% gaaﬁ 5a 0 mo 2
+E E 88 v ééuarggé gaga 5%.; E? 8
+g g g~,§ m§;§ gag $333 oﬁtg £0 E
+a.) obi) 8 .9?" “:3 .g. “5:35;,8 Egg :3 g: . 8
+“53‘ ”'53 5,, 022°C) go“ r-‘wggﬁ {“5” 3 3E '
+5 %§ Eﬁg omaaog giﬁ§ 3.5m. €55, g £3 l M
+i a g» §§“532 $5“ 3%831a3 '338$ a
+O . -- m "m .0“ 4:0 * :"d' .
+k :95“ .....-¢ , 0 a0. 0:!) o 0 1. {LO
+> E0 [33‘ ’3M§.n$0 3,99 {$1.333 {mg} ,4: is 3-4 '6
+> ﬁg 2 'da «& hgmmia ‘m £36 g
+[0 I cu ~.-"..-..."..5"' >5 i- 0- 53:5: ‘9“ ?o‘” o :30
+. 5&3“ b'a...—¢HIQ @ g {3 4-03 mg: “Q4 . g Q)
+5 5 ‘53 {E if: 523- *5 ”C3 0 53‘ ,£‘ '0 ~13 a... ""‘ 3 , >
+igﬁ *Mgéeg£a£2.§;5.§§ai§2§ §.% g
+03 3‘: ““35”§“an £2 tr: 0 M .,..
+w .m 00 .0 a 04-» a.) 51g 5,, .Q—«S w
+u 0 0mm Q $22 m '6‘" 3 «5-4 . m o. ‘1’ O. C:
+Eu b2 33 waaosaa- 3...“;2. 0'5». *3. 0:25.95. ‘3
+"-1 : c: m we «Hg: 5 "-4 :2:
+W £33 ‘3' E ’ *" 553:1:ch max: 9““ E '5 - O ‘
+E ”‘33 m§ ’5»3°E~’3°5m ”Q“§ “~75 mammé U
+. 513m 535,, _,uoo,.;9.,gr::ou o 358' 3:35}, 39:05:“ ..
+2 5: U: "U 3: 23 (”3.53 3 0: g 33 g 0 ‘H m ? 4w E . G 0 3’ “-4 ‘
+, .,'U 5:». 0:3» :3“ ,_. . . 4:) ﬁn. £250
+. .0. w, m ,2: 96a. 4:05.: norm
+0 ﬁg #52,...gc: .mogmwa mm.“ ... mu Etna-
+, ,5 , 9 “»€6 O {3* :3: Q, . m. “.34 *4 3‘2 , Q). a H 5......
+9 5g iaaéwwgﬁéogaaggsaaéavﬁ§§§25§ g
+a 3:) m 2:: <3” i ‘ o t—t e-‘- ‘ .ari’i .... MM .
+w '» ev-v - m*~.ecsow~w» o wgmo
+o, 00% .._. o \ .ﬁcz. 554: g H
+3;2§ » §§§§§§§§6§§%§§a8%3m3§ ﬁazﬁ g
+U EQO mogUw‘Uf-‘ﬁ‘sm" a . E O .
+{J . .
+U} Q E i f g (.3
+g > ; m N m
+g i ’ - «3 .5. '“— “1
+3 G '& m mm m m
+3...; M
+
+a g
+g '3 D .
+. ;>» m H
+:aﬂ ‘ '§
+mg: H
+' 3.0 g , l0
+03 :5 O 4
+0:5 x0" 0'
+c633 e) 03
+3:2. :24 53
+V CO 3 m g
+“m a S 0
+mm a D Q)
+13“ w 8 Q0
+0
+' .B-H +5 7% ,.
+3‘6 v . .99.
+‘ a5 E a g?
+V 38 3 32' mg .
+3'33 9 0a:
+0%“; Q 3‘“ ‘
+3 ‘9 0 o 5.2
+Egg” 5‘3 0 ”=35
+ggg a a 33
+' §8~ 2 ° am
+0,93 o “'1 g;
+a $35 § .“ ﬁg
+, :3 ,ggg =3 g 5.2 .
+O gw_g 3 m “‘23
+h: 0'13 :2. V BE
+(-1 .5435; o a: cam - .
+‘3' <23M M ‘3 G“...
+0' D ‘0 ou—Q:
+mo '“ 0 . 05
+*8 "U _‘H '13 a) '3
+a 'ﬁug o fl) 0
+a mg.“ m a *3
+U2 .Qmm '8 o 0a
+«385 “c: m . 13 . . . .
+’5 8;: cu m H """m- 9—4 v—H H p»:
+“4 W3“. 0 g. u; ..8. .m' «a m' m
+a '“E'E ”0 B o o o o
+35:: §§8 a .9 3% £2 3 $ 8 3
+05¢, >3. -H t1) 0) g _®E'a :3 ' g E :21
+‘3‘)“ “*5" 5’ =3 cm am a n. n. 8.
+“.0: "gmc a . 3 m 8” m m m m
+So 0+)“ «N n... o a) a) a) 0
+ﬂ... :3. ".1394 (”E m L: $33,, H H 3—. H
+h m “N4 «H -H .pat _
+ggm ﬁam g” -m 8 an a 8 3 g
+awn: E—«ok E—‘x E~« m M3 :1) m m m
+o»
+0&8 \9 an H“
+“w ﬂu % “ 63“ O 8 .. EST
+0)- .c3“ um H .0 13:0 " " _
+rag Mm 033:8 “$23 a .2 ‘$§O_ ”3 g _
+8m m3 .BaaObg25 3" A 25:2 gg g «
+£2 E? ggge “E i ii ﬁgg 5» < £‘
+:46: M -0 - 030 .‘ o c; 0.93 ":30 :9 VJ
+"3 E 3 Ev£¢°“d 3,” 23 0.5441 ﬁg . a) ”M g
+39 g Q £'¢%m§% E 2Q 680$ “mg M 5g g
+. . Q.) - 'c . .. " m
+53-3 “.542 a $3.033: .0: .ﬁwﬁg: go a: '53 g
+m“ gm av ~~~«asw «a go
+mg 0353 gswgosgquzg 003;: 02,“ En -~ ‘5
+38¢ [p.122 qumemr/JMZQ O_mmw mum mm 53 g
+“a C)
+m . m -
+H 0 o n 1... Q4 0') m ‘
+g £3 33%; g? g a 52% mg a g
+’ Egg 5mg _ .313" “3 {500 ,2 ﬁt:- Bzog '5:
+, +30) 04:» '0 3-40 m :55 Fog-Hu 23V) 513.1: «3
+a BMa 3853 §% § éw $2?“ gmﬁw E
+Q ~ W .H- " Q) m m w-a n
+, a 35—6» egg; «:08 w» >“533gm 535% .6 :9.
+a a. 5 Dog 2 am 3.§50H§§.'g'“ ywag g ,5:
+' 5'3, ago «Suﬁ cu” :gggoanmé qﬁ'gg... M m
+* » ”' Ema $88“ $5 %§ ﬁoavémﬁ 8&8: E 3
+Ego %“.¢?:8 9:5 §§“abgﬁgog‘5 %a_g Q53 3
+053:0 9%;% > ’ ﬁg 'EEWQQOSESOgg 3;: $1.8: Q) 8
+* cc w mm—w - .._ “u u- "“0 .46 a ' m. 0
+{ﬁgs gbgg 6 $3 §58g§§§83m3§§§2.§ . m
+» EM..N «90 ﬂ T?) :2 0c: ¢D‘-'&’i :8 Mm "“ ""‘
+62%.: >» as W” "a “co. . <6
+i kmy~ $ua§ —«ro 1%aénaga Ea E$wag g a
+H, E g: , {L .. 9.. <30 ~ 9.; O 4...
+; Eéﬁm 3333 8 50 §§€aﬁ%§%gg 55%? a a
+,5: ’..~ 0 a.) ' cu J3: _ .. .c a ‘
+gmbﬁ 'QNg 2;. gm {6% '5 o 5““ wmha Q U
+»m m :3 ogﬂggmlclmm {30' 8CD .
+; E55,“: $383.3 i E) 4:53 gamgﬂﬁzgégbga :53? as,“ {é ¥ '3
+fo‘ém 5,21: * f’“ 'Mf‘é.“ mu'ﬁQw‘SO 13 .ﬁHQ .33 .2
+imam .3 053 o :9 .2; 3w mgéﬂiem g 38.x: ‘25 >
+’ggg «.4ng '5 V: 50 mewo «3° 'uog‘“ 3' E
+{2 “3,3 0mm£ 8 3 09'? gﬁé’gaggsruo’aoﬁ £%w£ o
+3H0 3“” 0 m 43.3: m -mkwo«—+Om'o pct: . Q m
+‘ * m:n.%&§§ a :3 0% eéwoongMMN'gmmo a .w
+, , r“ m m c:
+2 ﬁwgé,ﬁ’g ,Q 3 B Q Qawwg “06 .mhr‘: . O
+0"“ .‘ we” «3 * 09:: .5“. ”an0 ‘53"5' “U a O
+O gmwvﬁmvsh E E g g $$$$$on .... .g .1
+o g§>.¢§ﬁ*‘="¢~£ 8. 8 5» $3°x§'wjﬁé‘5 $5355.53 3' 42'
+», sac: ,;.$»¢3,+» 5;; g 'tﬁu.‘ M'Ggoammmmm .i’gmm 1:: ' .
+{3 $$~Em§mu o o 53‘ xwwmuvﬁg.“.z ”—3433 '0 E ‘1:
+z aggmon§»a a o ﬁﬁfaggsw>aggﬁizgguav : :
+~99>3350 an a g 25 ﬁoggﬁﬁogsw~mwaﬁna z
+. g gaggggvﬁggﬁ g g g§.§a.egggsgg8%§agg$g g:
+> . O m “i . “‘ m §¢Qo>‘ M‘sm'£O “
+Q ‘9 omoﬂo 6.) <1) :3 ‘0sz .M 0.,44-«033 O” M
+m I3>E§€Uﬁ§ﬂ3 ED {’3 U§£<538a&~cmtﬁa BSMEWCJ :2}
+. » § ’ g I ‘ Q
+' g g g % i E a O
+. m
+. g 5331 33 3 :3. 2i 3. 8. 8. 0%
+' 5-: NS Ni «'2 m m m m m m
+
+Rev, 1’ March 9, 2007
+US. Department of State
+Scaping Summary
+fer the
+Keystone Pipeline iject
+Environmental Impact Statement
+December 2006
+
+1,0 INTRODUCTION
+Trandﬁanada Key stone Pipeline, LP. has applied to the United States Department of State. (DOS)
+for a Presidential Pennit at the harder 9f the United States for the prepe-sed censtruction,
+
+,, ,, , ,,, ,, , , , ,, , , , , , , , ,, ,, connecﬁéen',‘ operaﬁmmand" 'x'ﬁéihtéhﬁhéé,”'éf'facil'iti‘égfamilie- impmatiom f cm. de'Oil'frdm” . . . . . . . . . . . . . . . ... . . . .. . . . .
+Canada. DOS determined-that'the 'issu-ahce of't'he Presidential Permitwoulzd constitute a majer
+{66:52:83 61thin that may have a sxgmﬁwm: impac‘i; apex}: thaemaimnment within: thee-eonrtext. of the-
+NationalEnvironmental- Polzi-cy Act 0f 1969- (NEPAL and. on October 4,. 2006 issued. a. Natice 0f
+Intent (NOD to prepare an" envimnmental i—mp-act‘ stafamennt-{EISJ’LO addre-s-s>-reasonably
+foreseeable impacts from the. pwposed action ahéah’e‘maﬁéves:
+
+The N01 informed the public about the proposed actien, announced plans for scoping meetings,
+invited public participation in the scoping process, and solicited public camments for
+consideration in establishing the scope and content 0f the EIS. The N01 was published in the
+Federal Register and distributed t0:
+
+0 Landowners along the proposed route,
+
+a Federal, state, and local agencies,
+
+0 Municipalities and counties,
+
+0 Native American Trims?
+
+a Elected ofﬁcials,
+
+0 Nongovernmental organizations;
+
+3 Media, and-
+
+9 Interested individuais.
+The scoping period extended from the date of publication of the N01 in the Federal Register
+through November 30, 2006.
+2.6 SCOPING MEETINGS
+DOS held 1:3 separate scepéﬁg meetmgs m the vicinity 0f {ha pmpﬁsed route is give the public the
+Oppermnéﬁcy {e pmvide mmmezﬁs mgadimg the scape (32’? the EIS. The dateg and ieca‘tians 0f the
+meeéiﬁgs are iigieé {3816‘st afiﬁhg Wiih the atiendaﬁce a? each meeiéhg {in paremheseg).
+Octehef 24> -- Mihhégah, Naﬁh Baketa {55) Gcmbei' 26 w Seward, Nebraska (35}
+Qeiahes 2S - Liahémﬁ Nsﬁh Bakma’ {34} ?\E’Gwmhez i w Si. Chaﬁegﬁ Méssauz‘i {32}
+October 26 ~ Ciark, Smith Dakem {i 8) Navemher 2 ~— Caﬁinsvii'ie, Hlimis (24)
+Octaber 24 - Yankten, South DakataB 6) Nevember 8 ~—~ Carrelton Misseuri (23)
+October 25 - Starﬁsh, Nebraska (36) Nevember 9 -- Seneca, Kansas (20)
+Keysione Scopiﬁg $331111:me Fina} Rev} 3
+
+3mg '55 9 .
+H
+. ta *5 «9—509 *5 53% g '
+Q... 3) O .5..st N 8"“ 8
+€330 g 90 g Diva ~30 9g
+nut 6) No a U3 g
+“m—oé .52? ~99? 99 9.8
+g $939 g: ma“ w 53c; ﬁe .
+~ :1“ Q q “:60 N C: o
+o O 8,9989 mi) 9.
+"-9“; “r3 9::me :33 o ":5 {\
+E36” .“ 0.2“89 me?) 5% B ...: 8
+~ ' ‘ 0098 g ﬁggax $3 3% g N Q
+~ «“3“: 8 3"“ “mo 0‘” 0E ”5 <1” 0‘
+, VHH 3 mm g! 53% CH O o
+%g'“% m”.33 05‘“ £0 >\ 9 o0
+“3 3’9 5 5.9520 35¢ -3 °3 0 :53
+. B 9 $52.9“ >39 3303 3 '8
+g; '9'0 v8 .-“93£ 09 9:: 9:.
+. . , :-* °° nw—«ﬁm ' 5'9 s 9‘
+“8-1§ >3 0003ng .9 90 9a m ‘
+uggg § §s%§% ﬁg 33 9 g
+; , . ca 9 ‘0
+' £833 5 2§Hﬁ§§ @395; g g
+39-3-5 o 99334.9 50,5353 '5 m
+. H“ 0 i" 9 000 ﬁ "-1 53‘ "C
+sggg g gagée ggggﬁ a . d
+‘H Um ﬁg 8 $5 9. 9:: ‘
+3 $3.53 1—: CG CG
+cﬁgﬁ Q’ 5,599 ogwgn .3: am .—
+MT: 0 gﬁo-Sm.t= «:53: c: 539* g“
+33:“ 3 Sxagé‘ﬁﬁ9aa g g: 2 .m---
+M 0:2: "'3 0;: '3 O.“ “.C- -- U
+«M 3-16) .M 0 OD ' cm 0
+5 §"‘.& *3 ‘ES 75%- §._% ...-Egg E 2‘3. 33‘ O o 0
+V g g 91.. 9...... .3-m'ﬁ'og 3 9 :39‘5 g 9.53 5
+:89; %- 933—0. 934233.... e 59 “a
+-:—~*-:.:° 9 "Ucaﬁﬁ 9w£pg :3 “:O M
+H , , Eva‘g g 53E~H3 $5313.39 .5 5:: .—. .
+/' a gggg m éang 93988 g Qﬁ A
+. o . '“ﬁé’é‘; g 9588 .3: £53.90 016““.- .5;
+3 Eat)“ Qwo . 30a {3 O
+o '90:» 8* anwggg Eg'mm. 39%;: a3 _
+v-J 54%;.” h 539‘“ m m0 .5903 9
+£1 E Q‘ “:3 .5 rdrgﬂ 00) {D m
+, “ M35:39 Emwsadgv‘gw-ﬁmgmw
+- 5 §&as é mcgaggugﬁoawgwsx E
+5 - 32.9. o 899“ aﬁ—«o H."+'3m—d'w 8'
+.. M g .«c _""' H334: £3H§0wcuv m
+6) ....£ . tn "3 “‘9 «£1339 om—Sugumg w
+.3 "=3 '8 ad” a §§>‘:”¢‘3’&§;§'3ﬁ8‘$$0 fé
+: g ﬁgoéﬁ >3. N'ggﬁkw“_maa.mm~ «12-68 '9 9
+m 988:; gﬁ Svgggogﬁcgoogﬂggg a
+”g m 3’23??? g5 “aﬁﬁﬁgwggmﬁéaggﬂ-ﬁ ‘5
+- 9-9 m , 9“; u 9
+a 8 0'85433 rig ”B'coro‘zﬁv'a'ﬁmmﬁmggn 53
+m m :1— "m‘ 0 “9* HH :8 .‘Q 0.0610...“ _mm m
+... «a SEQ“ ‘gg :5 £32210 gag: «9332.353. ""
+“ﬂ. 0’ a, £0 9 0‘33 3“"mmmmmvo ‘ m 'g
+0““ a ”ﬁgurm-ag 'awmsogasammaaoﬂ'ﬁm 5‘3
+§3§ 3 mwgkaés osﬁgéanggéégz<9P
+92% 3 ”$9028? ﬁa£owa~ '
+“55% g {E‘W‘m 05 v
+.... m
+0" .l
+'\ P‘- O
+.... . .... <2- :2. .
+. 63¢ §§§ {S m . O Q 0 Ed ﬂ
+3; mad -99 a o 2 2 2 a a g
+. a " mm m
+32 1338 om Q d: V; m 3 2r: '3“ ,9
+%9 63a **EM 2: a 3 33 ‘3 3% a a
+:4“ “t:- “hc? c? Q h E E $4.5 :::: w
+"‘3 oQ‘Mo’ ﬁx: on - U '0 3'5 9 r:
+0 13¢: 9. m .9: . 9- w 0 0
+$8 ﬁmgw on .2 5 a3 mm D
+w~ 33%: mm ' “a a g
+€95" A 0;: 8 . ‘13
+:3 H mm .
+3’ '0 co '0 a
+H s: 3%“ ﬁg 3 .
+a "-4 HE _ O D g:
+:93 IE 9“ «r. 0
+a a ’ .529 o ' «3.2? 0% g
+0 i: t: 5.. «Q
+8 ° é §% § §§ 93 §
+. :5 a ' ”rm '8 ‘ ﬂ“ .3% m
+» ‘2: o B 0.... S? . fpa .025 C“
+» i '8 ’3 9* ‘33 a igmtg .2 age. 5
+Ma G V; " _ .‘ Ia-étﬁl .. H”
+g : g I5 jég _ '5. g {gnaw ﬁg 0
+6‘3 la . ﬁg '"‘ ' 9 - I j *9
+: U3 i .54 9-D“ .,
+. {3'0 : >9 .8 33% H3: E'UQ'é xiii 311i)
+«3 . 9 90 io « 2%;‘39 93:: 9
+‘i {:2 ‘ :M‘ H3 $13"? 39' M: ; 0,9 0,13 m
+i “5 w ‘93 {‘43. £3 ‘.5 i 3) H3 . >
+‘ 5;; .213 é“ 38;“ Q ...... . M38 Om ...-4
+g a . g m a a 390 95
+E $9 giaa m 93 ' E a g Hga go g
+‘45 :2: a 56 ., a3 a 2M .3
+W '9 0 £0 8 5 a 09 02 a
+E-4 x: 8‘” ““ H3 3° '3 *9 §“o 3-- O
+z \0‘ a *8» o 1“ ”gm sag .4
+‘ ’ 3 8” * 0 30 '0 «23 3 2:318:53. «333 . '
+o . a {5 '3: 55A ‘3 «a 9 g...» ’"‘ '3 0 2;
+mm m 9 a 9 0.” gx .
+‘ mm, mm 3-: QQ ‘32 :3 §B‘A1.m§ M
+63 Ho 3 $5593 35 .9 g ﬁgmgaza 5-4
+Qggs 35 a E&a s , s §a§.§ g
+0 Egg 3 m: .93 2—3.9 1:: :1 "g ?gggag‘g a
+ﬁfga £3 9 gﬁ m g 9 U 0' Z
+M" 109‘ :3“: 30 B . ' O.
+O gift: . ‘3‘; V g E; {-3
+Uzﬁg U i i
+m E _», i s 3 {-990 03
+E § w W ' ' V
+i E E <3- . «q»?
+{a g . q. <-
+’ N “'3 <1-
+: D m *"j v: v
+' w “E vs?
+a m
+
+. :9
+hp?
+. wags ‘ '
+_ Do”
+‘ “v.93;
+' gga-fg 9e)";
+’ 4mm? . 53
+‘ 55g: “ §§§
+‘ ~3HH¢§ 8 mm '
+"30%“ o 0.500 .
+”#300 m H948“
+05-45.) g: GNU
+ggog‘ c 3‘”???
+w h :1. e233
+: 0 'mo 0 '1». w {x
+- 3:00 0 CFO?“ ‘H
+' gpxg 8 2E3 o
+> w s o
+‘ 5&5“? E b§§ w
+0585 ¢ £38 &
+V ugongd. . . EGO 53
+‘ QEOB g g '53
+{3ng H '5: awe
+$3 "*3 ‘3" ‘ go
+' egg». M 3333‘”
+35:35 0 U mg‘d
+tmv‘D'S E ' E - 9‘ 8
+, £535 a .3 a s gsw
+>&“u‘g <3 gmg'a E :5 3mg
+Eva; ~ amﬁq x « Him
+, , 033.54% "f 594m 2 23: 33:3 .
+.9,M3§ H'U - . . Q} g D 2 '0?“
+cu §§"6m m Duke"; "‘ U “(H ‘ ..
+g megs ﬂ: - £0.53... “5 3 3g
+:“HD-s-ci m ANN”. N c: 05:10
+ﬂ Sgﬁga a 8:32 A o 258
+a ”“mmﬁ ﬂ éeeo ‘ ﬂ . ca“
+’ a EEEEO 8 amag ~<r V “08
+:5 ”8m 3 w ' 3.000 g s: '83::
+Q "94 ."mm H “5.503 'H g :34)
+w mm?“m ‘3 ”0°“ “ u" Eon
+.... :3 . 06) 0 o
+.5: wage) “ '3 mm”“‘ o a) '50.".
+5 M 0m 3 ... ”3'6 w an no“
+~ m agﬁgg 3 waag 3 ﬁ ”3%
+m 02H . '5 a: 0:3
+'15 oﬁﬂm‘m . v8 \0 0'33 ":3 '0 .5333
+6: “_G)_'5.23U; a __; mmm'w a a: mom
+% 8§E§u3 a g -%60 g g 3E
+gg- tn «)0 “‘3 m 'U'd'dg "U z"$ on
+«u aaagﬁw 8 0 $$“ w 3 33E
+'338 000‘5338 :: 3 “.mgg .2 02 Egg; ‘
+n :: 8;,2303Q g o 000:: a w 0:60
+3‘26.) 4—» 0 Gus --¢ CL 333:3”) :3 <1.) c5351“
+:3. o E o w “303m.“ :3 0
+Que kvmu” “3 a “'va E U) ad”
+mmm massaﬁ a v “HE” ﬂ “ '3”“
+e9“. 5“ m FZF. {5 LE 'gmoo
+ad? 5“ {5 {—1 ....-0_g
+“-60 >“.n-1¢:Q
+mm .
+@443 ix
+gm at In“? _ _
+«m «*1 ohm .6; g
+”2 ' “3&6 M Q M: n
+>: D“ CL?”- ' .53 hm N 'mg “EMA
+cat; at: on .Q 0“ n30 om 6'3 “- ZR
+:4 M M‘M {i 1’ . - g“ \o .c: «g
+"a “ ”30 M '9‘ 3 Ci. ‘ “'80
+gm .8 6M .. :2 Ommm *“ -8”) 543:6:
+03-“ H 00 ~‘ ‘31 , .50
+O “:10: g) 00) O m V 4)
+“O OO' C3 mg't’” d: \-0" aomw. m
+/ c Q QHE- a.) ' 3—1:: 8”“ On“: a ca
+05. >""“ M4230 .... , 2":ng 0):!) <1) - HM\ H
+m < 2<£< ”°Eﬁ oggﬁ “
+s .» #2 < Euma 8
+ha *5 (2:; c:
+3:3 Q4 """‘ ' um
+a . “ nga? a -uﬁs“ 3 3 a
+0 “ac“ 'v-d “ a 'U " «3
+E > mono m. wﬁ>o mg '0 :3 .9
+, a g ogwg q... 3..”9‘3 'Sm 5-8 0* ~35
+: 0 303% M_ §Eem vs 5 %
+"5345 w "“9“ O “E ‘6
+, m 3 £30,!) G .Hwo 3:0 ‘3 - Q
+~ .... h m <9 sang =3 5.5 cH
+2:: 39“» Q4 ¢v>o mfg 3+; 9 s:
+‘. 3 5:35:33} 2‘ 3'35"“0: :3“ E .533 ,2:
+: m 3:21. .2: a... . mm: 2... ""
+0 ~Ci‘mm9 q... §§ng m 5;; .33 3
+:3 3:: OR! :5 . rd .0 O
+> » ,,.M.g _ mans: : “H *6“ S
+. _O 1330:“ "3 $11 ‘33an 0!: m“ m
+‘ ga g wHO& 3 oeoau 3: ﬁg 5m 8
+E “'83?“ g; G'Wsﬁogg ,mg m” 0‘” - ‘9
+, ;g g sm’g @ Hams «m-Qu 4&9 . m
+» 66 m,» Q‘ﬁ w 2% , 5,3143 r.“ "t: 13 m '5‘ "U 0'8 4) M
+i, C: @000 :49 Q “m. .95 HQ“; «3
+8 3 05-10:: 323:3205 was 2:435 mm *5
+§ i> w gunc’ﬁ “gegsﬂgsgbg ﬁg ‘gm “333 . 3;:
+3:3: .> Q3 . H.3H.Mﬁ 4mm ”.453 .1“ :3
+E i“ gaagga gagaaémqaa «3 36a U
+$0 =3an 0 ‘§n»>.>'"m # 9'94 ft; 30m 0
+» w "3 ,°&Q-~ : 202.2% .5330 am ! “*0 an
+EA Q. 305mg§ m.gno‘“ 013130 0% ME 8&3 O
+zzg gﬁgggo ggasgaauah 30 gag E
+Q) 0 ooow'gg O , 'mﬁ‘igwo ‘19 . "351) ""
+w , .H » 6) .
+:5; g.gggma s—cn%w.s§08§ o‘UMc‘uF 5:
+w um, Q3: »$=—~ &M «0,9 :60 e ’8 m
+» m ‘ggé’ '6’ .Bw'zs'vmsm 53"” goraao a
+' o """ ,u 02‘: g 9-... mm}! «3 03 OT} g 9‘: .Q 0.0 ‘H
+» 3 0000*” ‘ﬁmﬁ‘évmwgm “’43 Q23: 3
+Egig gvﬁgakg gxgggggegg ggggeu g
+s.§w {”ﬁmwgg >&§nox Eye 5 9196 0
+ﬁg -g§9§*v§ 3w§353:93%8§303§m ~
+' $0. ,ﬁewa,“ 93. x'“ .°>c .H 1:3,. .c: .4
+.M. . . . . .
+8 g 3%sg‘agaggaifaz‘mgasgrggggé $2:
+7 B '. M . 3:: ox." . UN *
+. «a o iwogom§-~Eaa-w'goso§m“w z
+..”“mwmgm003£§°§goo00.9w”g “3
+5%: 5 § 0 uﬁnd'iﬁmgﬁg é
+. (a c: H g E E E Z
+{I} ”f M S m *d-tnxorx :5 i Q
+V wrv'v'v’ - '1 N.“
+‘1' V «rrr'
+
+H
+So ’
+>~. €33 .
+g 33
+a m? £2
+‘ 0": Q'C ' 0.
+0' 03g “gas
+. 3 35?; 0£
+v-¢ 93 {308% .51“
+a a . é £8 gﬁ
+5m 3 '“3 % $332: 30 ‘ 2
+53 0 m 8 83:0 ”3 ' ‘H
+O a 8 6.} H...“ “Um O
+a a w m $33 35 w
+go. 8 ‘3 8 09*“ m ‘9
+ti.) H O M M Q a“: bi)
+9 am; $83 "’8 O“
+8 m H -. oak an
+m 0 ‘9 g gone 0>
+m G.) H :89 0.3::
+o v-v-o w A ,IU) ‘35:
+,2? <1 8 M u‘Uo OOH
+<2 . , 535:0 0'53
+2 2 AH“ ‘a.§
+. g D a-< 0 '
+5 m - "“5- '5‘“
+M g 6) 940m Q
+V V 2 ca q. 435M go
+V V V g :2 9-3-3 ' £9
+E.) "<B- . tr; “‘“> «:38
+m o a o '- m .m“8 >5
+h V 4:: “-4 o) '3'“ - - ”g .0
+3 a O 4:: g 50% H»:
+d) V . Q: Q H O 1-3.5 .
+h: M 9-4 v Q- ’65:” ”v"!
+v " 7H? 9.“
+5 g a ‘1” 8 38% “a
+.. 8 - ‘5‘ .2 0 Q00? 04::
+Q a) o 8 ' g :H “.2 w
+m m o d) 050 O
+, a w m m r: a -*"
+' a V .m a EZE 30$
+13 m g ‘D - Hm >13!” ﬂgﬂh
+:1_ d) no ﬁ \0 E H .ﬂmﬁd
+6'3 .8- Q) a.) w .4 “0-2 353::
+m 1::- ‘B {3 w“; ‘ “(3 ”>8 ' ‘5’
+-I 53 “U m _CK'$ 30 w 0 . .
+“g: ‘ cu "3 o 0 mo ”‘3 '"‘ H
+U. .93 «3 w «a 2 gain 003)"; '
+.0: -Q m a) 6) t3 N.HO Egg Kn
+Mu$ 9 -~ w m m «we Mwwo o
+9a) :5 “J a) c: a: >5” MOW“ +-'
+u g 3 F3 :3 o ‘3 n 0"" '~ ”"0"” 0
+Q1: "-‘m % 03 CL 84 IO 0.59 3:“ W m
+a 3-1 m ~-« .23 g m “a gas: wzﬂg 5
+'9 "q .3 m a O a.) 0033 $3 0
+53m a w 9 g m ﬁﬁh s€n% %
+Q)- a d) 3) 5) >300} mo,20 0
+«10 > F“ 5,130 ' @330 (,1)
+mm \9 . O Mgm£ ‘13
+3": 53.4 a "C3 m
+3%. 33a£,e a , «8 “ﬁg
+m - €32 ?\F‘M 9: g % E93
+m2 E0 0‘3““ - 53 cc; 0.“
+.H m “t: q“ a $3 0065
+o“ my E mm mm & E Eﬁ : b w
+:46: 533E O .53 "'4 “4 '1’ - 0““ 'ﬁﬁ N
+, OﬁonM ~40ng O . n 13:30 ,
+3 EV£<ocoo vﬁzmm 2 ﬁo $3” a 2I
+.230 05 ““3336 533 «”540 3.002 O .2: Q ' 3
+m3“: ‘13 Eouw '6 mg": “2‘0”; E&t Z n; .
+ML; mémwovm: c=«28“wﬁcm 0 °. . a a
+G) . 6)“ £00 Meomﬁﬁmmﬂg mug 0
+mg ﬁoﬁgéa a gm “©%\”“ “3”0 5 2 Q ”
+0g 0° ouog v gﬁnnvgﬁa M g\ m , m a
+a Nm-Emmmaa £34.“ waoﬁosg gm ﬂ LES: ‘3 - 3
+m mm-EBZmszo egg: .2 § ”‘55 8
+C » M ” ZN E w ~ 8
+v—l U c:
+O ! 1% H O
+. :3 ”o
+a wWB “<3: 3 8 ”5:3 n O
+E M-E> go. {3 {6 0o” I; \o“ ‘
+«33m H u w any m a
+g «3% 2: g 30 we a g “
+H " M
+Cl} {Emo§ get: g“ -,Q 33% a ‘9 ‘33 E
+8%53 0:6 ou'o us” 0 . ~93“ 0
+Scan “vs - oé‘w .3 ... ' ' m. 0 c8
+, ‘owbﬂmfg O bi)“ bi} gang ”3 . , .. 0') a
+§ug-§-’BE’ 0% was 3% 5? g d w
+w '- ‘ ,
+, i.m:3°3$3 “3% 0-4389 SECS g. «3 m D
+. s w E>»§ A a o magma "- v d ;
+8.538.Mm Hg E mags: mm "’3 3 J: "" o
+, i’m 0cm!» *m“ (3 :3' 35: C&EEH 4—- % m
+4% 4530” 5.1.“ {4-4 Ho “ 0:943 ? ' “U o ‘1’
+H” >~ .8 £0 "‘6 .94qu 0'0"“m " g m :34
+; §§§2§%:§§% 8 '3ﬁgﬁi 35333 5 Gig ' E
+; %vomo Hw m MW .omww m m a a
+z mﬁk‘hwﬁ 3"“53 3:: 332::‘5 “cos"; ix: ‘0 i w .
+.. Waco '00 m r:- «w '53 o M
+i Ew‘wmg 130 m :3823 .gmggggg i .8 g E: 5
+maﬁa.“ 0.53 g;- 3 *5 «g as i 3‘“-
+“EMQO “H w n.w o«. g 2 §,v w
+5"! cm MT} om ,2: sag? gag“ «4-5 1.33 '0
+.3‘Mumw 5&3 ow") g; E; J: H {33)
+2 ”293% as e ”382-0303o a ”mu g
+2 ﬁﬁgﬁg 3% ﬁ g’wﬁﬁa gma-EE 3 ﬁgg E
+M M w “ M“
+,wﬁsaaz 5x 3 “”“°“~Wuﬁmw 8 m g m
+o ' o > . O ?.C: 3 w._¢6‘) , ,w
+g 94:3 J30 O 03 M 9* 3+» .332
+So E» 38:33 .338 {=13 “Meg; E“.E.§§3 '5 08.33 $3
+$0 mg’m'gm E03» 3 §§.«>§ Dgw‘wo % m ‘7‘ ‘
+z Egmgﬁo Q3. .H u g $.owamiw ma £380: 0
+iwégﬁuak £~ 3 VW°Sggaﬁwg 5%? 303 U
+giggﬁmé ¢%'3 Eﬁﬁgﬁgmgﬂg z§“w §¢§§ J
+o g§z§§ aﬁxa 83§§§83353 ‘iag tga: 3
+O ‘ 0:30.: ~41
+m mama; 3§§§ Sﬁsggggaé '38 mag. 2‘
+. M
+%,: Qawwaoaaaa 38 §§§S m
+3‘}: E g , PI.) “€6.1‘H Q ‘
+a N S ' § 5 ' MMCLN m
+3
+. H v 3 w R g h w ' i g 0
+mm V; tr;
+
+w
+5-3 6’ ~
+“‘53
+a) ‘00 3'5
+:1) «3% 02
+=3 {6d
+a Mo % EM
+g.‘ on :3 Ho
+, 3 car 833 3m
+0 go m.§ 9'
+g 42.93 8a; :1?
+.353 5:0 88‘
+vi 36$ 553$ ‘5
+o 3 "3°” 9‘8 ‘
+'0 mg #3:: 09‘
+35‘ av; G)” - MM b‘
+c: ‘9‘” E "“ -° m
+«3 saw“ Qb‘fi mi: t“
+o 3.!" H930 ‘ mg 0
+5: «:39» m
+84 >‘E—i on O
+”“0 wk M
+‘9 "3 . 3‘39 <1)” 0
+'55 S": 330 ”ﬁe; go
+3 53m 0 gm €413" - 9-4
+a: no “’8‘” 943% B
+9“ av 6338 mo§ O
+5 {Hg 5:00) 83.19 m
+"‘" .5: :30 ‘ “N
+T5 0c, .6"? 8&0.) ‘9
+m 3a} 1—H” 833m H
+' 0 “H 0 n< M.” o
+o 99.) aw <1 g > ‘
+IE” *0 <90 wt: - o 0
+‘1’ o “70) Q4333 .wg co
+3-: 0 Ht: 0 9* E
+Q‘ H 4.20 ‘63“ m0 :3
+_ , ,w 3; 05 mi; E? ,g
+g 8 E :09 84:“ com ‘0 '
+0, E... $1. $23 ““8 ,ggo‘é g
+8, Q “0 «4:30 “J: .._.
+. c-d. (3063 (H 5-1 +4
+V G) k a $5 "3:1...“ Cg” .2
+*4 E "c: “r ' 530% .N'H'ﬁ i:
+E % g cg Bgm wgoo 3
+o a ,0 . ma 8‘0“; . ﬁgs H ,
+=5 “o 0 3‘9 z... “-9 mm 0
+» w “55 madoﬁjg .2333 $1
+3 8 Q9. ‘ $tﬂba.2' 313% g
+.2: a, 2225 388-0332 $53 a)
+(2' 8 3,0 ﬁvmgmﬁ HHQ a
+.c, ﬁg ”5E>E” “gm '5:
+'6 a) 'Iﬁ'm - , 830600 .600 h
+:3 4—: “'4 “*4 H O“ . 3" . 0 9
+:3 ‘89 - . mm ‘13 E {Dag
+66- 0' .muwm .n mﬂﬁvoo F: mom _; . ..
+r12 $4 9:380 o O'Euw-nﬂn m Qﬁ-o- . *1 F1...:
+- “U “m w 9 womgﬁo "8 vi: ‘0 \O 0%
+H: G.) “No ng—«W‘Q B wag“ O
+83:; m 33mg 3 gmg'go 4) «8°33 w 8 853
+mung a 00:98 :3 g #039; 8 ﬁg") 3 o 0"
+‘30:: :3 ”gm 8. gg‘vom“ o“ m- "’ gm—
+’~ H mm“ m“ ° ”"3“ o ‘7 ‘3
+Enzo Q 0.mw¢m m ”Hag "" CL 73 d) O OO
+aﬂfé‘ a) “$33 9 moag‘ﬁﬁ 8 $5§ g” % m‘
+$1,263 _ QEHO a) 09‘330m M -;Mm a E 0"”
+........m' (jg. ~22 63 .8 vwc: a3 ”.4423 “8
+m_ Pmm m ﬁ8£b¢€30 0 .ﬁg 8 d) 053
+0a 00 (/2 553“ U) 0 egg)
+.%0 ' ”1 mm
+hum .5
+Q .H o) m n
+:4 a m a 8 n a 00 §-
+Qn‘ " :3 v—4 [.323 Hi 'ﬁ 0 “T (“-
+«m .QQ m". {-- zat: E 'HMQ 0 xx ,
+322 mm mm ~ .‘.6’ 23933:: '3‘ '"‘ {B
+“a ﬁg :a:“ gag agﬁgﬁ s a a mm
+m -;1:::M:: , Eu“ 5 N x Qﬁ-‘c: - .. :1: '
+m o m w V 9 E ‘x 9* cu
+"" “Earn 8 ‘131mm» :2: 00¢: 51?. g c: Q m o :y: g
+, U 13% 03$ E 23535 Nagugz 9:835: (‘0 5: rt?! 00 8
+was; *iﬁgﬁﬁg o 3301)“ 3313933 - ""‘.SN .55 F: 8 ﬁg '36
+oh ,u C3N “o““vQ >11; “ ‘*‘ *5“ ' u” *“
+5 ahw<0 2-3m9 ﬁmﬁﬁzz ﬁim 3 3m Q %E w
+M ‘U "G O
+‘3 455:9, g g “m” 0 Q
+m ‘
+a.) MD .0 as $11
+c: o :2 «Wk 3- >83? 3 zéli‘ic’og a o
+a m o $4.6m 3:38 (6630 o O .mmwg '53
+: ’2 co “5 'o «a 1:534: E‘s kwg 1; m
+E o o ‘35“ “:35 w H Ooguo .8;
+a: .9 ,3 m ‘13 r1504) nu EQM' ,
+:1, ”NM 4.1"" gm“ M Q. m a)
+o m 501:3 ma. --.....--« .- O. O a M; o
+W .xo *5; £30 m.g EH” .0 n“ . o 30 (E?
+:0. .... .mo>= .0 00% 5.3 '«dﬁmﬁgh xx: 9:} M
+> . ,;~. 3;; 3‘90 93 dam... £3 ‘ . o u;
+* g 3Mv%8 30 mg 8 5'3;me 3"” ‘5 8
+.... .  m ,__. '“Ho m ' - m” .
+ﬁg %:§§e§é ﬁg $23 a a Eggggg gg g g
+’ 0 O ' 7": :3 “2:3 7‘“ 1'3 ‘ c3 ' '33.“ a.) .
+’ Ex: aribﬁ ”Egan? 7H3 ﬁOg E I moggngm ED 8 M
+> Q xgac§c>.;>ow-3 “3.. _ 0mm ‘9 m
+. ,é “ﬁns :3 Q; >~. u 1.5:!) 1:: .. <6
+§a gm 2“~>i“v gag s '>“m“ E gz -m ~
+Fa 0w 5 30$ 3a »a« ha gooﬁgw mg 0a a
+> o :10 5o ,ng .‘M m ,at} ”’9 523‘ .000 ms: 323' ’33
+, 3:: ”??‘- amﬁz’oﬁv 1:385 8‘5 mgaﬁsmg gm 23"“ Q
+E“ ?ggzgéggﬁgﬁ 23% 2;: £§3§.%m a3 £216
+”-4 9' ’ PIN! :,’ ' "W ”3% Q ‘m Q}
+m g .mngaathg 3mg 3 mcavovg Mo £183.61)
+"3 >03 ‘00 :3 0’“ “9‘” g g “Ems“ 6°59 ”4'53 0
+01) £20 QMﬁgwmm’.m ""53"“ 5310, E ‘5‘: “4'3“, 0 man; 3—:
+E a 3g g 6w§u§€ $33 ﬁg ”Séaﬁﬁéggg ?§ 5
+E’g 3g §§§§§§§3 sag Ea Ef§§ §gﬁgﬁ ”“ 5
+2 §* Eaga0%%§“%3o°§5.2§ §€$ao83§sg %E E
+Qém agsggegggég gzggaa aa§§2“3ﬁwag ﬁg E
+D ’5’ .... . .9» WU . aw 'w H 0 cm M ”3+“ 4’ S ' 0
+~ » E» ,E,V3'..Q'$r‘-» W 3,9 *“MW‘NGJ 1... “M“ :5 gm“; 0 .
+gé§ §wg5§j§§§§§§ ggggggg Bg§3253£x 6E§L9
+’ E 9w W ' 3 HM.Q 3‘“ :6: "" '23 .‘w‘. “wwu ' $23 - .44 V in}
+g; £2 eguﬁéegaggsm * ‘25}?ng ,1£‘§“52£3§33”§Bm1 <
+» Oiﬁ §ﬁ30§3é~g§é §§fv§§ ogag.gggaﬁgg§ ;
+3: i252 °§-E £3 “30‘93 voogﬁﬁ 3%83.20.>-§..o§88.8 {E
+0 am a»,::‘..@ 5 o amuoumamﬁwuaa
+{)me BH'SBUg z‘“095.wmocg«oco' Q
+E» E » _ mmmdmaoUQnUU E:
+m ”’1 ”?\D, r: 00 a S M U
+H ‘1'} mm m {n ' - "j H N
+v w W ‘0 end “5 3 “3"?
+0‘0
+
+g g “o '
+'6 ..4 ‘63“ $3.8 ‘
+’3 “SFOg “‘3‘
+o Ewgwm 808230
+59: oﬁmssg m.goa
+V g %M3§g 83:2
+' “3 B.qu‘mdgﬁgg
+D "‘ O M06309
+- E §§‘Géiaﬁﬁgg 3
+~ 3 :%§83§§§§§ %
+H M
+5:: 33¢; .E§§8§3@ m
+a mimogogresw _..
+' v a wﬁgao'g‘égé g,
+g. ﬁﬂwuumoQ-e IN t6
+0-. “QH.§"‘U}MENO 94
+V «3 Jgﬁm‘cugoma
+ﬁrm: ”opggﬁuogm
+v u—q - £H§ M's 00%
+, 3m .ﬁ odaﬁmm
+MECH‘G' ' 5’0
+.29 «Domugg >~.Q‘*
+23$ 9.50-2.53 2:..“3
+Ho SE" 0ng “Mg
+, ' ’3 008,5: “‘34“ 5-4
+Q Q)“ “0'"‘Hﬂ .0
+355’ “wmo'ﬁ'g”3n
+. Ql—c Mmipmgo§§.§
+g - ”8 83g§°Hﬁoa
+p... '5‘” ga‘ﬁ’wmg'g‘é‘ﬁﬁg
+v €38 o'ﬂm‘swo‘“> '53
+V :3 ”muhmﬂOQ
+U «a Q) :3 m3
+3.. -:: - 0m%w*o—ﬁo ﬂ
+0, 0 93 Eva Hams... 00m .
+, a -; ﬁg ﬁngOggaa‘g
+- A 0 $2 ﬁgnﬁﬁiuﬁﬁ o
+w "2 :3“ "ém33‘ 03¢?‘MHQ
+5 <1- 2% 3mgugaaxd%m
+3 g 3 gang}? 6-8g£§.288
+2:: “o mmmo%.moug 3
+~ 0 o 8.3 “0‘335 “013:6
+W o) 3 ﬁﬂuﬂm B‘G...S‘—10
+ﬁ m 3 %w5§3§%3&38
+s: A *" w..-
+w E QE Eggadégaxgg
+”5 .4”: a «QB ”C1 05:10:33,001?
+r: -- '"f 09 :2: mﬁﬁ m>§ﬁ§0 .
+w .23 5.2 ﬁg aooasugggwg °°-
+. m .mw" -v-I 0
+3F 3% a m“ ”Zﬁgg'ww83v‘ “
+05 an a: 35:1 gm ,2” >::: “o a)
+€“g m% % gé. Egoggmgﬁago g
+9.42:» 88 3 ‘32:” - ggggaog'ggmg %
+~~s o» 0 »§ . ampémsasv 2
+"56 D guwﬁMoggg $
+m .
+.....u
+mm. 8:“ a
+o a
+:5 :9 E; :2 :2
+Z r... $4 n , M
+>3 I o ;>~. Q ~ . -
+0w 'gm 4:; m I 9* 9» ‘5"
+Man I no oug- _- £31 . V? w»: q.
+"E3 M “K. x A ' z z - . h .
+3» g :3 2% 8 2:“ “ a ﬁg 0‘ Q’
+u-Iu GJ'Q‘x \ {3 (:3 (2?: Q m
+nut a a 83
+£0 ﬁﬁﬁz E: s a 3 Q qg m g
+mu ﬁﬁvm g“ Q ﬁ 3 “ gm % a
+g9 «MEZ a a g E E H? g g
+m ' . 0 UL) L) 5::
+'3 su'd I a
+ﬁn to .
+c: .ggéé’ g 62% gm % €53 8 .
+> 'v-i m w oM-I ‘3 ‘3
+5333‘s > . Egg 3.8.". ‘53 {33 0'8 0
+a ”mu“? = +50 >iﬁmu 0m gm '3':
+a @0530 Q ”H": 8% 5 “.9. *3 9 um “1
+m, w 9 ‘\
+E » g‘gmaa o, aﬁ§ “+588 33.0, 5‘: 53‘ cm E
+a “”8? 33 8g Bmﬁv :3 g A8 3" g
+m §§§wo 00 ﬁg“, gﬁgg 3g :3 ﬁx; f§§ .8
+, :38ng 8% 30% W'D'ﬁf-I: Q“; :3 moﬂ.lm.n ' g
+» Queue)“ ‘H ”33%“ O -- o 0 cm 0
+» “H'O 0 DD E 0‘5. . . gm” :3 o a} cad) o
+, i > g; 053 “,5: , . > t: O...“ H'ﬁ §> 00) S
+» » M ”.33 w 0009.5 mwQ-dw 80 m ' C) s
+: ‘3382g3»&n,»8852 agav -a3 3 @e 5 8
+o; o, > ,3; a3 ,9 .. ‘-
+§w gmﬁ‘g: E’U ggﬂggf §rxﬁ§ ﬁg “U “5% 3;; E
+ioaamhh‘ OE. i math; 00-4..» a ”a mi: 9“ :3
+. Eaﬁww$awe vmwv wﬁgm 3e ”9‘6 80 0
+ﬁgaﬁﬁﬁwéa 335% -§g£§ :69 a%§%:ev a
+‘ ’ W" .“ ,mﬁ gays“ .Ho "ﬂat: .221: w
+‘ gnomgmﬁwﬁt 3 Q “33%“ (30 530% 1mg;
+x°ma@83%o wmma uv-o 20 “a $ *
+2 z “0“35’a3ms 3.0%8 «>835 ° hams 355 ‘
+.6, wagogw .‘ oxw' «5189 m0 wmsfd 0.3-3
+A aa§w§§van 288% “ﬂue 3; 335g 3% 3
+Q r ’ mﬁ'O w Ho ’83 1‘35.) o Oné‘“ ”M 'N
+‘ 2 » ,w 0 0 «)9! «~- 9 H 0 Q5: 3
+Ugvamaw~ﬁgg abgsg giga. mm 320‘ wm . U
+ioéﬁm3‘*wa~w>~ §¢m0 am mg ﬂu “0%” kw ~e
+§Z imu» mxmoa amwz “ﬁg“: gym. gﬁw “153352: 4;. ‘
+m “863 23335 O €8 {_}5§ , “0 ,ﬁ0 ‘5’ ﬁx“) 3.4.55!) H
+O msﬁ:§»°3.>§"3:" 3&3‘3‘583 iu“€'5: éwygﬁawﬁ ”‘3‘“ Z
+L) mo?) .. 3;: 1:3: :4.“ng :6 g eﬂmﬁaom’g‘s «3’5“ m
+mggommggago gsaag §§°§vé megamgmgoug a
+. , ' 'm m "" ‘F‘ w w o
+: é E I (A Z 30 mmumé? mmamﬁ) Q
+:9 2 g . I Q
+"0 \zzaxN 0 ~
+Q «5ch “3 ”‘- '* N
+. ’ 0 ““ ”w w 3
+
+, 53' 3%
+~00
+CD 3-» 93:1,? _ 8 "3
+QHE‘: “‘5 E 2 >5 @6383 05 x
+$35 g}; g 3 ga g 5‘53g3 c: a E
+"ﬁov-ﬁ H H w
+3a3*%§ 8585’ gs gauﬁax o 8 0?!
+iﬁgggga 36% wk $§§§ﬁag § 38 a
+. oat: m?) o . m m . m
+" EBESMﬁ 003 Me» 5 m cb'mo $3.; '5‘: m
+“mo 8" gs: 5) “‘gme‘ "" ‘0 a \
+ﬁggégﬁ Egg 3% g§§€§§§ a £3 5 x .
+w‘o ' a B
+§§s§§§ ﬁggg a2 §a§2§§§ 2 . §a.% 3
+' o “883 sage a% ~aanamm 2 a «g 5 ~
+a§§kgm “3&8 ﬁﬁ agggggg < w 2Q.m %
+Q a 0 .4.) 0.4:: HQO ' N . \ M . m
+(15.00 ’U :0 M;> £9 '3 “0.2” 9 co 0 ‘
+wgmggg, 3330 gt; gggyvaﬁg g m “g” 8
+gwggﬂg man” 33 gogggao m g 03 h
+:3 Q.) ". m4 “M "“F‘ "" 3-4
+ozaggg ﬁgbg 35 ggaegén a z 80 93
+Baaagw 53:: «:8 5%000113 :1 W Zed
+’0 <0 o .*;30 ac: .émmg 4... M 3 mo 3
+'33 £75593 ggmﬁ 0% ‘é’gosog-E 3 5-4 am 3';
+agbaeg g~83 Eﬁ§miﬁ§ﬁ§3 g a §§ % '
+'3$§%”% ﬁéaﬁ ﬁgﬁéﬁagavé a a a; g
+o :c'g maﬁa mart? *3 me; .... o o
+O " 0 00 H G) 0 «a $3 at: «a o M
+"Gm" ‘E‘ “’ng ”mﬁ-ggpbd “2350 an .212 M m
+asagao a - ﬁ 0» 7"we 5 ~% F
+. DEC“ 4182“?“ .SHO 3 ~34 CH
+égﬁagg 3:52 a~vag 33mg 3 8 g“ G
+8 w 33' E 0 m a.) ‘H > 9‘0 O 8 9 O :3 agent 0 . ﬂ «mg. g .. . ~
+.. , , , "' “arc: .. . -« .w-o- - H .'
+w .20 ."mg n 0° .33ng 3kg - u gﬁwa
+“ “33>“ 3G8“ §“*Eogw ° 5 3 «“3
+a 000.9“ .0 a macaw ﬂ<°°t m 0 ”One?
+3 €“3axﬁ- 382% -%3§S~ 35% 3 ﬁﬁMu
+' 3 ﬁﬁmmgﬁﬁ Baa: éiﬁgéaaégﬁ g ﬁ @353
+““13"“ .M D “H . uﬁm'§_ﬂﬁ , ..... :3
+g aggﬁaﬁﬁ mﬁﬁo w&§&.a.vm9 m 3-»gae
+,9 $5£§B3£ %gaﬁv§§$c§a“g%a 8 % §cs&
+” gaggggﬁ bag: saggaggaas-E g §§§E
+a 006 ”m ”Mag *5 axe wag 0 : auag
+a 3mm035” gﬁmw 89-§Eo*§ﬁa @ 8 2*gﬂ
+(.3 agﬁgiﬁg $3.273 _g-§.§m§.8§3§2 g .g mgmg
+u £§§§£§§+ aége £3530§GSSE 2 2 Egg“
+‘7' “3% m0 0‘5 “00:1” :3 u‘ét‘oﬁ'a29” -°"- --33 “'3'”
+‘5 gm-‘é’ﬁ‘hguo aﬁmg 33a“3'~5°s*“a“53§ 8 EESAE
+m '0 oan-w 3.300 '13 «$138 0 :30 .0
+-. cggm'gzswa‘nu 9.50% oga>ﬁv> Og’Om g “55$“
+8: Emma «w» o~aa.ao oaﬁmégﬁm*””'~ m um»
+9336) gﬁﬁé‘og'wg 08E” aEggEE-g ?%gg '3 Egg gﬁ
+....., an on .w Max :2‘“- 5 On) '3 ”53 Goa ...... 0 mm
+99: .3333: “C350: acetd H‘ng.§ Q 0““ww g. mhﬁmﬂ
+k c QumﬁEoka g'mho mm mugmgngm 'g 0....
+t%% smwggggu aggg g§§b§s£32§oﬁ_ﬁ ﬁﬁgﬁg
+.55; ﬁ§%&853.£ Moot.) Emoobtfoogom MM 5* _
+76¢ .
+.E‘cg I
+m cm I“ ‘0 c:
+34 w m H “ w
+<39“ 3 ' Wyn G4 V (\lm 0‘ Ch .
+“m .m 94 .t“ .m M- M m
+0&2: h'N O Q. 0 ‘ . . .
+Ga 53 ‘ E .9“ 2
+534 Q Q Q o
+M“ Z .. Zr!) «3‘ (/3 Q m
+’6 “E 8 “M Q n z z z 8
+go 3 ... go“ ‘11: 8 :2? c? r3 “33‘
+ax Ed E $5 3 g o 2 s 3
+mi.) .4218 U ﬁr: U '53 m ‘3 0
+mm: ~2£ «59343 a $3 L3 :3 >3 ,3
+«a 5-: E»: m N <3 .. £3
+E
+. 1
+_ m '2: . ..\ 92 c:
+: ﬂ §: § 3 2
+$3 1300 “ .ﬁ ‘ g g
+:5: E ~Ma$5 '2 Q 0 3 o '
+o: 8; ’3 -330'5 o m 2 95’ % EH £9
+E u-q 8 .0“8 0 ‘h 9"] H :5
+E m '3 aﬁmE a g o (3 h; g . m
+z .w' W «ﬁg 3 '3 .5v 6 .m 8
+E 'c: o 930 . Q, o
+m 3% ,3.§g§3 & a 30: g m g
+rs: ' o
+a) a *9 .asw'ﬁbﬁ 9* 9" mpg“. - o
+» 3% ’3 ”8%? 3 ﬁ -§a% §% 3 3
+3; >3 ﬁgm” '5‘2 '53 §..g 3?; -§ E
+. *ao §’1~®¢ﬁ o a I am a .0
+2 E3» 3 fﬁggg; 1g 3 §g8 gag :2 «E
+. 0‘3 ’8 ”“8 a Q. So a .2 a '2 o
+. * fog .2: .ghgguw ”o 2mg ”a 2:4 «:3
+F H9 65 9.x, ’wﬁxg’gz’g 0 @"ﬂ'ﬁ’; Q“ l.“ 6)
+§ éao§ .noma:s a 'wga Eﬁ o 3
+* g’o’zx ' E £33.08 0 a «33:4, o: -.> a
+go .., O ‘3 £333» "‘ goat: 23 V (E
+eiawg 393§§§§ﬁ ﬁ 283 «3 a g
+Z 35» ﬁﬁﬁﬁm~wﬁ “ G8 g? g m
+up; a 3:: '"ﬁ‘ 50 . o .
+“‘1 €38 og‘aagg-Q‘ g gab 3% ‘3 g
+E 00:». 0° 0"“0 me), a c0943). 0'33 a: O.
+2 5m% 8555”““5 g aéﬁ 32 3 0
+a > 090 F" ,,
+8 §8% §§s%§;§§ a 23% 8%.g 3 §.
+, » , » ’35:, » "i “w ‘ . e0 ‘9‘ gh
+» Eggs “meQSVMG ’3 g, 5, AE‘ <35 *4
+Eggaég }ﬂ%§§§§§§’ § aﬁmggg E g a
+: c: ,9 ”gm 4.; g: m 3:: "“ ' a ... ‘ a
+'ow ....
+éa" ”5° ”ghamai’é‘x “ >5. 8§$§ am 63
+Qioﬁe $s§0oao§a OHWEQ m2 %
+m tibia 0-H» ”Rm“ . O
+' gm ' § 3 ’ i i}
+. é 3 M
+‘~ $8 5 >10 kc SN 00 0‘ g #1 a
+Q 06 oo oo 00 0° °° °°
+
+H $
+{)0 g H
+i 3's <23: 8
+'81; &&%-~
+I g 0.9 >, E
+E “a g s 8
+ageg Eon a 9“
+3'53”“ (0.5 .21) $35
+eggs 8:» 3.9.2 3:“
+$3.89: 33 we ”a
+"cam a mm :"m‘ ““3
+55} *M@ Q
+V mas» 3“ go av
+3:? ngg 3": . t” 3'8 h
+0.....53 ”b‘gm “9
+ﬁrm "-5 o-ﬁH’U .gg {4-4
+0.50 v.0 3% 0'5; In
+““02 0'54) '3‘: H
+9 Elm “mm'Um
+"5838 gaging) "5:42: . :10
+”o 0’ $0380 3% '
+ﬁ$8§ 5333: EM
+5"? 50335 G
+61333” .lmQ” 13°33
+2:308 .Sgwh": “W ~
+0 -Mm "mQ‘uE 5.33%
+£3930 ‘ $33. 3'5 W's
+Q, 3.53 E’ “QEVS 3‘30 -
+aim”: «2 ”$9“? “N
+' Q4 «a £3 CH‘“
+5-40 3—1 *“ 3m“ CE
+9.3::- o 8 H8 HO um
+, , <H> .x: 9.. gamegg ﬁg
+4-4 m4: 9 0-0 H- g. .5. _
+zvm3~>~ w m z: -- - .
+’63 eggg'ge‘a ewggg m3
+H . H . m
+g .ﬁ93§£ﬁ*'383£9 2%
+75'5““0 ‘- '5HF6'G-ﬁ. 9““
+’33 Eﬁgﬁésﬁ §§§E§a i":
+:1 aoa'umm 8‘9“ a_c: a8
+‘3‘ CH “309‘” ”3 H 5853-1
+3'" ogowgﬁ “us“ggs ax:
+- , b‘abmvugo Gwmow '50
+V a m.ggow_ B} 0’s“ - ~$~ﬁ"
+a .gﬁégag ”53:58:; gm
+5:) $333503 gmﬁ'ﬁgu ﬁr:
+oi asog-ﬁo >99.“m§ :7:
+*g H ___; ”>?va mggas" gg-E
+. - . 0o Oﬂo v awgw «x
+as '00 In «a DOS“ (DO ‘ ID
+a w a aﬁgﬁee §n86me HE
+8F 8 0 “gordk'c: E‘SOm‘S.m 3:1
+as c: w 9’...“ “”0 >=$‘L’w0ru 0
+c3“ 0 0 umwg“o om mg: 9:: .
+a... =1 53* Q4 mwﬁgocx D.G‘Eolo 3:53
+m2° 0 ‘0 0mm “o ﬁ“-—<;:: g, u)
+m H mm R Q went“ 0 .._¢
+”a 3 a) msgng wgmmh $1.229
+mam q; 0&wm :30 hwgh‘ w
+m_ m m maggoﬁ guooeg ”g
+u 5-!-
+ad: , 00:23.09 ﬁg
+mu”
+9-4”) %
+04¢ m
+gt... a; co“ ‘7‘
+3“ E ' ” f R
+>.Z C.) N 6: ii - .
+0+», . ”<12 t- c3 «3- Q :2.
+ea ‘3' £2. E *3 *4
+"u --4 dd . H 3—4
+3&3 > '6 U) Q “‘2 E. F5 0
+U 6-4 - m ‘d‘ a > >- m
+m 5 c3 -_54 n g. m m cc:
+«M: u a w v“ w -5w.§ .5 ,3:
+g& m 3 “‘5‘ E E .9455 :2: a
+a U :0 $80 .8 g
+g“ m a g: C
+0 “ -- ar-d
+a '33 o .4: m .15: z 1!) Q
+g 'u o c: Q, .3 E» E H .
+3-: M - E “3:08 Sun ”*3 0 .S 0 £3 £3
+8 ﬁbgée 83s a a o o . xag a
+E “gme’m ’Uw'“ E a a $0 :6; CG
+w... 0R0 ““93 G g "“5095 g
+:5 mwﬁo" g V H O 55 Q “Cog“ .
+CI} {"3 Mm}: ,og . '0 gm 0 W4 13‘ cage <2
+88§§33 “£8 -3 h v Q §§°~E 5
+0: Own... 5 C: O {‘3 H 0 HM E‘MO
+.13. H .5 ' G.) {D m
+{~§%§3§abg 'E 5 555'§§m§: ' 8
+. m - <1; ' . '
+005 'EOcN agg- <9 m gwgcé woggg S
+WZ”‘“E° oo- 0 m 0:233“ . ca
+.139 E _.-C3 2 Q y—s 051m : ‘0
+5533*“0 * “van a «a ”2-0 E'aa.‘w a
+memo :3 0.513» .22: .g 33...“ um w: ;...
+Mwovao m as: - w .v.-« 9*“g 63
+“$3 ﬁg oaa % 2 5a: ”gm 3 a
+Mo 9‘“ p... .a-«Ww-«m I
+% {b33§9§§3§§ e 3 gdgl§n§g§ 3
+Eﬁgvggﬁggao—ng E p... 8mm gﬁ’s-me E «g
+wwaﬁ Eéggé “‘g @“§~£38&8 %
+“(3me MO *5 0 “CS 07% ‘H'vﬂ
+m > ..... 09*“) m ca.w..« m ma ’9
+E ”maﬁawhmﬁ- ,“° 5-3 ioawﬁﬁ-Sgogvs: ‘;
+530500;? _c3..a S3 “nﬁovuuwma ‘
+m *ﬁgbmﬁgﬁogwu ‘2“: b.Ja§-§°§§£” 33
+2 §o“.3 €33“ ﬁﬁo-g §on gcwos . m
+2 amﬁga nge mesa M «Sc wvaﬁg .a
+»O’*‘ ,2 ‘40 CL 58m :“323:: («513023 g
+0%,“ 35390:...“ ,Q'I'J o.cm- mu—‘o
+{J E §w¢0.m,#g©§>~. 39'“ Q HEW bomggo {3
+Ew§§gg¢4m§§~5 3,§§§w;g§£3mgg 5
+Egggéwggaagéa eggg ageﬁéﬁﬁgﬁg a
+{m Eum0>5§g§€5>sa ”MUD“ ‘Qqaa‘wmﬁm <5
+aigﬁéﬁgmaﬁgg gags éxggoggﬁv. a
+gEggéasgg go ugg: cééwvaz“ a z
+uoamm “5 07.35:” OOogﬁ-§Q§._ ‘13
+’ z «5 Damwzo‘a'ﬁﬂa Q
+, i s
+:g g i E = %
+05 m ‘1’ In I C}?
+m ”‘3 *1 H S t 00 o o c.)
+
+5H .
+09 @0388 33 S 3
+{ﬁg . m gﬁ-ﬁﬁ «Sgkwg ' a
+gag m os§§ Eweme E
+~H>, S "(335Mt “8'65” .
+'3'“) «“3 Qwoﬁ) mgGéF-kg 5
+5M 5: 2§25 Emsaﬁ «a
+N 0 L1: 09 H”
+”a o 03 .
+32 gﬁ basﬁgﬁgggég Egg
+?aﬁ mo 3 o aggom p v 3
+gm :3 n Maﬁ.g'aw HQ€3~$ mQ‘a
+.ﬂm .33 “3 ﬁ.mmohab.c‘ .3:
+(g a; >‘3 owva ‘8 u? g l\
+, $0 >» “gagtg‘gmg (H GEM m '
+.... a0 0 00 "“.
+BE 43.2 Eahsaoﬁgwsa 5333 “5
+w 0:: «33ng HQ “m 3:: m ‘9
+. 3% ma: 3>3008bo§3$ 8430 M
+*Um $5.8 $03“Bo.mﬁo B 0"“3 a)
+$8 “3 %§&§$£§3§2: egg g
+Q, o 00“ “$0 “me an
+ES :33 a'gggammgo‘ma gag
+33 mﬁ gggeagggigg ¥§g
+g M .... Q.” 0-“ o.“
+gg ﬁgﬁgmagagggﬁag $33
+.5 mm” ‘CQQ~S.H . O0.“ HQ."
+.111. . ”‘0 _ 054' wwmw 3—! (/3 ‘4:
+oﬁd “ﬁgg‘ga'aé‘gﬁ’gﬁ'gé 368
+$3.2 ﬁgo‘ﬂo‘éﬁgggggﬁs gas
+Egg gésggggﬁaamégﬁ m a
+. .. mm o-auéw o o
+”’82 .E0.§§§m;§u$mm g“ gm“
+saw” aﬁw°w8€a°~m$¥§s° 923°
+, ggg mﬁ‘mw0w333593”= B"???
+, , , _ , , ..uktg. , . . ..3h.:4__=_.§_.§_n2 ¢..3_a_o.§._g__. 3-5 g . . .
+00“) 9768373930' °°§§60 $330
+an 33.5.2 :1 o.“ 323.“. B&ogﬁ 0:33:
+1‘: 09M»: wagon“ vgagsng 5:430
+a: «£8 “@1293998"“=-ﬁ‘9~*“3~69‘" 99"“
+...; av“ iM-géwoﬁzé‘323 Eu
+g 2'5??? gﬁ—cazg-E‘Samasaaa 0%
+. ow. . “" ﬂ 0 "‘ o-ﬁ £1“ «13 '
+g 53:: x§3“3§“§“:a§9 c238
+a 233 ovgagaﬁa§n§mma E”?
+H .
+3 Egg vﬁegggﬁggaggﬁg :5”
+:1 gm“ 33:00 95 $5.: .::.+'.. wag
+(l) “"238 $3543 - wmww 8%“ o.“m
+awn. ....DQH033PE 35663-3 “2"”
+g 33.38 ...: 3338§?g§0w33“3 EH3
+, v.0“ ...: "3.54;: wag, “3.3 a m0
+a E§a 2 8§3EE£EEEEQ§E% 28%
+«a $00.) a.) c“ . 5) “Eoﬂ'ﬁwuﬁ E
+mg 3&3 m -9°§8ﬁ‘5333a533 §a°
+.9599 0‘3 g mg'ﬁmwo m0 “’0 m 4—» m
+:3 w a w $93300 a) ! Qom>ol wol
+kg: 0%? % Eﬁ¢&“ g-agemgg $8
+9.. :2. Egg: 3 gﬁnmsgmﬂmagav Mtge.
+gﬂ'é’a’ «2ng g .3%§§0§§3gwg$m:a$% 33¢
+:...:a: 549.3 m knoﬁ90MF-‘M85MH. mm
+6)
+me
+Q a
+65m r- M N m
+g<ﬁ 3? ‘f “a f‘: r:
+9.». w \0 xx \0
+3m <1: <1: xx m E: Q g
+32; g :2. Cl. :2. :32 CL CL
+«3 m m m m ”m w
+M; M“ M M M M M M
+o _ o“- a o“ cs“ “ “ 0
+$3 3 2 3= 3 3 § § §
+«In M 3-4 - w—t '
+£0 8 o o. o S '8 ‘6 33
+M; M Q Q Q C2 C3 C3 2‘3
+gE-d m» m u: m m a E r:
+m ' ' Q
+E 3-5“ «”8 B$ ' >‘ L?
+c .§03323356o* ”M w 'E- m
+no.5.“ 33““) “‘3‘“ :3 cs , 0 u.) c:
+n «S-BEOOQE ”OH '>*3: ‘1 t: '5 3> '5
+a E3”333“$g:§”&§§ "5“ :0 0 0% E
+a ME§&0.3933332-§ § %3 b5 am
+a :g«g§8£°:a§z?8o m 13% ﬁg 3” §
+‘5 *vg,%£&§©3ﬁvao§3§ 4:: 3".“ 00 ﬂ” W
+"3 iggg 31,333.? gas 5533-: -‘§ as $0 EE 3
+’ D Q“ mgwg <1) ‘H-mgw §§_> 03: ' . a
+, . QQOU 0*, > ":30
+83“w§§S®Nam%ﬁ g .£~ Ea Hm 8
+Q‘Wéixﬁo “*oog‘aotﬁm Ge “33 mu: #3 o
+1 go o va“whhw :3 9 r3“ 3; - .m;; M
+$0030 -%.S"§C§u¢0whﬁi E3; 93 2:- 530 W
+' ??ﬁaagoaocguaﬁgsla -go 30 g”- E
+; @§E§a§%§3mmﬁﬁgﬁ ﬁ iaé $5 “@M' a
+ROAOQ mﬁg ‘ .0 '0 '73 m0. 'Cﬁaw.
+¥ Eg 92.81:: g m” 9, 3,54%“: 0155*} “‘ 3 E33 E?- 22‘ iga-ﬁ. g .
+§»$3 C: H‘M' 301* $336.} 3-4 {39; . -c;
+Q ,2: ...2mm '5 q; . g . 5W {3 . OD
+§a°aaw8£§wgegaﬁﬁ Eﬁ iﬁé §~'6§§ 0
+mgaswwcoagua*ﬁ>nw mM .35 “E wQ' ?
+[... E,aasgg£m>rﬁ.'33:: m * 'VMA gm $0 " CE
+. . .... “U
+» . ' 6.) C3
+§§g§§§§3§gwﬁﬁﬁg 3% 2%; EE ggg é
+.030 u.) . ”3:36 ’,c:.:dm d: . ~—*
+3m§§:%%§§§g§;33 $3 $53 s§g%%% g
+8.§§%g§§§§§na%§§8 £3 igg :a £33 9
+3w” as. ...; .9 '3’395’“0‘” ‘90 ”...“ ‘wv-‘m‘ ' m 6—3
+iwimws aaggageamg o« m.“ yooal
+§Z §§§V§££83.9” "M win” 533 G91?» ‘““mw"“<g~l M
+hi i » 9 a; 3'3,   * Q g i? {rm ,3: g ’ is rm 4;) Cd} .. g” 3:. E—(
+m éggugggﬁéﬁuaﬁga 9c §m aaiﬁéa z
+. 8 g3§ﬁ$§§“58”§9”% 3% §€2 333833 g
+0 ac. °> g 0; 0y; .mm'wm
+m EOmoogaﬁﬁﬁmBg 3 ﬁg m6? £3<m§m m
+> . . Z
+w E“! (3 5? Q (3 N N
+,I—t oo oo oo oo oo 06 06
+
+H
+H o o
+‘h‘ me—c 0 “"~ 9 g: .m H...
+§§%§ 388$: 3§8§3 E 2 5
+, "" o m
+igaé 52333 5883'8 S Mm E
+53:3.» “mom,” 0-— “s: a.)
+8.92835 gﬂcoﬁ £<3837 é $5 0,
+?Q'EVS Q<E§°9c§ 2:) 3.353 ““6530 §”
+.0 . ' N -'"*
+mﬁém?» “$033; aﬂgew‘ ?03; ”g
+9 ﬁg "5.53:0 gauge g‘amw mg 5
+saww 0m-0 53?; mw~s “a “
+3°93???» .Smgga 5'” :5 $§§ CH <45:3
+oﬁhw'" E&wp‘” “2:998 o 333
+Omsqm 5:05 90 M. “S m 0“; {\-
+umw.m, 900M." “SO 5 o a: 13m H
+“Gaga; 83mg). .8 "80.“ van“??? :9 0
+=13“ ' 'om“,c: maﬁa cogs: 8; on
+o 4sz 9mg.“ Ogo :23 “EM «3
+".40 WM 0 q; «a . O “Um Q...
+wg.20‘¢~ «HS .33 ' ' Bram 1‘3ng g“
+03...... '0 Bram ’9‘” OD” §““-'-* :30
+>M£> “0:1: '00” 50313 H mum‘o
+3,0330 ga’dqh 043.313..“ 530 me
+09*, "g '00.“. Q“; m
+KEQ>M meg»; a523v aw$% $9
+Sugagg Sega» agmea 8.2%:2‘ gt:
+0 " Mk I” C) H (3
+, .35) 63> D {-1 .22 ﬁt?!
+:3 ma; owrzom :‘écoo a ma) °°°
+,, "—1 .v-A-d 0'"
+Séagg §§§§ﬁ 8§§§§ :Ega ﬁg
+Q0ﬂ<w $4" >33 .hoggg 8 ”a Q) ‘
+00 -M Q) ”-4 a I SH
+§%uds ogsﬁa augmg 6683 “3
+0383.3 'ﬁsggg vﬁv’zsw Eﬁ‘é‘o’a 3%
+, ﬂ‘Hm 13": o . “'23 .p; o>v" a:
+Hmmgw goggo‘ ““5 ox ﬁend he
+:12 mv-d M
+V )4 HR 0'30. 03)
+Eggg” §§3§3 éaﬁgg €§g§—§3 '
+H O.“ '5: Q.) ' O -
+, ?¢wa «3 'UHQO.S . :38 uugag ' NH -
+$5300? §ﬁ g g 8 :5“ 0 § Q_,.___,,_,Zp_.Q.4-¢. .;..... .513; :4 D
+‘5‘: .'-—-«-°-- -"‘“‘ 90:1“003a0
+; ?agﬁg gzgﬂﬁggggﬁgﬁgggggﬁé \
+mm H ﬂ‘ﬁm -—-«;:;,‘m 3.3"" _- 0.
+' . “8 ”a ummmmEBHmmm§990gﬁﬁﬁ
+: 308”.“ Daﬂvmmo,ﬂ.ﬁgﬂ)£0'"ﬁ~uwﬁq
+33 5......wsuo gggmgggo.§ginv§§gﬁ_gm§vs
+o 50"“09 s. . .053"me “u: o
+v ‘34:: am? a «as. o
+Q asawm ”H's. 45 g 533': u 05:08 .H
+H omoom gemg H wﬂmago mun“ 23
+c: M&oho :oguomﬁoov'UEch‘ng
+d) .M gm 839H8’Uﬁ‘agso Gﬂ-amq’mu
+a ma-& .9 .ﬁgo §§D ﬁgﬂuﬁmawg
+__ “GU'EE gougeg Hgggmﬁugg>gopﬂm
+m “UM“ -m .c: o'saﬁ’ymuﬁﬂﬁmnmomg-m '
+a 530% wagu a~am¢aoa~aqa w m
+=3 0” §~m>~£503€kme “Ema.“ﬁ“ “3
+w hméaﬁ “av 8 amﬁaoqgosowqa ”
+“a “$35? Bomﬁmggé 'nﬁ'NEMOhEEE 8
+:1 003303 Ew' -€-~ mq-‘Gﬁam'aﬁgum" a3
+6: 3% 0% 'SFTQ'UEF-‘Sodgaomomwﬂ'ﬂg m
+H w :7: a.” 4:3 5:
+.3 Oﬁm-Mb ga4c Gd: m“¢§0¢>* £263 9‘
+8= 28w°m 0:“8ﬁvvlo: Uﬁ‘3980g w
+@230 0 a8; :3 gmmoﬂE‘m 230 {333 wag 8
+“-50% mun oéaaﬁgg “go“‘ﬁ’omvomg
+3.2:: goggg ﬁaaaggmgga°§§em§§§9 g
+But 1:; “630-ch3 hemmuﬂohuhoﬁm.o 3-1 ‘1'
+—I‘” ”ESQ" ”HOEQ'BMQ‘HmDO
+gz‘” ﬁw‘aﬁfﬁ McM‘“
+$7“ “
+38 -$
+* hm ' .tn H .'
+V m ("- 123‘s
+0431 "P ox I F“ - v5
+Gm N tn 3 - I“ CL 55..
+63*“ M o w M >4 :5." a ‘9
+ca :31 n - v ’55
+O I 0 o
+w: n s: “ 0 w ‘3‘ "‘ ‘
+o a o 8 g 5 E x 8
+om“ m ' m u—t "‘ o no 5::
+“0-! . E "-4 ﬂ pg
+9‘” g ‘3 :2 «a < E 41 5
+mi; 2 . l
+gi- E a a
+m k: . 0) O ' 2
+m . .ﬁ . 30 g m «w m8 3.
+a H '33 c: 'c: 9% “a “0"“ 30 .273 g '
+o a ° Emu %732 gm % ﬁﬁ'ﬁz ~%m a
+B ﬁkosa wwtﬁﬁ 8% 0 ﬁg 43,28ﬁ %
+g gAggﬁag.ao?§ 3% a °g.§a Egg 3
+§* ?%ngggﬁ gag; i: % 9v 33 $3; 3
+» «9'33“0 o$u~5 as "5:3 >3 «5”- 8638 3
+3» “M‘Srﬁmv~ w ,0 cu "w ”w?” «3ch o
+m goovhgh ““9? mm “ MQMgE mﬂcs m
+0 <1 G” - . «s
+saggﬁﬁo ~§§% ‘ﬁg ‘§.§Q%Eb’:§‘§ §
+§B§%§3§ $333 :ag §§§§ﬁ8§.§3§ E:
+;m0&“8§ gﬁmg gxﬂ g. ?OSé ;§ 5
+:3 “mmgug . 63:... gum .w-ggj'oﬂgocg ‘m V I.‘ “E;
+;5385~5g ”88w égw gaggéﬁﬁ 3%8‘ o
+§:89¢2§§7§‘3 Eagg 23"“3'; 5343.“ 'wv CLUE”) 1:3
+nmgamﬁg 85mm «“32; gﬁ-Eoggﬁ Bawb“ g,
+Egﬁmgwa §%g§ €83 $U§§§§§ ﬁﬁﬁv g
+E >1 3" .g av 53 M 0 O K ﬁ' ,4 0 v9.4 0 '3 mm 0 «rd. 0 ‘ ‘g
+éﬁméﬁ’ag’a“, 8723:: i855», §>3833§ 323% 35
+' anavm «0 mﬁog (30.3? «aﬁg u,;_.30f££
+{?ggamsﬁ aoﬁ- :30 3%£>.§:§g$ «- a
+.9 ’ 'H ax . I O . ¢
+. k gasdgég gésﬁ £§§ ?gidogﬁ“%%§§ s
+, M -H M0 H .
+Z¥H£gSomﬁ Basil 32° .ga.ua3tm.§w-500 3
+m gwgmggg “5§§. mam gaggmegggxgzg o
+03 «‘Su (/3 ”3:2: ”:25 “Homﬁaw'geﬁg' -'
+, mg‘; no “c; .m ow‘?’ mﬁlnoa?;gu , p}
+Q) ,MO 3 ,A-‘ h!) N z . 5:5}.J3W .' U}
+,. ““323 >\ «a "(a H . O .m.§.-m m $$mm‘ ‘13
+g.%§g§a§gg§§%§ .Efﬁ §§§§§Q§gﬁémjﬁ ;
+i , ’05 Wt: <3.3,’1>»a ‘2‘““3 s). '0’“' M: 50¢” Z
+0§§5g§igﬁﬁgw§2 iggi ieg2%§§§%séaﬁ g
+imw > V} '2“ 195-5 mom {0 :30 :5: '5-4’“ . .
+g H: =E£§§W§§§a§ﬁ Dog ””QEEomEvSE‘M *4
+9-: immonm 0mm: B $22.83;, “9:93. ”cgznm 51¢
+QMOQM *‘_wov Oo GUM caa.z «~ Z
+G imam; 33:33 go “Hm U :3‘50 .
+U i':m0g”§om5'§M‘b mow i 0
+cc; 5509*“ m0 ‘ g f i ' U
+§
+. § §
+§ § i i m ‘3'
+g ‘ N
+" >9 'oo’ o: ' oo 00 °°
+m 00' °°
+H
+
+a 50:5 in a
+
+o 2:: 0‘9 o E"
+
+.5 “3 $.33 £53 .8 o 8‘9
+
+a g 3x a& Egg 53
+
+3 ~~ 50333 “.22 u 51‘ “o
+
+{a ““3 3:20:22. g: 903.; ac: 0,213
+
+3 §% ﬁﬁ; 5* é”? 8% §<
+
+ﬁg gﬁ £33 ﬁg €63 ﬁﬁ “6
+
+9,53 mo “:2“ 'U ,o 5.0 03 33
+
+ﬁg Ev; ”$3 3 8'9: g'a-m ﬁe 39;
+
+o sw'g \0 sm“ Q {3:3 E53 ‘ CC
+
+gm «3 M m w aw M ace E
+
+no h». 8"55 0:: av ﬁg“ «9 m
+
+3% £3 avg g as '338 gé 3% 3
+
+"0m "" 9 "c3 «:3 6: o. 9
+'9}: Mg: V} U3 9-": "C3 00
+00 ma: :2: O "3” ca 0 H.“ ‘0
+gg “% g;&%§ '2: gga §§ vw 3
+Q) '5: “531: «5'0 0 9% 93!“ Q...
+“E Eh 86E ,0 m5 5:5 "‘8 “0
+V , ON .- U} N o :0
+
+ﬁg '53:} ﬁé—Sﬁgg ﬁg": Ev? 38E. ES
+
+2% 33 3%amm aw? §§3 ﬁgE 3%
+
+8,99 ?gausgggwﬁ 8%“ ogng :3 E 58°12
+
+b? m§8§w2§§ ﬁgﬁ §§€ 233 8%
+.J‘éh ﬁggmgﬁ‘ai‘: £23§~ gag gm EE
+0 um V .0 4...; +4 “
+{'3 H m Q.) 94"“
+go §§w§”““§ goo ggﬁ :9 3'3 §‘c’5
+E7335 'aﬁﬁogggm mag “‘63 géé w,”
+go ,Qg.§goﬁmb 30o 54,0 “3 53
+g coaug“ma ﬁgﬁ ﬂag £$E V“
+52.3uszaggg §g<i ﬁg? 352 §8
+V E u E .‘-’—4";_-:"m" go” .. h ":54" _ '4.» (.0... M .
+90 000,250 ""Vr 09 ‘ 5d) 30m “:9
+a ﬁg 5.532":- m.§8£§.,; 3.5.3 22.5% ass?» gas
+a , .90 «cag'xHOHaO 8’63 gm—O :qb’ em
+3: 9'3 Qoﬂg-Eﬁsg“ gwg Q.§‘B $03 ’28.
+Q ‘2“ Dséawaﬁ853 ‘gmg “ms aav Ma
+3 3% §€g®§§%§a 3&0 ga3 3%a Ea
+‘ O u w m
+o 3.9 _.E :1 morn 3 :30 g“ «.9 9
+a own '5ng .muﬁ‘a O '5 CHI) 0&0
+“u“ v .54 u “MM *0 Eon om
+o "C1 a Omen "UH ”tau.“ ":3“
+a ﬁg §§§§§gagg £8: gag. §§§ 5g
+.3: "a“ gmu.Nu-~§O_ agar: 5.45%” gm& ME
+5 3% gaeaaé ©~- man xva >““ g“
+w E? mg32§§3§§ Bag 3%53 “§3 3%
+' (6 o “-94 H“ w n "U a 4-:
+t: a.) 00 u a o 0‘61: 0 =3
+a £3 ggﬁnogg._§.% 03$ «2.205 gang go
+“3 “'8 38%?3'“"«5£‘~ 593:: 833%“ ﬁ-Eo BEEN
+«5:10 an-noﬁ «0% F58“ F1852 "3'68 2.0-
+9. 3m woowugmgo 39413 ”g.£ >23 '0‘“
+9&8 u? mﬁwﬂogﬁmm ma Bmwa vﬁg 5&3
+am a scans cv§ 8Ew ”'00 ”ﬁg ”Ev
+£53 3% gﬁgmgaagz eég §€$a 8mg Eég
+:3. m N s m 00 m0 0m H'” Mcl.)
+
+11L £21.... 0H?) 9“?) U! 0 wk m 0
+ng E30 oﬁaoem 0N >50” martin. mum wads.»
+
+L. M'ﬁomhmﬁnw '33 £130 50 6332‘:- 30m
+€35“ Mm HaommoﬁE-«E-ﬁ MELE Maﬁa M88 M53 _
+9-3
+nu!
+
+mm g .0 :1) a.) cu
+gg g 3 3L1)“ g . mm“ m h g5?“
+ég' g ad 2% Egg 52§§%$m§
+mm a B “H n “HUM
+g“ o; o a mug E§u§ . gmﬁﬁw‘b‘gw
+a mix" Céw -oéa oawoa” B
+M ‘” 0 H 33* M a? M a; H 3% H «3
+'3 M gag ggv ggﬁi EgC'LEuNEgES 3
+as d w«” a«3 a»: énwﬁﬁoé m 3
+m“ g £83 £38 gag E&Sﬁgésﬁ“ 3
+1-3» 4'3 08+» «>05 00“ "x“ x3335)“ “
+m 00 020-0 0
+§£~ <t MH-«E qm—a gnaw qmggmﬁqzz g
+' m
+r: .0 Q
+N
+g g M .“o sz.g a m “5% W“ é
+v-3 mob a-w §&.8 Q mmﬁ o
+u "0‘39 0‘9m WU'U wow >w .325 wag 2::
+a ﬁx; 32$ Egsggsagoga g2 2g; 5
+a “c: m: 0' vmo mm '4-1 m .m.
+«:0 acme: '0 c: woﬂﬁbgﬂ o," ‘9‘ u...
+m 0&3 cum wgo«ﬁgbﬁh m «U m 0 5
+02:0 . «3mm wa. H.00'Uowa: mg .Eﬁo q.)
+505 .35‘3 «806 gﬁgﬂmH—Gﬁe “.284. o
+D _ .' H3 .“0 1:» a
+, me” am“ QQ‘EEWHH 13,0 Mw,‘"‘§ 0“”‘13 ’
+“v” T; eawawowogomax .3 mo
+' w @583 ?Xa Egmsggﬁagﬁﬁggam g.ggg
+. NMW a: .o o '33th ‘..@ :3_ ‘ mgr:
+{€360 8‘83“ jugggwﬁgggwﬁﬁg Xgﬁgﬁ
+mag a%% -.§Qgg-§§og £33313“; gtgﬁvg
+égva ’%:$i§3wﬁgggggagﬁngm -2£m33
+~Aa Ga um o“u g He 0 . 040
+En” Emmi}: mgumm-kwwg “‘ .ca ‘7‘ $.“vﬁg
+-«:::§. 32*» ﬁ-—:-a~~s m m“ .0. £2: " '32
+* E E336 EwﬁﬁESHmmﬁaéﬁﬁiaga a ‘gb§§&
+g3...,9) 8?”: $0.00 w.a.'033u5... .zzzmuﬁ Q,
+:3303 ”mo gg_9,agbo .>~.-~ 0 «30¢. 0H3 H
+toga; v.53 3wm3m€3ﬁ§3§3§g8c$ .Qwug'g
+z avg gm ggvgmgsg %%“°8« vﬁﬁﬁ
+' . 3-1": . ' 5°, " . . ‘m "“‘“ .23 {34'
+En} Hg: 3 «a 6:20 33353 05%“.ng “GL3”?
+é §aa ESE §§§E§§§§§S&§§g§3 aﬁﬁéé
+“MA °££~bmv g'gg wgmﬂgaa ngw0
+0 a_m 0 ,9; Q.) 'Um‘O-a u m . 5““ >M.O ‘
+’Ui‘gw §§“ﬁgﬁﬁﬁ”§uvu§%€§9 a §§g§.~ '
+Q“ E' . HHQ‘ 350‘ 4-) 4.4 .'g ". ”.4 «up;
+{5 Emagﬁ faﬁmg> ,oﬁggcmo Ema $130 jmﬁmx
+Z Eﬁwﬁ“: Emowa-~“®=~¢ “”an 'M. Z ﬁmmﬁrﬁ
+** “ENE 33.052EégagédagwgagEa-«aﬁ ”v.3???”
+Q $.03” mv§a§o~u 2gmsgag~55§ 3““‘Em.
+Q §$gg OE:.Jw.£o,cg—§'§aoon.gd'gogo 0‘9“ch
+w E‘E«°m§ EOHtQ'U-“HQQSFEEE ocﬁoa SW'”M
+Em mm.“....a£—e...u..<~ . Hw<oo<mo Bamam
+. Em E E E g
+31% ’ E , E 0
+g \C‘ b 00 Ag;
+g? M. M. m. «2 33; g
+w 00 oo oo oo oozv 06
+
+Rev. 2? March 9, 2%?
+November 14 -- Abilene, Kansas (38) Nevem‘bet 16 -~ Morrison, Oklahema (31)
+November 15 ~— E} Dorade, Kansas {34)
+3.0 SCOPING COMMENTS
+The verbal scopirtg comments and comment forms received during} 0:“ shertly after, the scoping
+meetings are summarized beiew. Other public and agency comment letters received by DOS are
+described in Section 3.2 of this report.
+3.1 Comments Received at Scoping Meetings
+DOS received a Wide variety of comments at the seeping meetings, including concerns that were
+not related to environmental issues. All verbal comments formally presented at the meetings
+were recorded and transcribed. Additienal written cemments were received on comment forms
+V ,. ., VV ., V V V V ,.. V V ,. ,. ,PfOVidw t0 thﬁ? public_at themeﬁtmgs. .Cemmeatsthat addressed emironmentalmncems .are. . . . .. . . . . . .. ... . . . .. . . . . .
+, listed below under the maj or headings for the EIS. Cemm-entgrihiaveheerrsummariz’eﬁ’ae
+391W fereeneernsthatﬂeretsedhy severaicemmenters
+Purpose and Need
+
+1. Provide information on the distances between the prepesed pipeline alignment and
+pipelines that Will be paralleled by the propesed route.
+
+2. Provide- mfermation on the need fetfthe pipeline,__ané aéétes-S whether. orhet. theplanned
+Kinder- Morgah expansmnand the Bhbrt(tgexpipehheweuld‘ meet the ns:«.thattcléeyrstehe-=-
+
+' planswmeet Mthr this p'mj-‘ect;
+
+3. Discuss why it is imperteet to bring. acmde» oil pipeline extensieh ta: Cashing Okfahoma-
+ingtead: 0f building a reﬁnery furtherhorth for oil to be shipped to- the easteoast
+
+4. Describe- how the preject could affect effo-tts t0 exp-ahd the useef renewable. energy
+researces (such as ethane} and biodiesel);
+
+5. Indicate what Other agencies, municipalities, and counties weuld be involved in
+reviewing and eppreving the prej eat, including speciﬁc permits} reviews, apprevals, arid
+variances requirect.
+
+6. Indicate how long the oil supply for the pipeline is proj acted to last at the throughput
+volumes planned for the pmject.
+
+Project Description
+
+1. Describe the anticipated method ~— er optional metheds -- that would be used to abandon
+and remove the pipeline.
+
+2. Describe the methods that wettid be used ta crass undez m" ever other pipeiines and other
+utility lines.
+
+3, {nettcate Whether et- mt pipe te be eseé-Meythem§eetweei’é he patchasett ftm U St
+firing.
+
+4%. vaiée a S‘C’héétﬁﬁ fez‘ ceﬁstmetiett, ihciu-émg the estimated ctumtiett pet“ pipetine mile,
+the {ttt’tetéett ef‘ eeﬁstmctém per pipeiéae spteaé, amt émetéea ef cehstmettem pet“ day.
+
+5. Usesetéhe herizehtai d’ireettez} dtiitieg techﬁiqees atté' state the {iepth Beneath the rivet heat
+that weaié he étéiieé.
+
+6. Descrihe the maihtehahce proceéates that weeid he aseci ta amuse pipeiéne tetiabéhty
+during operatéea
+
+7. How Ieng Will the pipehne be in use and maintained?
+
+8. Indicate whether 93‘ not heating units weuld be tastalled along the system.
+
+Keystone Scegimg Summaxy Firm} Revl 2
+
+.. . 8
+H .
+G) U)
+E $3.5 g g
+5—. >\ ~86” ‘5 9:: S S
+'3 g 9.535% a o o 5::
+2 Ewavo gﬁ g « g k
+——4 053 ,3: 0g Smash ,5
+ia‘ag $3330 {3: ﬂ oﬁ'wgm '1:
+~03 Rmvcﬁ‘o 0." 0‘30 :5 «5
+V :2 53,51) '5 4:...“ QQQ'U 3..“
+(H gﬁ “'2': amt)“ .o
+'05:: ‘93 “-4: EN“ “‘55 G"...
+‘ “‘9 oc—«gm o «xcsﬁ’ah am
+a “ “‘3 +33 “993394;: *cd
+8% 335?? 3% gbiéﬁ 8% a
+"UV "*0 .M Mr: "
+§§ gggaﬁ ﬁx wssﬁg §m 2
+’ ma ﬁgmwg £22: agosa Hg. H
+-E 3§m°vo 1-39 8&333 “m 0
+, '03 'u°3§“ gé ~aeggn §8. %
+{3's £0020 M...) wgg >‘ me A
+Q“, Fwd .1? F" 5.) '53 E .
+0.9.9 ?0 :u , 0'13 ﬁQH.Hr-: 0?
+N.“ dﬁ$u¢u 3% .gggm 0-3
+’"§ cumgia moo *moaés “<3
+'53 alibéaﬁ mg .sgaaﬁg 53::
+28 am~sa m $”E&§§ 6E
+[“0 ' mugm-ﬂ 90 &g “330 6;...
+3;“ g 55.54%?» 3'35 “°ﬁ%m“ ‘9
+330 M m 0h} +9.33va 'G'ﬁ
+, (:3 «‘3‘; ”£3 .3 ﬁoavxn 3..
+v v,, :38 wﬁovgfﬁ AG ‘5.h§m3.§ £0
+' + pa), U 3.9%}? ‘ 8% ‘H.’> Eu): 8'”.
+/ vm 0:: 50"”33 Ea. mﬁoag‘ﬂ 3
+1:. o 4:” ,o m - =o=a+~mo :1 g
+l— 0,2,: ,3: 8+. 0 0'" H . 4.» _ mm ...o
+G) ,5)” v“ “Gogm mg: sgmhﬁﬁ H“
+E 9% "*5 soggg “3% euggﬁg gg .
+“a 11...“. . H o- ....
+A: $0 m gags» 3g 38mmg§ 86
+w 0&3 *3" “a 3‘5 ”3 gﬁvovg o.
+9““ g 5-“: gua—um 3” waged: *9
+9 .53 o «0 cu Vf—a ~33 cue m0
+:3 Ow Zn LHJQ'“8"‘. '05!) Ovid)” E
+.. 13+» 0 c’gng-vg 33—6 3.0+“g'd ’5
+'9 mg m “3ng “Hi: bag.” 56‘ 8m
+:1 3:0, -- amen?” On) 00'83%0 “‘23
+w 3.7.: '0 >505“; H-a—a”; “g“mﬁoﬁ 50
+‘6 '5‘ 0 “330“.” $33 . mmOs-e M
+, 9: 34:: $ «51>‘gg‘g 93"“ >“”°‘“§ a
+e: 0:.) ‘9 21:600.? game “3.2.50 §§
+em-a gw.0y 5w“ m> av -
+m. “'5 '13 ”pang “ﬁg aogggg 3'53
+15:: mo ‘3 "armouk $.t—1 'gmmG-l‘a’ﬁ 00
+’4: 35* 3 >5”ﬁ «:0 .c: 0N E
+9 a m mm“ 0 com waaamm a
+3’9") 0; “3 Oﬂﬂﬁ ' Sum ‘3 oﬁrﬁo Ho
+/ Law: “§- 5’ ”E: Oﬁ 0““ 5.53.3 :35: 3"”
+mze s a g w§w ”a M. o 3
+:9 8' a3 ’2; mﬁgaa‘k 235528- gﬁaﬁg-g Dc?
+'1 urn”
+gag ge 3 ?gaggm 0%: Sggﬁgs 5-
+"'"‘.-t 0* E“ MHOQOE Earn gum 13L cod)
+6) .. 0053940 can m.ﬁﬂ :8 >1
+.98 Um": 5450050 633.
+, km 0 «Do :23.
+a ~33 « ﬁ
+:39" MW 94 g
+63
+$2” $5 53‘ .\ —;§
+hz <35 0 1‘3 .134 :3
+9w 3 <9 9 .2 ,..J
+M“ m 88 .£ 3 ,;
+go ‘3 g-MZ '0 g > ~
+'84-: d: x13 O - Z O
+"-1 Ewg “ "C3 .\ 2
+mo HMw .53 ﬁr: I?“
+. $33 5*: 8° '0 <‘ 3
+35’: ””9 «2 $35 3.3 8
+:3 ”E 5-9:».4 -g '54 m
+m mm “ 3Q - ‘9
+a: QC? H
+“ a o 22 a
+Gun
+O 35 r? Emu gm m g 1... 2;;
+«J 33% 058mg: . :6 ”‘3“ w Q
+a g 00 .Qﬂwm.g~w._mgw 0439 :33 00 .
+, «2 chm nanogﬁmo ﬁwos s,mﬁ -.z=.
+5 ”5 0'3 330% “H“ owax‘D—u “>&an g
+a ﬁx ﬁg mxﬁgsgoﬁ anmaé anooﬁ g
+» =3 3'6 “*0 gagﬁﬁmw'ﬁ 3505283? @3715“ '
+m > ,0 :16} cu-mﬂ'dw uswu-w-m DBG-c‘ﬁm g
+Em §§ aggﬁgs'ﬁ-ﬁ 383052: gwg'ﬁxm 42
+351) ’0 ”36.0010006 “ﬁve“u 03¢)ng ‘3
+.;> .vm.‘5,m,c:&cu wagon“ wwr‘gmx ”"
+» ' 8% 2g Eﬁxmgzvg ﬁwﬁ>23 «géoow 3
+‘5» 2m§§;8.§e';-§w Igneaﬁgﬁ *Soxi-«ag o
+' ~93 aﬁﬁgogivgaﬁ gam‘ﬁ-Bg §§g%§,§ ' g
+c» * » .wa-mw '"uw ' .ﬁ .
+’ 3mg °8‘“°§ HQﬁv-gamw gﬁﬁwgm dgﬁggﬁ 3’3
+Eﬁ 0;: ’0 .538 -~J-’1;3 Gammﬁ o'mwam km W
+Ewgéw“gw§‘m®§“£0 3'3; 3‘33“: @gﬁm-gog <6-
+‘ «Egggggsggm’gswgmg gmxgmﬁ ~53 “0034,33 : g
+iowgiwa'E’3’943 “M 10‘5'5-omd :novﬂ'“'c'0 . =3
+$5 ,ahww a, ﬁe: ‘ a
+mﬁ &00w§§§§538 §:g§a§i9€§a%~§ g
+E igwﬁgwswamégoe aaﬁ‘é‘ﬁﬁ Moe‘agw 3,0"
+A . ~23 M60 00 w ‘i’c‘ Q o~w.:::'8"é‘3 M
+E‘m'“.8 e“0 :21" “"3. 9‘”??? s—5 ”‘6: onward. ""
+3E3m§5n§§§g§ag £5 525 gmﬁnagg é
+mo°§35¢§f$vmwova gwggvasﬁmoaag
+03.50 “G‘hﬁ'agkgc 033-40 ﬁat} 960%.3 m
+‘ .0 gwm~§gs<waogga gma‘sgwgaﬁgﬁ "s . .a
+E; E§r§§§w8§é§§€5§m$§ EE§B§§0§§£53§§ ' g
+w .0 0-HT: 7ng -o~’ O . ' ‘am‘a o
+' Ebﬁ’ﬁxawgmaﬁmkw w “5:.“ «3 £5383: amma
+Egg; i.geégycg »wgtmz3:§f§g¢ Ccoﬁggolwwggmm O
+43‘ :g w" aﬁw "“55 «QUuomamgv “3‘65 . q
+> 06.3w“ Ch :36) T3333 *3 .23 C} €59 vq—v‘” g
+Q $0E>30$33£03§§ﬁ9 .mEu-«mv*3£é§€.ysgmﬁ¢8 g ‘1:
+ID a‘ﬁgmuuﬁmﬁwﬁan&0m%§g‘m aggaéu g
+~ >60 358wg<3¢6v§5m0§038§m9§$v 8:80.9x88ué’ z
+.. g , Oomﬁoﬁgggﬁgﬁﬁggggmgugvgogg am
+0:33 W N ' . %
+a ‘t <1: 2'? i :3
+~ 06 V:
+00
+
+H
+3 c3
+'5 E
+E
+E
+;>~.
+2% 5.. , 3 g
+E 3 a i
+8C9 *6 4) ;
+mg: a" .32: '
+95) BM VG
+V 3-) .53 Una
+5&2 9% mm
+H’ 3:: . GS
+"3 ° 3 a2 !\
+8 ”4 530 33$ 0
+:53"; 03 8 O
+2:: ”9w ”3 01
+mag Q) .08
+“3:55.30 33 “:3 8’0
+6‘6” ““33 ' E33 83
+<99“: 39 o
+30% “E 8 ~
+Qua; Eu; 9?;
+V 0‘“ O‘;> o.“
+ﬁmv 05 Q3;
+.gm COD 0.“
+0,60 0'5 H‘H \
+.35.? -‘-—'«‘"§ sé‘
+w—tm Q)
+nu», a) 3
+”£33 ”'53 ‘34—-
+4) ID $0 go
+6 '5‘ ‘5“ m3
+swag 330 5n)
+, ..... <9
+99> "3‘5; EE
+"2‘38 go _ _ :3...C.3..
+,, V '0 0 _ M . . . H H
+0&0 :33 13.5 .
+Q 6'30” Q4 m.ﬁﬁ
+ca {:05 "W a)
+A 35%;? n. 53 5a
+w , cm H
+:3 3M2 gm EB
+, G) €3er o“ om
+” EC: 13$ 13%
+*9 030 0 . H
+.5: mm .5 - 5m
+:5 >630 mg; 53 . “:3
+w “5" 3:3 o 3'6”
+:3 33 0 00 ‘9 0-0
+“ 3%”8 Eu: 3 ﬁg .
+w g—q'mo N’s 0 m0
+ﬁl «'60 Ho 9* a D
+3:: 5.55 .. ”gm. 3 §%
+”“3”“ ”.mﬁ C: c) 51>}
+Ova gag O? 0 O1:
+9% Q: agm an. 0 >38“
+0.3 42-33 me .52 >23“
+EEK Moo Mm "C CL
+“a .
+.n‘u N *0
+5m '3 oaxfg 3
+E’g I $333.33: “a
+9.32 {333695-20 3:32."
+9% 53w «5‘13 mﬁxo
+M“ ”4‘412)‘: c: “QC? a2
+'5’ “mag him mg“ a
+o) gm... "G ‘__‘c;:: a) .
+.23 aagﬁ'sz '80:: «3; .
+“3 §§9ﬁm8xf “‘ﬁ" 1';
+94». wi§%> $.29 - away- 0
+ma. .QQO‘DE 0 ”bibd c4
+§5“ mvmmmotu "“ _ o
+a: a a: O
+O m ’
+C 2 a. 5.3323 '3 g E E‘ 5 8 m
+c: =3 @833 gsmt‘s'u“: :3 359% 60% ‘58 .2
+O «8 . 0‘3Ecdum . Hua- UONﬁMEﬁV-G 0 E?
+, “3ng gab ﬁowmm‘a _ 33"‘8 00““ «ﬁogxoﬁm g
+g 33<H%§%3 %m3§§&3 aﬁmaéﬁgggﬁﬁgaﬁag o
+0.... .13?» 0- h‘UOm‘ﬁ ”0 Em'mm 0 mm” “H
+3383°MHJE 5W8 «ass: mSGOQQH-owﬁoowaam $1
+a T351.» 9‘0““ m'aw-So 3 HQOQQ‘HOoamQ-‘Mwno M
+:3 m-wwgexo‘s mam wmg'“ owawaﬁsommaoﬁgwgﬁ m
+w .mé mm» “530303 “uor‘voox‘tn‘ 823' “mm 8
+rd . 3)» 0'8 602.; g 0 0 .0 Gui: h 0 H ”Q!” 43 w «- __c: v 9“ SA .501 H
+.m -v-¢ "o ohgﬁg‘. .3390) N345. “>223 9‘on . :3:
+i» 'U 0.) »E '5 a "3'5 “m"... c; W-‘ﬁowo m
+» aggggagg §§§%3%<m vﬁ §%%§$?§8§“§§b g
+i o’ ,ws‘k‘a“ S magma “$350295 °‘a3.£o.'"%$ ‘9
+:N-Mﬁgaossg ggﬂp 5:»33 $213 Gcwgvtﬂtgﬁ .‘m “£5 "£3
+E ,.m ' » M M, UH IN#\O \G'H D‘HM
+E [égga‘féegm 8g®§§.§§§. ‘§ﬁ§%3<dgmgmm§nﬁ®m E §
+; gﬁgawo :55 930g “.35; mﬁwa'ﬁomokoam om?!
+;oasaoxa§ 5mm 300m .aoquaesaemé w% 0
+iooogqua 00“.“t1E 0. .... 4‘“ “M “d 31c: '23 AZ “23
+, E .15: E 3-; '5: 3;: )0 U H, .. gt) C2413 . I3). g E 3) ,3 . M +4 0 m w H. E (‘20
+, :,£‘:>,Hﬁ> 033‘ 3430,“‘“”-Q' 33-3" .H G -UQ¢”’3° *0 ' o
+‘ QS§§§§§§ §8§8§§a5 ~25§g§~3§§§§¢238§§§8 r1;
+, Q.) qH‘ “ H 00“ 0M
+0 .ﬁmaoGQ‘ HE mGu»m‘ .ﬁgm“@o as“) (.H 33mg ~
+{-1 ﬁﬁemgﬁ) ‘9 mgom,>¢£ @963 .13 cm
+. 0T3. omﬁ'cisow ”“w M 8m managed“ a)
+0“» @Nws {1.1“ “ﬁx: .50 3 -o °3~H33womm3 -
+ﬂ-anwwc *g':-05wm 50005438“ IJHacggafﬁ <2) 59
+' “e330 “m'OQE’ Naoiﬁ‘gomw G‘K'S. mlnwgoﬁgg --—~oo"t$;> a
+onw-r'do'ﬁom 'm“ 2: "Eb ‘a'dco'aow'vm.-B'oo¢.mm”' o
+QQQgEWao Gd»,®3 gr... . ”a o a'mwg‘g '
+. gm, >>~. “ 33“,,‘V‘UH. O.) O
+8 §§§35335 éﬁgggggé §§§§E§§§§§33Q§§am g
+‘ ,i »» *. M Q} ‘ .m . . m.
+§u§§&§§§aw§ 8§3mggg§ amivégﬁggsgggsaga ﬁ
+??“st 333» ’ 50.9 “Qm £c°a‘$€’¢§“ ‘<€$~U~mﬁf Eu
+§§E2§§§8§§g iégﬁgaga Eﬁgﬁﬁggxaéxgﬁéég; g
+,.;:;: tuna”... H xx 4:2qu 93:28 ‘a Oowmgg a
+O {en.wﬁoag 3 muoo {3‘9 ﬁwuooomﬁmwv gwwot» Q
+:3. "‘ ““09 g>,goa'3.~z 5:3”: wvmmgaﬁ comm: H
+573) Eaggggﬁgg mga88§3a m2§ﬁ§5££<mhmngomao £2.
+% M a
+. EgE ’ 3 ’ U
+, h
+w 3 v,
+Q 06 co
+
+H
+G)
+i gs
+t >» M
+£3 Q.Q .
+5 550%”
+E m.gvﬁi
+‘ 85;“
+5303
+"a'ga'vﬁ
+wago'
+. vagg
+y—-: ,H as H
+ﬂbgamﬁuc
+v "" o. “:3
+Q Magma
+w "‘ T3 {\
+"GawaE m
+.Q) 8330 U
+9‘1 3&5930 O
+8. oamuﬁ ”N“
+m mo-qud
+8 0" 8‘0 ”
+0 £33“? 3’
+3 .?53§“¢ ‘3‘
+O V O'UmGJs:
+w agmmo ‘
+""‘ gqu's
+OHM“ 0 ,
+. .NG .L‘m
+g @0900
+m 5§A¢gw
+' g ﬁgésa '
+0 353$<
+3 q" Emofb‘g'ﬁ -
+0 5 265833 -- .
+a Nom-G‘“ ' '
+4-: V '0” .
+c: 5:: §a§3§ .
+a) 0 0‘3; .%
+a "a 3.3 3’3
+u og'aﬁg
+a U3 >3 £13m ' -
+a Q “$3.233“
+:3 'F“ ”ﬂow”
+w '3 _ gmamﬁ
+'0 m >8®§§
+ﬂ 8 'MQ.DOI§
+, a '5 ﬁggaw
+“'1 “U 8 99.2.0 .
+w' OH O\
+H «s ?@“H‘H tr
+9.9:. m ”~NO'NE m5
+395 W «31:00
+H963 Q) pguxiu O
+aura :3 em ““0 ﬂ
+’3 w ”m'cﬁ 0
+52° .01 8.5559 m
+at M Om.“ H ‘31
+0.3“) _ﬂ «5.». “1'30 0
+ﬁg“ . 033313“ g
+mm“ :5 kﬁmﬂﬁ w
+ma ﬁwﬁws a
+.&u °o§8 3
+$3 >:. m
+gm go §
+952:- oﬂ E g
+M63 o m gas
+'6 H1 .2: —m- .
+Q ' 8 3:35;;
+5'30 “ 3 > ."'*
+“U 036 ME on..9*2
+ma: him 3.1::
+9 .H "N G) .‘ m a
+:9 mg“ ab Dam o
+m M 2'6 5°”? 3
+.23 . _ Egg .2
+Q) d)
+‘8 m'qé‘g c: 094C) :
+M>x m .529 H m
+a gun-gﬁ -2 0 ~£w+¢°>ﬁwﬁ O.£ 5.... $31
+» “”09“ a .c:\“':» mmo-am s.) w 0
+E ”“32: :34: ~“" :1 w'~o*~>‘” > ‘3 "7‘ 0
+co. (6:: Q) mméwv—nocﬁﬁ Ova; '5 '5: «w ‘ bl}
+E —-« ﬁuwom <2 -H$£m'ﬁ§m00 _ w c Ea: u ’
+a §§g£a%§ 9.b808°°%§“ géﬁmgé g g§£§ g
+m maﬁa v—‘m OWQ‘th C323 H 'E0 "a'_ quo‘mu. '8
+"'" OH-‘dbﬁ 33.33% <9 ”Ema m bu"°o><m3 cc:
+Mg -H:3.....gg G-.«‘ 0mm”) .6) .M 39"!) 58 0E 0:39., ,
+: 0&5305'5, ﬁaéoﬂﬁg 33535.50 ﬁ§35§¢§>§§§owvw g
+: w >343“ ».....o§o ”ES. 0313 “mungoao‘a 00d o
+0'3 ’3: Bo QENJZ mwa“ 06:0 ”gag“ HQ.SCI"‘"“ ‘H
+“goomw-ﬁsw s—«w .HNQE'S q, 8 Ogoﬁﬁr ooo‘a £1
+» P8H“ﬁgmﬂ ?.éé’ﬁﬁmﬁggaﬁw .OQSﬁS: -8m,g§g’nfgcd m
+“900353535: ,o»30‘g9.930 “35* “un'gmﬁomgufﬁqn‘ a2
+: {$38 swat: waoggﬁw$$w.§§v§i0 §§§£oumo§ 8 .
+’«Mogm§“ "'"er'moaa-ga“ >'m—E”>ao 008‘3om '33
+E ?M'w‘ﬁ _2, g 3‘th .H' OQO;£.HNH_S_ 1:th :36)“ 0
+g Maw” «02; gg‘éaggeﬁﬁﬁaﬁﬁawﬁuwwwmvwvoaw £0 3
+mm§%o&g :so’Ex‘gu-gmmg.ﬁoavgﬁgémaﬁﬁ-Ed’mz ' M
+i ia’éaago‘" [5W3ogQ&Hggm'goﬁag’ﬁo-Ea'aaﬁaﬁﬁ i Q
+éawaowﬁa; gﬁﬁmguewmnuwEgau~wQ§Gat£@I a
+A Ex*«.~”uom ’0 5'35* Qemaww g-gﬁuwoagmuvﬂm 1 £3
+§o§”‘sﬁ ‘9 EE<6$vmmv'8-ﬂ>~..»0 Wﬁ'mwvga “0°” :3
+pfamégggg ﬁggﬁégwsggkaggvgeweaagﬁagE 0
+> , *‘ nu .> Mo 3:: .RM.M.Hmmaho.o~'*‘-tﬁ aw {-
+Z gage “03-: >3 .041 a maggots,” ombﬁ,s~.x "5
+, é =mm't3”.§:o¥3b 0.9-“. ﬂ>ot343u -Q«ow¢.§‘o..5wox <9
+‘ g €322§£é§3§§§£§§EESEQ§aﬁﬁgﬁgagﬁggﬁg ‘ 3
+‘0 « 3‘50 co Ochoa, aw . 0.21m .c: n“:
+u: o o M '23 . w .s..
+gab“Bﬁo'“§08v§.0‘a'§.ﬁﬁg>gmmmmg 8133509951; ->
+.0 oogawvzm coo wa rawm a.ggao Ho :1 mg 5
+0 :ésgevaggwmgesagﬁ<235aﬁgugmooﬁgmgg m
+{QXWgt> %ﬁvww~wagﬁahno§uo"‘o3§“ qgga~a§xs o ‘8
+{z §§33‘ﬁ@ww$3§€§mb£3§gv§£§£$ 3mgwi~§amggg s .
+**kfwﬂ%?§§§855a53“8o4%wJWw“3§§g. Emogm ‘ 8
+3§§£§§%m§oSagm§w§§ixgg§§§§ggﬁggg§$aﬁ o .
+o§5303§§§ﬁ8§m§ﬁa§g§§gggﬁiwagﬁgwyggggg g
+m gﬂé'”.§0 “Gavgwguc: Qua mg” m’”¢,§5.1‘0 g «g
+~ . “mgub-ggg-ggvog'cmgg‘g-IEBgmggiﬁg .1336“? 'i M
+:33? ,, 0‘" 38mgwoamoi‘33‘3. 0:3 01'3” X
+'*‘ 3.994'“‘~OWQ‘30.~5§ Md? {:1
+:3 3 QQQ¢°°H3~ 02':
+m 00 ' mmommhahcsBE :13
+CD ‘3' C» 3 - 59kg; :74 ‘
+, u—e 06 Q; i . ,1;
+~ Z
+w .
+00' U
+
+V k
+8e
+.§%
+3 3 >~. H8
+:3 S: g: «L.
+o ‘ w £<
+H ‘ E93 Q.)
+{"3 “ 23 3 1'4 mg $6
+*3“? ﬂ '6 06 88 orb: 5
+'DM 0 (a m
+3.9, £55 '5': 8 ﬁg F8 “4
+‘9“ ”o "3 '90 o N
+0 <8 3* 3% "3!” on
+«5" o 8 a2 wt": cg «t
+:20 533 o H The H m
+"4‘” 0 +3 0 '33 T38
+”=3 13:13 w a 3a: s:
+8“ 0 >5 :12 0Q. :30
+“:3 O 3) g} E
+'34:: “S M 0 F68 :0 .
+0'53 ﬁg m '33 m8 5;} \
+5.: 5 m < o” 8.5.
+5-.“ W8 4) * am 55:66
+O” 80 3 ‘3 :3 cos
+“5‘6 49> ” g ”:3 c’zﬁ
+”3 “ 0"“ ° 0:: .H
+000 £33 33 ﬁg "é -
+w.§x COD :3 :n-«M 35-4
+8> 0-: é 4-» 3+: “0
+"~08 $1M £1 a) QEM 1-4
+v Eﬁm “0 53 .52". g {-1 $0
+Q) (l) “a w ‘ m 0_ mg
+*" s: Q’ g 0 “5 0 ‘5 .i: 13 +5
+a°3 “a 3 \v & m>° §o_ .
+#48“ ”>0 39 Du @553 --H'
+i Q) "‘ .. H
+emu 00 a: 00 30:0 0a,)
+{+4 “C3“ . .g. :3 ‘8 g:
+b g :3 t9 "-4 ’53 $3u-4
+Q n” ,,%-4-- ﬁ U) M Q “08‘
+- vimnmﬂvhﬂ Q) . Pa :3 "ﬁg“ n-H.
+' 5&3 0:: mg; {2' o 5-1.1; £533..
+:30 t3.“ .. "‘6
+@052 0"“ “.9 "‘3 $2? 505 mu)
+' . 23 ““0 "98* 8.1:; 9 ‘“ “cw. .‘ 83a
+6) Ems 0"“ «~05 £3 “'3 '0?m :0 .
+3 “gm “£34 9.4;: O 3 94....2 w
+3‘5“" {0-0 “D *" O ‘H '0 Gun
+3 “>0 3'5 .59“ *5 :4" 0&5 13-55
+a §§§ Ea gg a 3 383 50
+g 0‘39 Om a0 3 33' '§"E EE
+3 Egg: 133 0% k g . ﬁn) 'ﬁg
+' C3530 g” “55"“ J: 5.4 >&«Q. 3mm
+c.) $138 "g 05 ﬂ 0 “23g “‘3 .
+9.2 59$ « 5:» Egg 3 5 "got: 8.0
+nut 3 '“.ﬁ m M ‘76 Hw": Ella .
+a Mad 3"“: GM . .mP-i
+m "5"— “’3 oo 33 E 3.38 mg”:
+3 “ﬂag ﬁg gﬁ c: 3 $52 ggg
+Hog: ..... g *" s: 06% I
+‘3' o o .5 o o s: <1) 0
+>3O mu 0 m H 0....F :2: m
+3 §§& 3% ge 8 3 Egg gig
+«:1 Egg 1 ,2: 5:)... m w >3 "
+U. a , o > m g) ”cm
+9&3 3mg g‘? ”33 8 M 3&5 Maﬂ
+8‘6): 38% 3-33 2% a) g M00 .
+6
+ﬁgs» 35'5“» $72 2‘83 $
+0.3 @235: Mm Ho
+ﬁg“ 03439 w“
+I". as
+$5 8w“ E
+9‘9 3:30 “3
+3-4 . 0
+:39“ g d§~ e ,3
+m .m 00;: r—I 3-4
+>523 3 ox 4: H
+‘ ”‘5; N (9898 ‘13 3
+Ma: 0% .9653 g o
+00 "d " - EEJQ Om ‘ 53
+‘£“ '0 @933“ m2 1
+g; mm . 0 $0 a H
+a g ﬁsﬂ 8:; >
+m o ” 3 “3 ﬁ§m&s 5a 7“ Q
+“a .580 H 53 .riom 83 .95 Et‘awgﬁ
+» “5&0 gamot-gm gmgaw egg in a
+s... Q.&§.E'§%£Kﬁ§ﬂ , «scoug “Egg, :9 . . o
+a amogﬁdoﬁﬁmﬁﬁg “”ggo 30335? g
+E m¢~wo>aﬁ23”s M '4'” m“ “mow ' m
+> O mn>m .':35 3'3 °3§“>~. Mﬁa'Mgg . o
+E mdtﬁ‘a&'°§m03 g Eboowd .Q‘W‘ﬁﬁowﬁ   ed
+5 agents 5;:0963 zauﬂg- 5513 > . . M
+i O "-4 rum v-n-i 0"“0 ' :.
+m £§§§E§5288§%§ggx§9§mjggma , g
+’Mgs» >339. ogp‘ “£24..“ .5 .05.) {Das‘ i H
+» Rab%§§§§£%§§é§§%aﬁﬂqﬁﬁgiggE 5
+: m :9 .H- 1390. g: a
+» QmOEm @3503» .3 ﬁggmm. , m o i
+"“ .... -~"“$=s>9 :3 -. 43““9Q; "8‘"
+. ézggg.nagﬁguﬁﬁggfgo%gﬁgﬁgﬁm ; i a
+1 Egmgeogmﬁggﬁggvﬁamg anﬁ'gg * , “§
+1 m {3 . .m _Q-§2.H" rd ,
+é égﬁgeggﬁgﬁag‘ag é‘gsﬁggémvﬁﬁgéﬁgg 3-:
+g imo mﬁwng‘aﬁ ’oaammgﬁgcmmg 0
+i kz§§3g§§£g.bagmzﬁgg“b§8~3§ g
+* m aavmmo»sn “memﬁﬂ.wi¢ a
+€3ng E “533:3“M’30 umwou‘: O
+‘9 03‘“g§°$3®m$§0maom8ﬁoeoﬁg
+' "‘5 O‘c‘éi ,Qmmﬁo“‘&“ﬁmm “gram“ ' U
+E“ iggﬁoga «:30; rm :3 GO :9 ..
+.» .0. mow'ﬁ momma“ 0'5 .
+Z 1'53. ID") ”50.3%0 0 03) 530' a m. 8 ,1
+”WBBEJ'G moo 362”»?3'5c3ﬁ‘s ems: 3 .
+Q v—O ‘u-nq) é-i H A GW- 1 .
+Erﬁ§ﬁégﬁﬁms§§%%§é§§v$“%g§%3m3? g
+2 tggggggg§£““3>¥g’g >“”7“a0 ¥,§da~‘0§ "a {33 .
+0’ gwﬁiw‘g‘ﬁgwg‘égaﬁgmaggé‘gogogm E m
+E "“ «~23, ,, . ‘ 19 " +-» NH #4 "" -¢ ""
+:0 §§m90.§asﬁgw".£§oﬁo‘éwmg’ﬁﬁogxz a z
+ﬁ§§§g$<ﬁ§6§§§§%28303¢§855553w 8
+H) 0* * 0 "-4 .23“?M M .'
+hmﬁgm$ﬁﬁﬁfoaéga8mgd ‘§
+% MG“
+, m a
+i, g ilk f): 3
+Vi”: -
+g ”RX 00
+ﬂ 0::
+
+3 E *
+o :33: ~ .
+“m GO GO”
+g «3333.8 0 g ,3 E ﬁgg
+530 ‘H :3 a Q 0
+3.3 .8—§§9. :3 9, ,2» “5852‘ $333
+“03 b % “a 58x? ghamo ago
+gmzéa wage maﬁa n?gag §~s ‘
+:u-(d) '“ .E M O a ‘ (IN a Hm
+Sambﬁ g%§§ 3835 %§8§g §§g a
+" ”-4 .v-qi-l .
+3:262:30 33.33» .3131}? £25330 egg; “5
+39%”; “E33 aggg §Qaa3 “H8 m
+'w «M 63 53- 0 Q}
+‘5: .QPO :00 :“mo H'Ugmoa‘ 08 N
+3;:ng gégg 082:3” ng§h egg 30
+ggé§§ gSEa 52§§ ﬁggaﬁ Ség a
+V “£0 0 0') Saw .’ o
+misﬁts 033% £§§$ SE—uéﬁ §§§ .
+‘Otum. 8mg? 0.). O 0mg 8 H“ 3-4
+' 5430425 ““330 gag” w§°§r5aa§09~
+w<omm “”ho‘ g S 3k£o 13>5'g
+o ﬁﬁu 3800 bag“ waﬁw§>ﬁwm
+3§w§§ $13543 avg? Egaawgasﬁg
+.",MG 0 .H *" -Qa _' 0"" G .11
+gﬁ'ggg §§88 gﬁeg 'aﬁgga‘;§g
+{83 m. ' .ﬁ OH ‘ :5 h
+4:21:10 '73 a) 5 3 .5: m
+m M, o «E: E“ N am
+vegggz. 52:3“ $823,? 'agaaaggtw
+SHO'F‘ «“3 >,°u,§-£ 93.9132 ’g‘"m‘ﬁ.Q-ﬁrﬂ°g
+, ggmwgﬂ £13.23 Em'aﬁ ﬁﬁgg “0'
+H. 0:: O (6 +6 0.5—4 0"". "“5?“
+£E§§ta Eg§a§2§8§ ggﬁsggé§3
+338800 3m8833§$§ m§§d§5§33.- '
+gs&g8§ agggaﬁma% Egmﬁmaﬁgo ‘
+' naao°w m _ 3WD“: mgo'ognm
+mac’sgm ﬁﬁ-g'ﬁﬁzg’E“ go§“£ww8‘§
+' g 33.3% §8‘O'aguAE’5 'nmoégagggg
+m gﬁvmgs g°&35389% §§>35§ﬁ83
+H o "" ma... mm "*mw
+ﬁhm‘m‘m “3 .H' M
+5 Eggagg ~3§m53§§§ §~83'§“£§“5
+a ’HHHWCGM mﬁoggugmsi “30053 El. '
+w '"oug‘wg 3 «maﬁa Fa?) gmzn¢mmoo§
+: 3N8a8~938°EH§av a aacﬁﬁ
+‘” Ew'mg “ngdﬁmaa “Eﬁmeomw-«B
+5-" ﬂ.“ ‘1‘“0 SOXO‘ﬁ .‘o-n 2:3“: gave“:
+.. ﬁmw?&“5 wEoH‘Ng'Om “mu” 3.9-3:
+a2, 8' 0-93- m ?wzs «Eve? 8 “E Eﬁﬂmmgg .4 ,__;
+3 ﬁgégﬁa §8§§s°$§aw §§8§§é£3§ a a
+5‘3 @E‘é'ﬁgé aﬁgggeggag wgggﬁgagﬂo g 5:;
+0mm C300 C:\‘IS 2...... $90 0on In.) 0
+’6 ?gﬁu tcn>ﬁuowco H m.fﬂuaamm m m
+g m 3mb% owueowsaga amgaoeoaa a a
+6‘ ?g>ﬁg4'5§ §§D&QBOQSQE 003.2q@‘$.w0 0' 84
+m £309~*ng mt: ﬁﬁgooo 'nﬁﬁg'ogvgc: % u:
+.3 .rzmé‘chm a‘usgogmn 73 ovﬁmaogma e.) 2
+«g wobowmh om HQ-hv'gﬂgo Ema) :3. 0.2;; H
+Om; 110350.53 Qwﬁhomg '" :3 Qo:""">~ t1.) 0
+own) 955455;) mvmowmggb mag) H—uqu, Q, a)
+.u—gdkm o.“ g.5112: mumxmhmom 510 50:12:36 m
+0 .Ho ch 0 0 N W
+Egg EEnE u 503393avéu agﬁmaﬁvﬁm
+Q“: ,Qa‘ﬂm *5 Q 5:“ a,
+mag: £140ng - 3,3 m .n
+Hm.“ mj‘.h§mH
+a t~ - :5 »-~ «2
+.93 v Q 3 3§ %3
+mm W - d ﬁwsggﬂ
+Qﬂ a m ‘9“ 'M OBTMBE
+“A - m :4 ””321... N a .
+6m 0.4 0- O Evveﬁ an
+H m A 'K Owwo “\0 3
+323 g M g 8 d: agﬁz’g a
+0"“ C; 93. ““009
+a a nd .173 'M QDN ma 8
+Qt» ‘73 o O 2 Hqumﬁ O
+33:: g Q 2 Q
+. H 1
+£0 9 m a
+3&- m E 5 2::
+=3 > * 0.2: - >u$ ‘5’ '
+:3 533 go o
+m «5 ﬁg}: ﬁg cm
+° 3% «08 £6 5
+Q) 0351‘ a U1
+3... m .QGO . :2)
+6* 'g‘m 0&3 - @530 0
+EM - :2: w: a) S
+E B * 330 r: 4:“ .
+> . 0 ,. c: an? o
+5. "3‘3 32‘ 0033 .... .\ 3'3
+5 2-3;: § game 3. g3 :24
+30"“ B_ 3": g‘._ _...Z 46
+, ‘30, 31 6535 0 gm 3
+G a O >‘t'd' it Q} m
+» ﬂ“ 0 «Ragga a ; u
+* ‘3? a 1&305& %§ i 8
+f Earn g “2'33.“ .wc: i “3
+."“‘“ a “U m. HQ § 0
+“Era 51} ”Maﬁ‘H‘,w 8"— 5::
+“0 Lg “£63 '8 «3'55 >
+1. g maﬁﬁm 0a) ‘34
+gig“)? , tag” 3 $13» a:
+E We» 9‘ 3' 0.52M. $32 ~93
+5% m “- uusﬁma m.» :9
+wwe o avg: E 3"" “-1
+Z ﬁg: 3 $84055 5’3 0-
+2 35%“ :5“ @368 *8 ma 3 :5
+2 $.13. .... It; a g 31%: *3 m ?‘4
+0 “g 3 zawmﬁgéﬁu Z
+{,3 '5‘“ Y?) “badge 42' {1“
+2 gm” 6; 0a) a a Q
+’2'! 3 , 5 g‘ﬁ‘ag‘: ”'6 E
+E £8 . 8 ”@333 ﬁg 2
+3: Egg :2 33"?“0 ' ’3‘
+O O 3
+<5 {mg U i z 0
+Q 105 z
+m 10‘”
+, <1- "‘2
+"E 6“ 0‘
+3% H ox
+3'3 °~ .._,
+
+0 § _
+H ‘
+o 3% >,<=LSM 3 g
+3 mg gaggfs :3 E
+i g a g E §mg§§£§§ .&'d<,°
+:3, {.70 I ‘5: H'“ .m “‘93:.“ {3‘89
+(0. «3:: c: a move .""€3 1306>§
+;> o c: £20>>Qm£1 .
+33 g“ gag go ,ggﬁwEaﬁg .%%ﬁg
+'68 og—goab oi: QQESE§30 3'gzes 5
+5? €2§§te ﬁg aﬁﬁgaavo Sgd§ :2
+mg 37°w8m nu §“3amggé ?mge o
+$.99 Oﬁb'gﬁg §§ ﬁﬁoegoga‘ ﬁm—«m . vr
+9* mgﬁﬂfg m 8333&“%8 mﬁﬁa g
+{86 ”Eamgg 'E' B&Bmmﬁvg ga§> w
+0‘” £00 ' H {5" @mm‘ﬁgﬁ'ﬁ N“ a «3
+v.3 m>w”'<3'a m3 mﬁ‘SZ‘ .Zz‘oﬁ $8.936 ‘34
+'34..» 930 8'5 ,gea -_ eﬁamewmw mop
+a° 8583°§'w?$ °§a3§§ a §38§
+““ oH-nv‘wwﬁ’m 0N0 b0 '5'" Ema . E" ‘
+":30 a 00‘” mg g9 o o . .MN..
+ﬁg aéégag 3&3 §3§§3§§a §=§§
+”o mOW-g g. g .2 g onmgv “”3”“
+“L: at: gm H 0 3-way)” .5: as arts
+Q) (H 0 ,0 “NM. “OH“ o 0
+’0‘” 0%8952“ gmﬁ “v“ Sago“ Eaﬁv
+$3“ w“ 1-308 *3 wmnixod) two 00>
+2: .— > :4.“ .0 «M
+32‘ ﬂaggaﬁ éﬁg %%§:e%§w »i%$
+33‘ gag“ m 5am ES Eéﬂaﬁ gauge
+0 > mag“ .H‘QB' m H ‘EcI-Q FUM .
+,0” x, d) m“ u: 1) map “5-50)
+c5 agﬂgﬁﬂ 2% 32mgﬂwéﬁi §vnm3
+0H 0 -H 0 0 :3
+H<3 ”Oﬂ$> ET)” Bwag‘gam oumfdo
+mu 3'90 013 “DE wguﬂwg 00‘3u-n
+H m .m G 0 n. nut KO “ﬂ
+Eg Z§§§§:3.ﬁaa ggaﬁaﬁgé agggg .
+s) ”E 0130. HT} H ovi‘O-gg . - 'gmtﬁgw .
+. (-1., ”—1-”.va ‘
+85 €g§§éﬁ 5&3. gggamggg gags:
+”3 O 0?: G} ' ““3“ cu m” R
+ﬁx: ngﬁg-QB mu”. m8.§g”go> '33ng
+v? v 3w8¢wm gs? momma so mmASO
+aw go vex “3“ v>m ma.» “GEO”
+cm C)“ H WM 5: DR 0": .03 n“
+m aé gaaﬁgg 938 §§35§3§€ ”gﬁﬁﬁ
+k wand '“Q‘mmmg WH'M “:82%.2 ‘H’U E ”‘13- .
+g 3i §?”€s§ 38% Eaaiaégg gaigi 8
+3 E? sﬁiﬁtg 3&3 §§§aggog eﬁaag ;.
+4-: P321? game‘gt‘s m'go m'EHEEOﬁ-m ggﬁi‘im g
+=9 30 “5838’s gag" Emgwogmﬂ 84:85“?
+g 28‘ ?ggvgg €35 “gc§3%.§ “Ewgg S
+OH H '"m‘ o ><a' ”"5...“‘5 “9‘ ' "udm M
+«m .99“: 9% mmwm 63m
+3 as §3K%§E% gﬁvn ~9§ZE§Q§§ .ggaés 9
+“3, $3 Erﬁp‘wﬁm .oa‘u ' $5.3 .szgﬂz; Egﬁmq 8
+.UﬂGthN 3:30 H‘g (6.»: .‘ﬁ . Owﬁq'd‘: -m
+m -E ”153340 «‘3 0-5:}: “owe 533m “amgo a
+1: F133 Chm 9‘80 go> Qﬁcgﬁﬁ-g-H E gm.00.5 O
+:3 0‘53 Ougﬁ‘am 038.5 gguw‘é‘ﬁsgﬁ :Hggg‘n.w %
+w “4: e.g-HOEWWOW gorgwai‘gogﬁ .w'UO'EaS H
+-' Oa~ ggawmgnoag .a0m£8>3hm E'Eg-uﬁa 3
+«6-,»: {43 .552 o OQn-HONQ.263 M.EmpaO.woﬂ 3:3.ng w
+8§g aga gggggggﬁgo aggaggﬁgg momﬂm
+”'"'" ' "‘“m o c; ”3,.."5HE mM-L" ”Em
+Egg §§§ g§~§tng43§§g <asvtﬁ’
+‘ 9-4 '3‘ luBu 00.33%0403940 '
+°a§ gga m”
+u.” h
+ﬁg § .§ 5 . 9 2
+ﬁg 6 ﬁgwd ﬁ m a a
+9-4 d m 42-3330 .4 — [.3 <1)
+uh @ g cmgo 3 - a 'z 3
+38:1 *5 mé’go‘gu mg 9 g a ”£3
+£2? nan §HOEQ§ 'éx ‘5 on o f;
+“a 3&8 wesgﬁung « E g a
+:4 '3 gm-«Quuzzm .9.” .8 :3
+a g Q Egoﬁgdﬁ” 5 2 . 5
+m6) 0 0"“ 01““ "‘ nu
+“U ‘52‘0 v~ 3503;:{34222 8
+° Q) v94 M .H
+m; ME m ‘55:
+a.»
+a H 8 E
+m uI-1 .m H “a
+M a n a) o 0 $3
+‘3 $”“w 'v '8 > ‘0
+Muﬂ :1 3-. '33 ‘3)
+H Ugh” 33 Q. ”m“. a
+o «42:: .
+62 "C3 .23, :2) “H S3 :3
+a saga % g 3' 8
+G .... . .
+8. ggwgaﬁ k 8 g
+:3 {g->"ﬁ*.- "g 3 g 0 ‘ --e
+w mgﬁa m .g s ?g‘ g
+a:aa-u .o I '
+’ 'M """ ’U M
+f93J§ g E . g. ca ,3 ‘ :2
+* 50063 “a *9 d) o I O
+E>ﬁ°3 tr: ”'3‘ 1335 ta ’3‘; ' «3
+Em'tvg—é 0 ﬂ . £6; /"‘\ Q i “3
+*‘$£5w§“ v 33 r” '~ g
+f 331m“ “3 R? 33 5 t A {a W rm
+")0 w w: [FM 0
+, ’ﬂmc‘ma‘“ ,0 §E o a . .
+m3°8ﬁ§§ gg <€ 8* ‘95 ‘5
+,£§§m§g : 33 a ﬁg 2
+E 1:: m, {5,532. 09% ,9? ’4': Q V C5 <6 8
+”“0533‘55 {3 “:3 0 5‘7
+Emnmg 53 H v .5 9.4 O
+i&£%~2s o .éo a ma 0
+5" 3: ma) gs» ‘3 E a'ﬁ .... H3
+5 Eaﬁmﬁ§ a 22 1% ix? i
+ogﬂmta’? ‘9 ”w i.” £33: W
+E Eﬁoﬁaé 2 igga :% g% g
+8 mgaﬁﬁg E3 gag E 33 e
+bé§8§¢$v. g ég 3 m” %
+E' E G53”; 13% g; z.” m. 1
+n 3%. E&»x§w.»§ “dc: :“6 s 3' O ‘
+0m - ,0.“ 56) $3 ’. U
+ﬁx £o~ﬂmm813m g UH ”M i
+U fﬁﬁoﬁwo“ §¢é i“! C5
+C0 § E z 2’ O "“
+$333 i 3 09 353
+g “3? o
+w ax
+
+g E?
+6)
+Han .
+<53“: m
+3‘, .53
+:3 ‘3“
+} gggé
+W G)
+8%20
+mace)
+gaga
+again i“
+egg“ 3
+‘ 'guﬁ: O
+<88 ' ' ‘n
+to mm 01
+433%3 u)
+.ﬁno‘uo bl}
+a‘a‘m'ﬁ “
+_ mgOu 9“
+V ggﬂw
+«$213
+bggg
+gs Q .
+Ed
+0.... .
+Eggg .
+' «33.9”. .
+3303 ,5;
+, saga m
+Emmg
+, . ‘ :3 .00 g
+V m ’5." o
+W _ a2 :6
+s . -gﬁs§ f
+,4 ' m'u'tﬁm S
+w ' 8553f (Ni
+V . N . .a-Hﬂ .
+3 d 2 a ﬁwsg- 8 a
+°’ "“ "‘ e 'Eggm “1' ....:
+§ , g g u gmaﬁ g m
+{6
+m 4 c N o . a .p—q 5 £568 w a
+we; “E 0! d N, NA“: Pics GM ”635634 3 .....
+a o o M o :30 o...‘ cu; “Mag; 33 w:
+m 0 Q «r O 00 08 08 8 am a
+.' «a w m w «w “m «him Mﬂm‘iﬂg ”d 3
+85 g a a g 00 00 av m'““°o “'0
+0 mm mm mm E'ﬁq—im M £0
+£3: g 5 g g 55 88 55 Boasm s a
+06):: :24 :1 om on. .Q gown 5’ :3 O
+3.‘ Q m u: w m mm mm mm (Dig m 04
+c.4233. a a 2 a 22 88 223 52:03:33 -9 §
+0..” u) 6.) cu 0 cut» 09) on) >V5 ‘0 'm
+an 0 0 <19 a) um 09 on) ammo.) "‘ ‘1’
+E...“ m‘ m m 03 mm mm mm M.Eeﬁlcg F5 (2
+mc’ ‘
+-U
+Em
+u< m w 2
+am a a ‘4'? ooh ”'0 NC.) (43
+m m n. .- w . ' N
+@E 9 % g m -g[ 336 a a a é
+94’ H M - w . ‘
+Mu Q §§ 3 O 0? mg §§$Q 2 m a Q
+0 :7: " - z 1:: w 2
+mm « « ‘3 “'0 ‘34 f: a _ ”3
+$3 8 3% E a 88 ea ééﬁz & a a 3 §
+“‘3 3'3: ﬁg :5 g g8 §% aggﬁ g 3 +3 +3” 33
+>’ mh- w cum 0 H {‘3 Wk “H 'm C“ H
+38 m mu 0 2 2m qg ﬁmmé E 3 g 5 3
+3 ’ 8
+H M O H
+(M m,” >3 O , a O “ I A
+‘3 ﬁg . g g '23 L5 .gg'c: g n8 g g
+. q: -—«
+‘3 .0 “2° .9 a323, o0 0 oﬁ‘oa- o; .Smg £3 “3
+a *3 «:5 a "gag, '§§ .333 g age “0 g-gt‘ 3 E
+E w,“ . _ “2:: ,2: .- o
+> ow - w. 3 .ﬁm 3 ,gg‘u m m cm
+:11 g .233 g 0mg gay: 9 E0139 . gs Egg '8 ,5 '
+m “5 Po “a .933 “£6“ng H&ﬁgg 38 go'o .2 m .
+Iv-I 0'.“ .ﬁ . i. I I o
+_.. m2; .... 5:33 ‘“‘°;~.> :a-gw Es age” 58 o o.
+: gg 2g g 335 Egsgg £828 3; 36% ﬁ-8 g
+~ 63 :3... HNO- 0 «£0 *“ g: - . ‘ .. 3:1 fl)
+{5 ‘53): g 000 gﬁotya 5&83 033% “mate; 6) 83 8
+: -§>~n»3’%;“-§“g$§ ﬁﬁﬁﬁ rig? mag b s: m
+: “6&3 W 68 HHI‘H'. . 23-3-  O t. . ‘ 'n M .41) W .
+ﬁ 30 QIOMQ :10‘ "'54; g"33.a 6“"? "aﬂauwo'ﬁ’
+O ﬁr]; 0 >0...“ ougﬁ) 0E4: i .0330 0'3“: ,3: 8
+: ~63 ._.. ca} Ew> .05 00% sw.mo g H
+i E3 §§¥3£3§% sﬁggg Sgﬁai egg sﬁgbﬁ g 5
+o a) ’mw-M om. ; .méﬁ'“ r—«H [ ‘-‘ ‘4}:
+g §§§E§;;;§°§ zﬁgaﬁ §3§E_ ggfiiﬁgﬁg'8§ 2
+...... .om w Sm §mw£c «3363' v.9.“ ma“0w W* ’30
+m 9—»
+9: 5g 3 iamg 300%“ gawﬁ 3mg "3.9%.“..13 .E .33;
+a m... g 33:36) «>5 .g 05.2%» grin ﬁ'a :38 o ‘3
+mo €303: Mo‘s: (0.1.10.0, 02:0 man w 60 -
+g s “as: 52 3—5:» aﬁgng gagm 'mta'fé ﬁgﬁge .2 A":
+8 3e 0 3mma 08£a~"ueoa . .ﬁgs g3°®" o w
+w ﬁg % em“ $3335 3333 San 0w8g£ & a
+3 83 8 <33 6332? @5223 §3‘% QB§°% "2 g
+8i%.v§ﬁ% ﬁgs ﬁgnéé $383 9%09 agaoe 3 0
+égéﬁ Egémg§§§ maggg W23? ggﬁ§'§o§%2i5g g
+“w, , ’ww ' 3... ﬂ; ’ .ﬁs-d ‘ g)“ .,.... 55'“ (544,;
+Z W go *gg E1953“ E§§3* o §“~ :3an i“; om. iw’d? 5—4
+m 0 wwwo 3W0 ef eﬁmcéa—G'U’é ..£.}cstri «9. var“ r «2
+33:: 65 >66“ H” a M” a £2
+gig ﬁgég ggg §§§3§§§832w gﬁéﬁ ggﬁa: 85 m
+U [3 $095 :30 ﬁ’ﬁmwuo‘"§ooo°° G33 gaﬁwo “‘3 Q
+m m 9.453.003 9%03’mi—«330‘gma‘d‘5f M3353 08,353 88 :2:
+'2
+g Ext: V} 93:35 coax 3: QB .... N «‘1' <3. ‘
+m C: o (305 c5 . .. . . . . . .
+> F" v—(H 9-4—4 q—d 1—4 v—d
+
+. o
+0.) 0 w w G} q.‘
+E .Rg‘ﬁgg '53 O
+”-4 +3 U) .
+3: “gdag 363
+‘ caegﬁ-ﬁo” '3‘“
+, ﬁgeugwﬁ 0‘33”
+‘ i ’gﬁﬁﬁ’ﬁegw 90%
+' ‘ 'Egmaii-‘UQ E? “M?“
+~, 94"“ Eﬁdw Egg
+V K I ﬁvﬁonmom .2:
+.st'shuoagv 3.:(6
+Gwomo'ﬁ :10
+~ Soﬁwmxge‘m b-«g {\
+§'®O@Q“%§ '3,8“ m
+V , 0.89%)“m ﬁg " 44-4
+' "m-.*‘mhﬁ§b ”a“? o
+_ gagsmohﬁ 3. 3-,: . \o '
+éﬁwegxwz é a a
+V 9.5.33 «$3 5”}? N
+3 3.. “3.3 m3: H €13 cu
+umakaaag 5.8%
+§§Eﬁ8ao§ Eﬁv
+. .. m-
+, '>}'$§38E‘”75 €303
+V §§s§3§§3 gag.
+v, m“ m ‘xhz
+och: w 0::
+- bﬁgasﬁoﬁ 3*w
+' V § ”“89-3355‘9 ""53“
+- g; ﬁgmguuﬂs ma: .
+' :03 05.5 ““010
+M omCH-uv-D gm mgrc
+. 2 wncgnmog” 308
+, ,,v o gﬁxﬁaggﬁ §§s
+- om_ "*5: ﬁo.ﬂ
+w ' "5 gwd‘éga‘po M's»
+/ ’55 ' (M «smas- m.ﬁmb ”130;..-
+j: o gouge 0:: gm..9.,o
+<9 {.1 gog'uh-Etggg 038g
+, h] v "'1 aﬁmgs.gawn§339‘£
+, H N mauvgﬁ'ﬁoumo ﬁx:
+a a Exﬁ wagﬁguwwo
+G) . - c3 OQ'ngoMM.8ﬁH”
+=3 «2 '5 .ﬁ3'6w3m5OEguﬁad
+M '0 oluo'dvgg-dmvﬁo "' d.) . '
+y g M é; saﬁﬁaﬁoavﬁ-E‘gﬂﬁ
+, g - v $%%s€§%8§§%%3§
+/ m m 'H. 'Pl 0 . "U
+.5 N F: ...: _; ...; “3 E&wggmﬁiﬂﬁggaﬁ
+: '4 ....: «.2 “.4 .4 F“ ”u'gsumﬁwoa °°r~i
+a W M H H m nu; .&£:1 mﬁagohug‘ﬂum
+0 34-4 QBS>$ v-mm8.>hax
+M w w 3 g 3 3 Hmouﬁwgﬁ'w” gas
+4a,: a a) :1.) o o 0 35"0543'33 'Umvbdoﬂ‘”
+83” g a a a a g gmgmaﬂasagagog
+madam 0 '0 o o .9. .2m “-23“ t:
+, Egg 5 a a g % a ﬁémaégaﬁigﬁﬁﬁa
+m 3‘ H 8 8 8 8 u oc.§‘3.25w'§§0;§0~-3
+a a 3 a a v v “3 . ?”mgawtooeom*$
+.§.EM m m m -% £ 0 ‘ gumﬂgﬁ. .ﬁgmu
+.5.) V3 >4 quantqu-MEI "5m
+cu" '
+uﬂu p—q n .
+mg; g nga -
+Q) tn ‘9“ r: E
+, gm m 25 éaﬁ w * a
+«a :31 \m :1 3: N .c: m
+m 0° uﬁg fa '* ' m 5N
+>12: 00 O ‘0 0"‘0 - 0 9" '
+Q - Q—i h ESQ M £1" m
+>435 "3 2 ‘3“ OQ'EO 08:: "N O ”3 £5»
+”:3 9* :5 m mmozxo “T3 xi 2 ’5‘: m
+Q) Q d) M ‘8:qu E<o .\ a 0
+mo) M - Com 0 C: - £3 £1 O M (1;
+unit“ (’1 3 a) wage d: ‘0 Q "d m 03
+aw a: 33:3,... N ":39 m w no u cu
+U M a .o -'~oo%‘- H w-~ a m M : ....
+"1&3 - "'4 "" 0 a 13m £3 “‘ {9: C) r:
+”Eu ... w «9 DHHEH o 53.4 .33 «s .0 ‘5
+/ g o m < QOZmH qBZH o o E < a
+3’ o
+c: E .Ev'é'a’é 3 "3 5'3 S:
+_ '-v-'*(d0 - - 0 "‘
+BER: D 00.33 .0 g g .32 m E Q
+..... "3‘ 3 “Mao ~35 «3 Q. ~33 ”H H
+a r: 5 ""0 ”"‘ 0 o *9 9" m
+a a g 35% % ﬂ h a E g E
+m} . V“ .
+. E vaﬁ'c: ﬁg? ovﬁ v.8 . ‘3‘ 3 "’ <3
+5 0 m 3 Mac Gan" 0C2 . G.) .n C
+m meg ,o o o ﬁ.~_ﬁ c,0 .5: a . '0 .5
+“‘8... E “.3“ $3 $33" . I: 'g ' w {A
+~ Mg ~§ 8%.: gm 8% .g '° 1;“ 3
+w Eog 550 ﬁg ,5- 5 o a
+. 35%; 3 3'0 *ch’ﬁ E" ‘9 g‘ 3:: 53
+g {63, m , gm ’9 w _ m l 1’“ .
+A f gagg g egglﬁggggg i 86 g% E “
+* ‘23 :6 E a 32$ 43," 5-3: >743 :3 g 3 <2 i 3 E
+, .030 v Q a 03:” ﬁm % y ‘ M .
+, ,m , M '{3 13 og‘ajggo ﬁg... :1) .0
+4363 M, Hamv 6w“,- m I . "" :22. E 3 ‘
+gg'czm 1; $203 goaaﬁuﬁt g $8 :2 i ‘3 - 1:3
+wag 5 $35!) 0528:3453“; “33:“ Quay? .3 .2
+’ 80'3'98 J: 55 ,0 mv’oo 9% ”9:3" 4) '5
+z gggggﬁxmﬁ gogaﬁa ga :35 o.. E
+E wggwggggﬁg ,gé-aégg 35 Egg 98' g
+. '5 H .H.N o I 0 .# km 0
+§:.d§§mag agog‘wg 35;, "3mm um 53
+x 2 ‘£530‘” 8,-9-40“ “635,36“ 3:: O 0 JD." 3::
+u:§%§mgas§§ aawogé zgw ea: £0 0
+W 9.4, 5) ' ~ .4: ~ '» ~~~ o. :2. m 2:: Hz:- ~
+§§§§§g$§§§<ﬁ §S§§§§ Eaég §§EE§Q é
+, $4: .mC},> ﬂ .9 «3° ﬁg” {3" m} 552”“ a-v-4
+gag; E» +6 QC?“ 5 Eug—qgg 5;"53 ' 5: § ﬁg 3;...
+m. imam?) “£580 0w§.‘~*o "530 “$30 ”a ‘
+'x . ﬂ 0‘ .«. H «m. z
+«3. :2 :2: 53:13 gr: a .3 m. . m
+01°“%3080“a 0*“00” Q C" '6 :25
+CI} amgbmamuh‘éi) 038508 43% gqé 3° Lam
+x g “ ‘2:
+“ E,, , 3 g .
+' g 3 3 S i o“ ”- "f “i «a v:
+m m -- w w 3 I: 353 Q Q 53
+
+‘ 0%) $3
+'5 Bug“ ‘5
+OB :30 . 'F‘ «a
+“mm «6300 3 c:
+; gag .Bgrvﬁ —~ g
+'04:: a a" ‘
+I ?%v nga 3 £3
+ma 3. «a 58
+ﬂag égﬁg 3 83 F
+gas“? QB'BE “3 :39 g
+mam , mg 5:: N “3'5 “U
+82% 0’3-33995 "‘2 3‘3 "c:
+v H
+”0% 3:85 8 -§o g
+8:59 0mm.“ m g :3 ct:
+*wvm ‘ amt? % 86 H “d
+“”3 ginaf'qh C: > CC
+“33% 43..“ a) 0 ow . > o
+a mutup‘ 30m . u l\
+«Es gage % mﬁg g N
+‘ G4 mo 9 -v- a: a
+.H [.4 gw m
+- 3 g .3‘3 E m 3:"
+gge ﬁg“: (:3; E3: 3 Ga
+egg; 038.5 ”aw 8
+3E1" - gags: ' gag ‘ .t:
+0H3 E‘MQ-m g 00 m
+0:60 “$3 5: vs 0 . H
+504:; 800:: $3“ a, ‘7'
+9H '5 a m a d)
+:03 0 +338 -3“ e 8
+353 ~9>~0§ ‘ Jam 0. Q
+(‘3 “'9 0'29 g m m C
+v [”0 m-ggg 9 ”O * M
+35‘3“. nga) $0.3 Sﬂa g g
+M.Eu ”330% m3 "Ergo '8
+a. a M '“q H
+”gm 75"” mm 0mm 0‘ c:
+w. 0 .1333. v6.) F***o "“
+.HMQ mm -H Mg“ 0
+' ' , ,, 575m ' "“1394 N“ 760 a ‘
+D; .. Ck:-.” “1.9. .."t:1 d) 0
+ma“ amws. «m age A ~
+3 mo gggma QE- am": , as
+moot“; 0o :1“ ” waif; H ‘a
+Q) . DC: '3; Eg'ﬁ -3g D O 2 CCU
+t ~5u§ haanﬁ ‘50 aw °n
+3-1 ”X's mﬁm'gm. mu ﬁnd) 0 _ $7:
+w .&0' :6me mg 43.9 "C3 ‘3
+:1 mm&. ﬁgggo .mp3 .8 m 3 r39
+o «OSS hﬁgoa 'v> 03'3“ 0 “.2:
+ﬂ TJ$M§ 5-" U29 3'0 .200 Q" g"
+d) Egg“ EB .5415, 05 g 9 CL Mg
+m Q as 2 ,ﬁ«a €~4 ~§w an
+"a mOvﬁl ' m - 1:313 CRMS" g z...
+‘3 QCDO‘ 1313008 «3‘: 1:: "’ o ' m”
+w , came goﬁjim m “03 m we:
+,.... ego... . . :swmm .5“ mag +~‘ 1:30
+a ﬁ 'u-«Nugm crim‘ ‘wE-st- 09., go "’ 3‘3
+a o . Q‘tamo...w MM. °§.g.+;@gﬂ Ea mag £34 a.§.
+an (2) “c; ' O‘H ..... <3 ...'..
+, u” :3 053m“ 88 $335“3 09.. '3‘“? g 5%
+3g 3 ﬁgugg 33% aggmgu :8 'Egg 2' 0::
+a a in a .ﬁo w O‘v-II 69.
+38:4: g 068.2130 88 gmrohgg 00 “mg g "3%
+3-. g m m_ggog a mrEEB‘Ea’Q. 39 SE 0 a”
+“2n 3 §3§32 3§ 8g85—33 $3 ‘533 3 33
+@038 G) (95 G 9‘ R'F‘QO H ""0 '8 . D """E
+ﬁﬁm .0 nmmeg ‘90 ”“0 gap 0c» :3ch B
+- .- U) 524'“ @303 63o ‘9 m 039 ?\0
+ﬁ" Ewe... m mm m:§ﬁ£—ac§o’ ﬁg 88% {5 éﬁ
+m0 ' 0
+.....o .
+9"” « 9.} "c:
+0Q “5 I Q)
+s: 8 0° a . ”£6
+:3; no 00 ﬂ 3% m 4105?;
+H :6 m ‘ Q... EN (:3
+mz w . £3.- - c: 8 g N
+Ow .. 00 m 19 n 0..
+w as a 2 2 ﬂ, I 0&0
+»'U E? m” D “2.“ EC) ago; a d
+33¢. a .92. Zr-W ”’2: {Add “’ °
+oﬂ“ d «80 '0 . m :1 m
+63"" @ g ﬁmﬁ 582‘: Ogma 'S :33
+mo ' ’5: 800 ‘ *0“) 33A m 3
+3; Q a 9 $b§ ﬁg vgﬂgs a a
+H M E ﬁog“ o Ew3_u m w
+a m 00 ”“4 m>Zm£ 8 g
+a . , . 8
+M _ . _ . M
+c: c... g; 3‘ -'8'§b 0.3” . '
+> 330 ,0 $13: uggﬁ @Q‘Hé‘g "" g
+g 51.5 , .0 o :3 °§° gomgg-SEEOOS £2 ‘63
+.t: a) *" C: E w A 09"0 O
+5 .mm a a 5 09 geéwomvxaeo am
+:3 "“"> «3 w 3 3E we'ﬁﬁ-H'S «Mme 762 O
+H > E .._.. 00:; Hon 53‘” ‘3 ' c“
+m c)”3 .. :21 0° 54“ 'mvpﬁf‘ogv & a
+g u :2 ~;.&Q 0H88&aﬁsaeﬁ mg 2
+CL 9-4 d) t!) 0+”t: 13 Q .5: O
+3%» m Q‘ .2m»g§ 55“39m°§“5332 *““° 3
+. Egg, 3 g; “-8 33 «awwg gé’wagg. a5. 3
+‘ “g v5 73 $6) ->‘3"£5 Qoﬁwg mﬁgoﬁ'cc '93 1M
+.3». 0 o oé’ §§§ wgﬁwhé‘gggHS’ Egg?
+: s; . :3 h ' ' s...‘ 3-5. - Mn 0 o . . 10. .
+,  M Q“ m& it: #46 H. 385 >10. .. B
+» §§ g g -39 ”ES ngg§.gggamas g2» x
+3:2"!3 , “ﬁg; Em GE!“ iugagg gougg {gag U
+m "“" ' Q3
+’ £80 4': i9 0a .::3 53.2“; x“o 3w... agar. w
+’ 23> w M . G3 w'ck *3 0 O
+m 0 ,__. ,,O .4295 ﬂu.“ 0 >3de 0 3
+.5“ :5'5 o g? 55.; ﬁg)» gwaggggfvcggg 503 .g
+z 08 § 9:» ‘agdé’og bﬁoaoamSBg-Daa 5%? 'z:
+* "“22 mg 8* {30305 aaﬁogg'gggao ”‘9 Q“
+. 3'3; 3'8. '85; «:02:ng .Bosi‘ow mogﬁs Egg E
+0:4... >,’:S*"‘" w i ' 3;: -
+z 9:“ > “pug 0m vgwﬁgg “Ehggﬁggg ”5 wdm' §§-
+o.~w £3 %3 ozwsga essgaagvuwwﬁ €85 8
+ggég ’Egg’. ‘98 g’fﬁga§w €§g§v§a§83§.3 gang)“ 0
+w W: :3: m0 m?” :2“: m £8 0 N411 '12: 4'3- ~
+E: E533 i-E M” ’ "5"“w3'” {" ¢€a£933“-v “:5 "3
+$5 $3: $335323 3": $35353 igsowgﬁﬁ'gamgm‘é i'ﬁﬁm "i
+;m;:%m mm» 2g §§§§~3 g‘éméggmaegéiﬁgﬂ a
+to i®,< gag Hz: ,3: mg: .ggom.§ $3.493” Q 63 z
+c) o w a) o .. ' ,
+0 ﬁgs.‘ “£3 §Q,033§i33 aggg 335mgﬁg “3% :13
+m <ccmy .3 k ‘a Eagaoa woawogwwaoono 50...“. C‘s'
+é , m m QR M£w>3m0mo H523 E
+3:}; E 3 § § g i " g
+D gm H E z E ’ g“;
+N “ “H 3 33 S a m $6
+H Mu—u
+
+m
+
+t H
+. u 3 g E
+53% SE;
+
+~ [ ‘23:“: ﬁg?
+
+I ”$“o ooﬁ
+$531053 3....
+. 852““ 388
+:x Q)
+
+~ 330“ C300
+
+* mugs 0'5.” :3,
+~ I H
+
+0? E '03:”: o:
+
+: Eﬁg‘g 32:35 N
+f "-4me 09"“ O
+7 m3“: 535 §
+
+‘ , gage 585' ‘3‘
+
+V gﬁ'dg v33
+~~ l g‘gi‘é‘g 8W8
+
+V   05%” wgg
+~~ "’1: ‘55 2°
+gave om‘“
+? Maﬁa ngg
+‘ $2335: 3‘93
+0,30 E“«:
+1 :mag win“:
+, , Eﬁgg §Eﬁ
+, . 833% 33?
+' ' ‘f‘ 2.: tum .....
+. .94 0'3" ' 003
+S Mg. >"ot9cc
+~ "'13 0051433 05832
+~ g E Dian ﬁq9ﬁ
+§ m gamﬁ SEE“
+a; 3a :233 8&8'8
+d ' g 3s3g' H385
+, g: 2:: .2“ o ﬁow'm
+3' w 8&8? “W3
+(6 "-0 'M "-4
+3 553m §§E>
+a G 133%“ $§§8
+Q 3 "-4 m .
+' ,a o Egan. . :1ng
+m - -. - ...; 94’“ cﬁ‘Egv-I "-3 0'3 .n
+“'1 *1": "f ~ "0 ﬁ”° ‘0' ”3 “3'8-
+‘5 tr ‘3- er v“ claw M (04:: _
+a . "4H 00 QN‘GSO O ‘3ng
+v: 3 '83 8 8 4»; Maggi; 2'; gﬁom
+H" a <90 0 a $0 302:8” 3 ‘5'5'88
+g: mu: m g” “m'r‘m 00:3“
+8% a =8 8 g ca 53388. 3 mm
+madam m : Q 0 «Ho 00) tn .00....
+90):: m m8“ (0 m ”3:... .ﬁa<¢_&ao 0 game
+511 a a {DD 8 8.“ m .53.“ H >‘NEH
+$25: 3 S; E 3 9.3.2 §§§o§3 8 $5.8m,
+aw; m ﬁg 3 m wk Oammm
+3'3"“
+£6 a
+UN” u-c: N"
+mt!) \O .. 3:“ "O
+Qﬁ «:13 Y ,0 033‘8 Q
+[R v—I “v—l
+gm 3 mm 3 3 ﬁg m i ﬁﬁgggw
+““3 dN-‘d ' ti .0 cl «5 Ex: 8 c:
+>) h4-.QCJ m 0:: Ma Q mg 330 v?
+ﬁg ﬁgzz M M o§ 2 d av§<£g§ a
+O.) m " “ u ‘\ (U
+a awmg g 8 m2 a a 352%oéw 2
+.33 5,0,3: 53 a 8‘3 .99 . “533.03g. 2
+0 «”0 m on O S 33 ca 0 O
+“a §§§§ Q °om g a sézamma a
+m 9—1 1"“ .
+35- o<oo m m 2M2 _ Q9
+m m I
+W “U , <1) :3 Q
+a a ﬁ% 33%. 3 a o .5
+° 8 “E d-«ﬁggg .2 ﬁﬁg g 3; 23‘ g
+Q) a .
+:3 go >¥~4 p, gﬂ'“ O >
+o .2 o-nov um“ ca.
+.3. > “g ga'ﬁﬁgfg‘ .éﬁ'ﬁ} gag- g E f§ «g
+°’ 093m) (3. “'55-" m 9. cc: mm H
+a 4‘: Ewggmawg .8 53*!) .Emﬁ 3 ““55 20 g
+a ggﬁgagégum-ﬁaa -3w§ 3'% $8 §
+, ' "-4 H ' o '
+. H? _.mm ogog_%%m§w® 5§> g_ 5:“ 3
+,M “:1ch 3—: 3,3590” ‘6‘” g d9 .
+i I” ”Keﬁo'aoﬁ‘lﬁ “ca“ '"Us'a 5 g "3“" ' Q:
+Q o 1* m ummv“m55 mg“ «:6 . H l ”a
+W... ., m . mo . . :3
+2 1 g §§833g§§§§$§%€ §§£ s 2 we ; 3
+‘ VG {Q8 3 :1 c: ID :5 Q (1% i: g! a Q _ E {U '0 G) (-4.4 33. "a
+f m ,.H. w mg g a o o": r: w .0 .8 8 n
+. ; §§E$$§§§3§§§gﬁaﬁagéagﬁ Sga a; g
+I So ggﬁﬁagé©33<a§3§ ”ﬁg 5;? 35 E
+EM ’ " .
+Eb OOOQSQEﬁsmw “"5" $35 E gs: E
+.,.... “mus; o o 9
+‘ ’9 §§§s§3§§§§§§§§§§§ 3:0 § a :3 E
+’2: “*‘vgd‘39»a .ﬁﬁ'a ADDS 130' .2431? ._.. «3:3 -‘
+, > 0H ‘P'! ‘ o
+A g E&g$3§§§§z§$§3333 ”gg 3 a 36 g
+; 0+. 2 o>ow ‘”>§O”£ Ea: ' w oﬂ o
+mmgmomgo.&ﬁ”§’éo "‘3 cao' .. o 0,
+
+i ‘ E 3*“:‘5'5‘3vﬁmaﬁkuaégm UE’UE 0. a {942
+g D 353%3§3%*6w<m9“§§ k0§£ “‘O iﬁg i
+3 §§"§'§°m>¢0§3§zm ﬁiﬁﬁo “:31“ 3' .3 50> 1 H
+
+.0 g ._. 32’...“ a > 3 5 io :23 h i: raw . :3 ; {w
+Z g}; ”9'9 52 5:30 .5 3 ,2: cu :22 Q... 2
+’mm0 M .w,‘ a; 0 m .
+
+8 gieaguaageagg-332 §£§8 3 3 aa a
+
+.C'GF-‘u-q 'NQ, .N '“ O
+
+{> g‘ i: i ¥ ‘ U
+3;“; E § ‘3'
+
+» N m .
+
+' D tN Mt? tn \0 “‘9‘? "f ~ ~ ‘m
+. ¥ . g o . . in W {r} (—1
+
+ﬁle 3: 3 z :3 3~ ~ ~
+ﬂ M
+
+"’ Rev. 1, March 9: 20:37
+
+9. Describe the regulatory restrictions regarding preximity to residences and other
+buildings, including histerical buildings and sites.
+
+10‘ Indicate what Will be dene with trees that are temeved frem the right-ef-way.
+
+ii. Indicate What the temperature of the eil will he in the pipeline.
+
+12‘ Describe any special protection measures that may be used in high—risk areas.
+
+13‘ Provide information on the berial depth of the pipeline along all portions of the
+aiignmeet. .
+
+14. If the pipeline is shut down fer a period of time with crude oil in the line, describe the
+procedures that weuld be implemented to return the line to service.
+
+15. Discuss construction techniques and depth at burial 0f pipeline in solid rock areas.
+Include potential to move the pipeline out 0f these areas.
+
+16. Describe what would happen In farm fences during constructien.
+
+17, Discuss the potential te change the product shipped through the pipeline at a later date.
+
+18. How will electricity be supplied to the pump stations?
+
+, ,1, ,9: ”Describe Whetmemtmeeee and. inspectien.activities .ere required byregulations and what . . . . . . . . .. . . .. . . . . . .
+V" " ' " ll ' V V, V, V V, V V, specific activities Keystone will conduct as a part of maintenance and inspection;
+including the schedule fer these activities.
+
+20. Describe how maintenance activities would centinue should the pipeline be sold.
+
+21 . Describe how the ROW will be protected from trespassers, eff~road vehicles, vandals,
+and potshotters.
+
+22. Use “cascading” water for hydrotesting. Address potential cress-watershed
+ecotoxicology concerns for testwatet disposal. Censider using two inﬂatable pigs and
+test in between. _ _ _ _ _ _
+
+23. DeScribe locatiens of pump stations and pig removal point.
+
+Environmental Consequences
+Soils & Geologz
+
+1. Address the potential for soils settling in the permanent right~ef~way during the life of the
+prej eat»
+
+2. Addrese the potential fer seils Settling alehg the route after abandonment of the proj ect
+based on the anticipated abandonment procedures that would be used.
+
+3. Evaluate the impact of soil compaction due to the use of heavy construction equipment.
+and how the soils could be returned to their Original structure.
+
+4. Describe the methods to be used to separate tepseil frem subsoil during excavation of the
+trench and the sequence of events to be fellewed during burial of the installed pipeline.
+
+5. Demonstrate how the identity of the topseil will be preserved and how it will be returned
+to the correct place.
+
+6. Address the issue of restoring the right~0f~way lend to its previous state. Address the
+retrieval of boulders ehé ether eebris and proper disposal ef the debris. Describe the size
+of stones that weuld he left behind.
+
+’12". Aﬁdress the peteettel fet eteeiee eleng the mete, peﬁteelerly lt‘t hilt}! areas.
+
+8. Qeserthe the metheee te he eseé te stehtltze stream heeke aeé aéérese the esseeietect
+peteettet fee eteet’ee.
+
+9‘ eéete’ee tmeeete eeé mitigetéee fey wind ete‘sieeﬁ espeeteﬁy if Wine em: shelter hreeks
+ate eeme’veti et éésteteeé.
+
+”t6 Aédress the peteetéat effects ef the temperetere ef the pipeiiee en the serreunding sails,
+including effects eh soil freezing amt drying.
+
+l 1. Address the potential for reek slope instability at or near crossing 0f Whitewater River in
+Kansas.
+
+Keystone Sceeing Summary Fina} Reel 3
+
+CSO
+m3“
+,3” ﬁg“
+E-«m "“ 233
+:3 >mv-<
+«s
+.15 0533
+V ' 9“ £922)
+.535: «Aug
+mm 03¢)
+82“” ogﬂ
+‘Mg a 0
+C340 058$:
+0 . 'Em t‘
+j 5E3 '52-‘22) m
+o0 8353* ““
+HJ—eM ‘ Q C
+<95" émo Ox
+' mg £1 N
+00 0 w
+“09 as a 0
+£25“ '3 go“ 3:8
+“5:3 _ 92a; {-14
+76:33 '73 Egg
+“34-50 ‘3 £0
+9‘3“ <3 .0333
+33mm: a) “‘3
+o‘gg 0 $83
+2 032,8 >131:
+gag 2 5&2
+$132 .8. 5'63
+54‘4“ 5m
+:50“ '0 m 0
+>0 .94 ﬁm“
+BOO G3 n-IIGQ
+, 2 2 , ﬂung . ~54 . 3'3?
+2, 22c» :2 sea:-
+'u ?Sg 'm xo' @ﬂw ‘
+‘1’ 0"“0 "' N ”'8'”
+1: -°<u 9 2 330°
+a «d: I 0&3 '8 M .gm n‘
+H - +3135} “3 'U a)“cﬂ"‘
+V‘) m "-4 g: 110 o
+a «« gﬁg 6.) m gvﬁg
+3 ” M5“ “'4 ”§§-
+_ § :2 a .- sows.
+>10 -H,..4\D Oh m
+g, M - o “:3 '.w~< mocha).
+'o *5 cm n ”H nﬂko
+g a 65% agw Eagﬁﬂ ‘
+w .4 ....:‘ . w§§ $52 §§§§§
+'2 wi 52 :3 53$ “32-1“? aiﬁggw
+o -:u::: 9 "3- “-“3
+a g a a 2:2 £39 £2528
+3; m a 2 23b €03 $“E33
+9&0 5: C: :21 non mm “(§§ng-
+"ﬂnom 0 '9 O os—a'“ 0g“ wag ‘3
+car: CL: m g a ﬂ 2:00 "”0va
+3-1 Q m m u: now“ m.g‘ 3) "H91
+9222,. :3 a 22 383 .asﬁ -9*§%22w
+“”3 ‘9 0 v 938 m“"“ “mSESE
+35m 2 2 2 ”mo -E$8 £222:
+3.. m mm” {“0050 f-«QEXOUJ
+:3 , 2 «ﬁg 3
+.2 '2 s:
+“M .33 E 5:15 31-1”: Q5 0.0 ‘2" «x
+>32 mm ‘D .\ cu - ‘50 "'1 ‘3'. ”Q “5239“"
+g: dggﬁg ﬁg E82 ‘ 9 Y gﬁﬁﬁﬁ“
+me» o o “c: Q52 “2-2 mg 0 §
+8 gagaag g; e<o m a Swaggq
+ma mumgo w omﬁ- - Z m 0 g
+.363: g «ngmm mg (1: '08 c: 0 #13:» cc:
+0 80cm; “5&2 .2ng G .d ,5 232 50023 (D
+g: . EU -.£1‘{3m n°gV¢Dm°3°° _ o o 1-. 933.05: 3
+mp ma.go\ gogﬁ QQ % a ﬁogaéa‘ “
+gi— mmEZES 221123 23 >.. L3 ~93 30 000 E?
+m . a mzmmn a
+m o
+: €30 CH 3") “O Q) Q
+o 12‘ M0 g 5 ”5-339 Méggg m. 5::
+K O §§~ a Em £m°$ ed 0
+a 8 «22% m. mm - . NZHH 3°- 0 ﬂ
+5 2 23a“ ag 0* a $338 05 2
+3 TE g.gcg 8:» £3 0- méw‘g “3‘ § g
+= a aeﬁa 5% 28 : Saga 2: u a
+C!) 'O 0940’ "5‘52 9“” ""‘ O’DWO "33:5 '5 M
+g 223% ﬁn 0: ”a $0“ $3 3 '3
+w 2Megg 3%”ﬁo ﬁg mgﬁ 2M3 -8 g
+22 2228 2% 2% 232222 a: 2 8
+.“ w . 0H ..
+E33: >2ng E35 2 22 §§th 2.5,: '59 é
+gm 2321:2233 '02-: E’s? 2 .812: 2:33 «a - «a:- ‘ 2.2
+g :0 Bgdg.§w k2 {..ov”“$8 55 E “
+2 2% 222$32§38§ 2- uﬁggﬁs “a 22% 5
+2 2+» .3... m > in. 2-21) :1" ' o . ..
+2 2% xga.zmo 33 2 3:0 £3 £8 E23 5
+2 2gﬁ;ﬁ“a&®§g 8g 2 a-gﬁvg %“ g§a v
+2 9" "Jv- aw >~ 3 " r4 ' “ 53 I t ‘
+$22 wgaafaﬁ‘ga :2 ogﬁagm ﬁw ‘ﬁv 3 %
+aw . H ..... -:--w—«_ «a
+3.4;; ..... 002-2223 9: I 27:" ,c: .2953 0"“ ‘2
+mo 2233;343:3203 8‘0 3 33080: «£0 25% .,...
+{-2 3;; §§>Q & § -m2>w-S“~§ 2222-0 «3 '3’
+FY} 83 hSQﬁtoEg '83 088%.?!“ 330 ‘aﬁ CD .
+2 002 3‘ 00“"ng 353 '0 gang “2’3 3.22:“ .93
+m8 ”302:3.” s 'GE“°’®“o“$ “ 5
+am 9 » .r: 0 Q0
+".22: 33,00 2, HO 2 www.cim‘v O r: ‘3
+O ”‘9. c0 2:: =3» "-22“ 2:20 .22 0:11-33 o o
+{o ’32:: E u: , 3065:2430; d: .5“
+.0 2&3 gagggggg 339 9883”“gbm9’5392 5,3 . U
+., 2mg :30 ”Q #9 , ~13 ”M’Uﬂd‘ 1.3.3350 3 i *:
+p—g .'»’W S” : p.“ ‘X .9“ .
+{g 2213.... 25w§>§35 233 2 5 3%05‘gﬁagg 532 E 2
+[3-2 530 mggﬂ-ﬁ’m‘i “6‘3 . ‘:§&'&§ 3305 E? E"
+10 5g ggmggga Egsgi%ggaz§%§8 83 3 5
+2 O 0 {M O .530?) ”nag 0 “3“0 9
+@232 Boﬁﬁcgw mam g: :588m&¢ 82 Q
+2:: 2 2 22 . E
+D iv: \o E ‘ 2 ‘ 2 2 U
+m . . I\ oo ....
+m tn m V; vi t .‘Y"? <2: tr}
+3—! M ‘_ M \O\D\O\O \c \o
+
+S 8"
+0
+ba §
+' r ' $3 é “5 9
+. C3“._‘ H
+g i §§§§ grog g”
+
+i “3&0 gag mﬁ
+4333“}; g} Q .ﬁﬁ-‘ﬁ
+mmmu a mdfa
+DO 94 528““ .5253
+
+, 8'533 375° §0§
+"saw; g.gg. ﬁg?
+gags; gag ESE g
+53::3 9' “'38 {H
+§Oo 8%. 91mm 0
+m§%ﬁ ga Eve 0
+, \ gmvo rm“: MOB.“
+5-4
+cm 0 «£930 oﬁmao
+. wasg ‘Mu Mosow
+5:: 352qu Ea”: 2H8 :53
+£3 wave was .933 S
+9% Q9943) 52:5“tr 'aowo
+bv—m‘m one ga'a‘h
+g $390“ "13%;; Ow§>
+$3.53 mac %”w§
+a) #4303 3‘03 «3
+,2: a u... «:30 D '5
+w >35!» 03¢; . £013?“
+CH ow'vu 001,, g mg. 0
+,‘ O Qm8> 8am '"ﬁgw
+. HOG: 43..“ £2... 0 .
+G-q—IH> V‘) Ham
+'7‘. was; qom M v “.3;
+m PE :3me 0'&M E €513ng
+« v u... ' '59::9‘ +076 0
+3'3 23 'c: “_S—gﬁ ?gggu- . _ ﬂag?)
+3:: ~45 g @333: “ES“G’ ogug‘
+Q) v—t Q-«uom g 00's 5433.93
+”'3 '0 “3 3"”2395‘ ”3mg“ . 4.033%
+' w c: ‘3‘ m'g>~..2 r-gopﬁm-O mﬂm
+3: cu m agom: g-Ug‘ﬂﬁ name
+0 N“ *3 H :45": >433“ “08.5.2
+” a 8 ““.8 amaoa gxm'
+o H g «.2 €38“ mtg“. g: oggwg
+,3 ...:‘ m «:5 3x813 Egﬁg-g ”'5ng
+._.¢ ”H w: @gmo $39.0 > "c:
+13 _z‘ o as :35 ”mo“: d)“.5§
+- V2 .0051” mm} NM .5: .“M
+a w “-4 ”ﬁg” mm
+a N o » 0x0> ~~~«nw ”o“0
+o {'3 H 30°C.. 032.130 $3.4m...“
+m «a o . 81343.45 gag m' MAME
+*i, m "U «a .1": Qm'.‘ 3—348 mp; , . 3:10
+3:50 a 3 g Eggggg 3510532 ....: :3 “5qu
+o O a)“ 4...: m M ﬂ'mﬁ
+com 0 o c: amwovo r:--.E cuw o :2.
+:1 :1 w -m a on:
+F“ a m 5’: 84 wubféc 386§ﬂ3 1; *" 333.2
+5" CL 3 .553 8._. ﬁgﬁmog 0:28009: m 3;} rundhm
+d) .3 8 Q) .m H 2‘; "a b .2 m m a O O :3 8-1 a c: cm: >‘ a) pt:
+:11: q; ~ 0 a) .wo Gcﬁ‘ w 0 o 054
+:3: M m 55 <1) 0 3% H a ‘53:: )3 § .ﬂ 3 Q4 m a g: “M
+39 m ﬁﬁwggg $$$$a~ 2 3 m&§ﬂ
+.1.) ‘HNQ—«wm xqoﬂﬁg 0 H 8km}?
+5m "“°0{-m a.) 0 :9“ o
+04: 03 31,3 053%
+”a M V1: I mmﬁo
+3 v N m
+mm :5 ‘ ""4 \o “3
+m2: <1- 9“ w N 3 mg - . N g} c:
+3.3»: c: M 2 F: .59.“ «:54 MSW“ O O o
+o o 3 6 a 3 m5 , «z 2 2
+n: w .12 u -.« 05‘“ E
+. c: 0 Km 3 > >'° “t: “.2? d“ «
+m)... g 3 m g ma comm“ o ‘3 5:? 0
+a m £ 0 m ﬂaw ¢§30 m a x g
+m U (3 0...“; 098$ :3 o '5 "£5
+:3 m om“; §§J"" E 5 a H
+»° 03 o 0: “*94 U C) a: *5
+«6'3 "§ ‘5 g . U :2:
+Dec: "'“ '1: o
+' a $2303 ,ggg—g E' "‘3 (H .9 C:
+E 35>“ ‘3‘“3)” ~31 g '6 Ho , 1
+< 63 d) w-I ~¢~ “bog > m 2
+E $53 gsvh 8 mag ﬁg 360 8
+a Ema)” mo“° c: co.m-ﬁ-ﬁ __. wax. w
+> :E .63 m_gZ'a :9 «5,8055 On) an“;;.. E '
+E go“? 89.01 :15 ,9 3'594 8'03 .800m
+.50 o ‘9 0 9" ‘5 “-42 4) ﬁg“ ‘2
+: "4'6 m x-Ug g m m' «Sic - ﬁg
+«a mac 3 0 >4: E3” 5
+A . Essen “313:: S a: .ﬁ ow .0” «“0530» w
+, {g 0.5 wmgugw .m -.:: . onggdmg 05:31: e2
+$3309» 03’.%¢2.E Q 0 Gamaﬁmh 1013:; o
+. £00 3 gugmama a) ”#9” .Omaom~mg ma; 8
+
+imﬁ o '“S'w " H ”3'qu gar: “O ‘Q’ m
+
+«3:650 3 M>£>$,.r¢ .‘3 a .52.. ewe 0 E a
+
+{“§>\~~ sagmg‘” :3 8_ $0959 cog +50“; .....
+
+32mg 8 i2: 013 {a c: M bﬁﬁvga‘g- :8 mg “3
+
+' éaomvﬁ agéﬁuﬁ s g gﬁmagﬁa§&ﬁga 2%
+
+g ,M hﬂw ”"3"” I. _ 2 4—: m
+
+isﬁogw muamxa “ g 3% wrgwm 5s v w
+
+3-4 Q) m “ On“, 0“ w-d E - 9-4. 0 ‘ a x§ﬁ C 0 {Bug 0
+
+~»¢;3~« «saﬁgm o w a« 'g'ﬁoiawﬁ v
+* “5 "é"'-G 4': won)!“ :3; c: u'>¢m§-H§mm max 4.) .
+Z c: :3» c: “.GN 00 w a) “U «a 30M 6’
+,C: , {053 SE6» 3) (a m‘Do 10-4“ '13 «21:9 .51)
+
+m 33“u° ooﬁm 3» Ho” mﬁawaaak 0 wa 6’
+wagﬁg aggg‘g. o...-& g “goo...“ .23 E“ 3-:
+$130349 angmg "ﬁ‘go Qwﬁsﬁoa't 53093 P
+
+0 33.938 .a’ogmvﬁ‘g .amg g.ggaegax .00.“:3 E
+{.3 3:94? >33 gagggm 3.763 33:10 <23 053 .§“0t~ ”3
+'o§3%w&s éggzﬁ gﬁﬁ 98%»vé3a ésgﬁ E
+
+”Mu,“ . N ’ 'v-t Mm . 0
+Zg3053g§3330g3 gag Joggguvo «o 0. a
+ii 9.0 *s-‘w __. 0g £91333”... -€€$>€L¢ ﬂag 0
+§§Eaa a Gamazg saw gmwmnkwsgwwcm 0
+£8“ 'Hﬁ) EHQ©°E Q 3 éu‘gﬁog 2.332 “Q3?“ ‘5“ ‘
+m @éoﬁg vgﬁaag :» igggﬁéggﬁm ﬁ“3 3
+" i ”£0 FSEECOG €938 gaggEBOﬁégngBm IE“
+gm; oi.) ‘ mak.aerEQamtzQQ-4 1:;
+DJ , E mwmgggQO:oog 9
+g ?\Q I“ 0019‘ ~ ‘ “Uhuam LL?
+5 k, , .
+M a H v-N mm
+H
+
+..... '2: "K
+E e.) '2 53 c6
+3 mm 32.»; a 8;: g «a
+E m “350 CC: 4-2 Q
+o @Qca‘o: '0 m m
+: am'a‘ti'“ ‘3 3‘ >‘ 3
+M >\ 04“ us: g.gm 9—1“ $ ~
+V 3 ”50%;?" 003 '3'; o
+co gg'aas 33 1:30..“ 3 w
+a mv§§§§ 35% m 5
+3 Qsaﬁgag ﬂag “H
+8 05G ”’5 £58 0 l\
+m “H‘sgg QN.§ g M
+o a>§H :3 3,60 ,8 o o
+4* .&0 ~43: 003 Q H
+g m 3.33.25) GN § 0 m
+Qzﬁah'J-E 0 '33 M «C: Q)
+E nggaa 50$ 3 3 3°
+3:30?) :50 '76:)” G) H Q.
+9‘ aa£§2° .&8:: {=9 g
+Q Mm£w¢.2 $38 &
+a , s§2§¢s 39% v 3
+a ”QQE '54. g H
+8 gbﬁﬁw< Egg m y‘
+m 0013‘“ 0 o
+, a agasgﬁ <§§ & a
+g, H.,...HQ z .....‘ ﬁg»
+:0 E-«qm'no 9‘55 - .uoﬁ)
+‘9 00“» 208-: M.SM
+H I 33w30£ 932:8 O“
+G) “a E .. m—d
+c: 2353:”: ‘0 Do ac:
+u'" ““U‘ “'13 005 .
+H ,, V g mﬁggomg .843. '33.ng ‘
+>a 3.989%“ $08. DEE
+a Q 'gmazgm UE’Q gum
+G) 'G g.gxmu_g gm}: Geog
+3 § w“3§g§ H35 93a
+9 . C I
+A o a gébgag ﬁﬁg meow
+“ a 3 -nw§w:** GE> .5mgw
+a \O 9.4 mg-m'goad .2540 “Hug
+a m V .M m9_8‘m ?&"g g0“...
+:3 “C3 M ' ugg-aam Lug... DmOa—q
+g E "t 8 uhmw ”ca... 53on
+03 U N .mWXQ‘ﬁ—q Gama: a E
+m m . «~a- QOO 0%.0 0“? .
+.C: = om H ”.23 mm" gave
+a w .23.” *6 mg‘ﬁaww cog». “£53:
+m f .:g g . gwxﬁga ”SEW sgw»
+9+ _va.mm 0d) v-t-Il mm?
+'6 “-1 -G H ' M H‘aB-Hmm “033%.,“ . ........
+4: ”-4 kamH m2": 0! ”,o—Dgorg' 8xoﬁﬂ "13¢"?
+a. O v-cwgm cm '6'? .gﬂmm‘: g 0002....“ meo
+m, 8 3.3.23 3; *-* og‘g'b‘ﬁg hgﬂhg 53:13.30
+4d .
+8% 3 35g 32 § §§§gﬁgo gﬁﬁga gas;
+,. Q ~ “2:: w' um
+. Ham 3 0;; «o o w m0!) ”mac on; 4*:
+O . O >30. "-1 o
+~§§ g; «aw ma“ % ogéoﬁgﬁ mg. 5? mm,
+m p‘ a 'Eimg 23 8 M=wzs§o$ 'ZSmHB 3'53””3
+93 8 00¢ «no u Ogg'goag 333309 gnaw
+rav- m f mm m Bi—«anw Owowm m3<§m
+G)
+. $3 3.
+mm “13% a)“
+g: €513 mm xoao ' " a '
+$2 gas :3 ';.::~ ~ w 0 £3
+“ I m h - o n
+ma 0%? QM MM S S a %g
+'0 E<° oo" :50" :4 bd gmgx o
+* ﬁe égﬁgga $3 a d vzdg a
+o n. a x q)
+“o ‘wn§$35 -88 g a $35M 3
+“. § .NQQ on m m Egg? H
+59 a Hmm mm < < £u§§ a
+a 8
+hi
+- E 5 c: ,, :2 cg» cm .
+C: 33 s: E u'“ {54% .0 “Dave :21
+9* o 4:10 :3 ~> «2 m5 6H 0
+"—1 OD m um a $3.. O 0 .,.....
+a 3 8 E “ Fa é E x avasn a
+z... o H "' a m m .
+E» 3 ”U“ 8 E3" 2 ' BgB‘Egmg E
+s' 3 222 ﬁ 25 ° \ “vggﬁaa &
+5 as ”m3 *5 00 E nzgamxgw 5
+”3:: ago E “26% £3 ““00““w 8
+* 8 gwa 8 mg a — gaeaoEg. a
+, ya MN}? m a w ' .cc "’ i O
+> p 5am »o _5 m §838§3§ g
+*3 3:63 '25 w :3 mm «ma. ....
+.... » 560—5 mg m 1. 9n. QM” a
+a“ zﬁﬁg EH 53.x .ﬂugegmg; g
+» E6 ems: I o ' * “‘3 'Qm““'” i :3
+Ea Q» 9 $5.; gﬁ gs ‘§.H5,c:§ﬁfm§ g
+iig $32 3“ x3 3 329%OE8 g
+3-: >530 3-3:: ”(30%”.ng :3:
+3% {5&83 Ego 2% g u .g'ﬁgvg >
+E“ O ﬁaoo 0,8 o s: ﬁooo g '
+Z 0 630-0 530 w , mowm k'
+5-. W‘s: M... % O&Omaa S
+2 >8 omag ﬂap? n.” g 5 ﬂm‘am' 9:: ‘
+E “Egg“ 8Ea.ﬁ§ Q a-d agg'wcm. O
+0 § “ﬂog $m68m g g ﬁgaggw o
+0:3 sgeagggéngu r£§&%m§&§ s
+?%EE ’w%§&§%%3§3€§ Egzgéggﬁ 3
+aééa Wéeﬁgggﬁasaw ESE§9ﬁom g
+“M ,’ ”n‘» .H IN , 'NQ—(‘M
+calyx ﬁﬁggawgﬁowwg ggﬁawgom m
+U Eo’g 33 Vo§~o§588£ g ﬁaﬁggﬁz Q
+méom <§§eammzmcsa ugmagaaﬁ a
+E E E E, . ¥ 5 Z
+. Egg} g {E i ‘ E i O
+:3 I\ wax. o... m m g- m C.)
+m ”f "2““: “E“! “i “E 5‘! N.
+m \o xoxo xoxo \0 \o \o \o
+. N M MM v—tn—i w—d v-v-t M v—t
+
+8
+£08 ,
+M303
+cg.
+i.gg N.
+g3 B E
+V H 3.3
+3.5% cc 2:
+mm 9% a
+0:: .2 b
+- g”? 3 '"Eé '
+gé ‘° 3
+H ,
+mo é’ . u
+,3 E .g
+'3'; V
+g.“ 3‘ Z r~
+HE. 5: "<3 (*1
+3 $3
+:35) h m cm
+3m 94 3 :11“ N
+Q“ 3 £ :3
+, co m
+8% t: .3: ... a”
+am? 0 -«s 3‘55 9‘
+0m 0 E m <
+H5 m '3 G)
+as ' H a 3
+'99.... ca 9 0
+£740 ' E 0 ad
+$5 ‘5 3
+.F‘ m ‘ .
+ea 5 a: 3
+.9-1'" 0 'c
+“.59., ,_ g g 3
+w 321.3 s:_ g 53
+d) <44 31 .- t“
+3 00 .50 m o .
+'62 '2‘38 . g g E“: - ..
+“3. ‘83:: o 3 q.) .
+4-» c6 *5; E
+n: 3:: g .
+o 8 9 -;.:: E!
+=3 g.” M . a) £24
+, Q) 03 ~45 G .& ‘13
+.8 852°? :3 Q" ‘3 '
+Io . o o.)
+w 8:: ‘d 8 « -c:>
+00 :2 m .H \ _
+'6 3‘5 c'd ' 9" 0
+ﬂ 9363 .H a 0 U3 .
+a m’é'iﬂ' 0 >4 a
+.M U ' _ O
+“H Nous '- 5 m '1 “d I
+0:1 :4 mm m (H 0 ex 0 ’6 .
+am, a ooze .- 0...; m - "~' H 6.) “C3
+@035! @ﬁ‘s f: :3. ‘4‘" F o :3. ,H 4:: Q)
+3...”: mom0 :7) 3° 0 H 3‘ =3 :3 .H.
+m2¢ 9. cm 0““ == 0 =3“ er a
+a Emm M o o m H u an-
+ﬁ cu 933:3“ Q :68 (a O m 0 &
+““‘EM 00“!“ .-a :5 3‘ g. r: m a
+3‘63 “(7) g; . 0‘52 8 8" 8-4 0 L1
+tmu (/3 £0 -0 ID 6.) u} an 0
+mm 9* g u H a 3 3..
+Q91 > 63 z z O
+“W “‘3 Z
+w " E: N
+>323 9" E: \o
+0+» E v“: w 3 « 2;
+M“ Q go ‘3- . . b?) l KO
+'6 m 9 Q4 ' _ 00 C")
+Q 0 DE 9... N H vs.)
+mm .4 - Q Q 00 . N
+“5‘ “£3 52$ « n ti *4 m ‘5‘
+M» “g: Q“ C: G h - C54 :3
+. So xﬁrg o a: Q- o O
+33’- ‘F‘ 0530 “ on C0 "3 " Q “ E
+:1" EB Mgr: $1 :5. -, «2 g 52..
+w 2mg «2 .9 .54 5 w 2 E c? a.)
+:2 >* 2 E Q 23 c? m 9 a
+m, «530’ U H 0 '0' 3": :2. a2
+Q—t m ""‘ v-D p: M
+° ’50? <3 2 .a ..... 8 o
+‘9 2'22? 0 *"
+a 2‘55 *5 gm w
+r:j>~. {H' O
+E 'Oﬁ 00:3 ‘ . Q ":81? g 054% Q
+5....“ "d .g-«n o (30
+:3 b0 ,9 . _ “a '5 .‘D .
+m :28 ways!» 0‘ 5 o 63‘" ‘9 q...>E "‘ u:
+“Hun .Ha. c: 'U (0 £5343 3 0&0 N ' o
+7:“ 5"“8 2.: o ‘8 - >~§ w as a m an
+33 €33 3 3:: a ”‘5‘? -‘>’ 85% 53%
+m o ’ . . ' .
+,. '23 ‘9 "‘ 0 .. ‘5: o v‘:,_. 35.3
+gg «Hag _ m g s: 450.08 *5 3g“, 05-0 0
+33> > t!) cg: 1» EM .5; . 4-4 CH
+5'13 ,000‘“ 4: -§ 3 o '08: £5.2 5
+Wag ,‘5‘35‘0 +4 6) L404.) 3 0 <1) '00.
+6:; f «a ,> am ,0 3 .- £330 :10 'o ‘m .
+IV)” aroma Q o “' -~ «8 .38 .1-+> a)
+K .1313 @933"; ' s». 13050 53'8“ ' on. 0 mo 0
+gigg og»§» { 8 -§$3 , gﬁm a 33% «mg a
+r9 9’53 , . g: .ﬁm- ,: '3 . on: 5633 <1)
+.5" >\ 63> . . ..... .G o :3 «ago omw <12
+,m M .63 am U 511 , .9:
+g ““3 O 940’ ’ H a H O '0 .S: 0 ﬂ) Hm ‘
+i , “"0 awom {“6 c5“ w'ﬁ . ””41 “<00 -
+‘ E Egg fan 6:335 9 > ”:1 . gut; ”ﬁg Q) :30.“ o>g a
+I {’3 ”ﬂ {:1 8 % Q} i ! {3-513 Q) '04 a .1086) 3308 g
+. b8 '6‘..ch at g age H amﬂg gga .‘Eﬁw- i:
+5* $3 38hr: 5' $3.. 333$ § ?%m.“ >1,“ 8% ﬁg? 5 .
+Z Cd 3:3 Q 0 2 0* O .0 w-_ a»: g‘ *5?) 32!"??‘4 0 3-4 flu» Q U ,
+”’13 ON “ 8. “ﬁg au- $105609" ant: ”2:3
+’ (“‘3 “-50.8 ‘N d) . .o-Q ‘9 w .0010 .8 4) M m
+» go aﬁ‘na , o .2: ﬁne I&EE 3:13.22“ 3mm 0
+2 a 5353 «‘5‘. ‘-’ 56.: “0e m ““33 «ca: .-
+. , 0.3 .2: u .08 ~35“% b01304) add S
+0 Eu) ﬂags: w LE? $3M“ . 3:85: 08'§§§>3 mad"
+0 88 , HwO : ’U) ’0 .ov-AD “Hymm .;><+-« (C ‘00151 g
+?,iw— .352 $30. 3‘", M 531m 0.5 go .53”
+{3 :ge .* <3 mm; a :8 '5 ”E .E 0 mh “5m 3: m
+.2; §0.& 3&3.» Mo 2.5g   335,: .c; ‘33 .§.Em>¢2‘og~m .8
+mama oaauiua aw “.5 aéaﬁsozasa mom a
+O .508 m8: 5’3 0%.“ ‘ “a “Saw ﬁan‘mg’éwmé’ ‘3
+m b!“ ”0% °3 ‘6‘“ «2‘3“8 El'vsg'avgw “£5: $iw’89 4%
+o 5'5"“0 00 «3’ mmo” {V‘OQ “ag'rr'>aasu -
+. 0.... mm m' me.) 0 i cmoﬂﬁta‘wﬁmx 63% 4:
+mi.“ 9» °C§C Q0» :3 Buvo'?”@“
+s, E ’ . ZQ O ‘Qamcgg‘mﬁ.amom 5:: E“
+D $2 5 f! .50 363013 Q “£829.; Z
+,. m \D a . wmﬂgdjgﬂolﬁ} ,__.
+v; M “S H § . 0 L14
+NH 9006 ’“i m i j. z
+No: 6:: c5 t:-
+N 01 5:5
+m
+
+H m
+C 8 .ﬁ '6 Q)
+V .5: 33:6"x ,3: E 33%
+g ~wgw":& a G "
+r 3 Q'F-ﬁ H S“ cm ""2.
+Co {1) ROQ)
+£2 54H 43 .3
+g 8‘”: o 0 neg V
+3233 ﬁg' 5 ~53; ¢-
+Uz m >
+.3“ $393 6,) mm.“ .0
+”>1 ‘ N ‘« 0‘5““ no
+max Ea 5% yo“ 3 b
+20'33 » o gag '8 m
+, gaﬁs gg § 50$ é %
+"3w”; 0'3 .... $3 ‘3 >1
+9 "~13 00 C5 F... M '3: m
+«Hgm- “S o 5, «S m
+"aggg “Ga .53 0348 (‘5‘ go
+5 “m 53 '6 EQIE s: cc.
+' Ea?" “.5 g gag «9 9"
+agwg E” .2 i 5&6 Q
+ow; 3‘5 8.2: «x 3 a 9.. g
+5303 “H *3 04-30
+Qu§§ g m H097; a '
+ﬁx: "a 02:: "a . E§> «3
+‘3§%$ ﬁg 23 au% 5
+V £5450 H.313 "C" 0“ H
+wag “H a «e» a
+I '05 ﬁ 13% {H ‘ 09“ '
+OUn - EM “#5 g
+g 51:: 5° cm ““300 .5:
+wk.“ 5... 43...... w
+_ H0533 $0 (2:13 3:30 z»;
+SCHQ 13“ "5"“ ﬁzz” a
+H V V . . g 8 9.3% g g a O__ _ 8 $3. 5:. o
+E Sgt) cum :3“... “CH. '8
+o Hoﬂlsn'ﬁ ﬁ.E 91 hot: M
+. amt)“ QM (6’0 0 o ﬂ)
+3;; 33:30 .00 13% avg 9* -
+o amid” o... g 9.2.43 &
+5-71 Eu'ﬁﬁ w as"? g"**m o
+; Owﬁu;a Eﬁ ﬂaw '3 5 H
+5 c: -”G co
+‘9 EC? 3 go o- ”m0 c:
+=3 o“3°° *" 0:3 3:: ‘ﬁ
+o - @g-gsgo '83 “g --ﬁg§ :3
+.3 EQ'QQ ﬁg gm g‘gg +3
+T: "d . . ““515." .“CD '0 “gm 0
+'6 Q - “D- 'd 3' -w0 E_= Ed.) trill "-1
+1—4 0 0 D “dam :3“ @mm 'H
+' 3:. ‘3. «h .u g 33' m :3}; «HQ mi H.537: g g
+a C1" ' a :3 :3- a) O . g. '0 8 0' .03.!“ $ 0 £1: 0 w
+, a a 3 a 593'"S.. an: 8% “'188
+“w cu "" "* “0:53? H'E'S '5 83%“
+U, m 0 U 6.3 m0 ’3 Mr 54$ “mo.“
+05o r: “,3 m m 3515 ‘g. ”as mmﬂ<g
+.550)“ C) O C: 5:: mu m H> 00 'U
+‘3: :24 9*“ O a 0 t Ex: oi go {Mum
+$23 3 g % m 8 GE m- a: W ﬁgg
+gag 8 g E 9 §?eg é? gé §§8o§
+«MD: Z Z. 2 E ﬁance mo {9% 0‘51"“5 >3.
+"‘~ omo vqu’uu”
+g8 M MS Bmﬁobd
+EU! w a a '
+m .S ”3.
+g< & a i «
+$94. «3 ' *5 45"; c: m "8 8 ‘
+“Bl ‘ m t‘ 3‘3 <3 ‘65:: ad c: «a
+az 8 g % id ”'§4 * H “ ﬁ
+":2 g; E ' g ”.3; o 4g g M g) g a ‘ v m ”:2
+v a m d 23 ”02% Q S Q m
+cu .- " r: 0
+F30 53 B: CD SE; 5313: o z “ tn) a)
+ﬂu M m u... a M 0 <1) 0)
+£5 E E g 20 ”55% 5° 5 3 E 3
+. ' . t o w m
+a; a ﬁg §>§§ <8§§ gﬁ g a O 8
+~ :1: 94 D Mm d 0° _. .53 E3
+3 9:13;!) ”‘94 50 m m2 :2:
+H wm’ m 0
+cm ”0.93"“ *o H
+c: g) .s g g3 5 g . at g: u . 9
+’3'“ > ' b4» ' Q '
+N O I: m $3
+a g. *5 g . g 0 V; «a «s. o
+« >a or g - 8 ago a o . . a
+E a g ‘3 m E 854 g "g @495 .0 '5 m C“ «a
+”a *8 ‘9 .9 -0° ~5 51} E 5 E
+5’ «3%50 :3 0'13 O :33 ow mm . '5: ' 0 . 1‘3
+m ronwo 3 - «a 5 M0 0» . «5 a .
+”(33.3%? '65 '5 £31 ”EM'L: 8 S g3 ’5
+'56) c... M an 2‘9 m 00' CL . ' w
+, Hg ., c: 1.. , g g: m ..,...m-gh_£ 0 a1
+.\ (GU) €30 . m “,3 ._ . 9 cu “U . .
+1w“: .5»: :z; :20. .g eases. : 2 : e
+ggﬁgﬁ 58. a V: m agggg . g. 8 a . a
+‘ I ’H‘ *» H w ' €30 .. 3 '“
+gong .3 g» M Q9 5 00,3 £3. . g '—g 8 g;
+momﬁm 50} g. m” o mavm- _ M .O m
+E is o a) 8 c 9 --~ 33 $398313. a > a) 5-
+E :3 43”“ 0% g g 53 23%; -9 cc: 3 1....
+. . 0/. 3 .
+g Egégé g. ~§ g. E3 ”"m 2 38%33 I 3%) g “.93 3.3:" 1' 5
+Egomgvgawi r*SM%S @3533 ‘aw m g z w.
+baa OMMQO g: 5 0 g .o ‘35 g m ...... E . a)
+.H 5‘9 <9 ,3 » o g9 .33 gag“ Ho 0 . co
+4:18 -5o.,»» 1; om w vmﬁm-m so ,> m .32
+T303 h—t “(6' J: H 3:: o ......
+Eu «$an 93 w m :6. 0 013
+z gsnﬁagﬁw a; .0- 539.93 “8 E 2 E
+m ao3gmm ~ «m m a is3ﬁ 'ﬁw v o:
+: Q g 5-8 6.) g Q o Oé -§"\“E® ’3 Ga) 3 "" & , gig a E a .
+a m >m2m 2w “m & Evagw 0 ﬁ 0 8 E
+o sgggﬁmga m0 »£E§“d‘gb,..§f°% ' 'aéa a m a
+0 {£4 1: a Q3; Q» 335—, {3 :31 i "'5 m N} g .33 g C71} , ‘f"? Q18 0: 97 JG.) 0
+Eugg >m230¢1 3: ‘5'“ rwnﬁivgoc. 05- 1;?“ «a a i.,
+{.5 ,,5’.,..» gas,» ﬁg; g’Qm“gO§r3 “,2: “ac 3'” :22 § ,3
+Elgaa.ﬁnagﬁ §§ 3%M5gw gﬁgg §”g >3 w 1 Q
+a:§§a&§% g w~ ~v53°§§ cag.ﬂaa.w@ « 2w
+0 i‘mmgakgé’ g§§g§mr§g‘§8§“h 43% $29 "3 Q
+w ,. ~ ‘ a am“: ‘ o” a... t:
+L, Egg £3605 -OOO #3003300 ‘ MM” 90 ‘3 1&1}
+m §Bbmggggw O’Uﬁj’dm wmxgmogg amo «,9: O
+t g a: H “mg 3:33.50 H u. o .— £2;
+E 7 H mBHo {12313 «£3 a: a
+’ .m: ; § ‘2? E V 1 _ I ““4 z
+a W xo 1% E i :1 ﬁge
+a g d g: 2 m 3 % w a M N U .
+N NN N a N "" NN Men' m"
+
+"C3 .
+3::
+j 63
+m :2
+:20 :29;
+W
+. ‘5' w
+' I g .525»
+9 E2 "558
+8 ER; “.55 b g
+E" ‘t H 3: Q8 i-l
+5““; a) 9-4 0 g {Q G
+3-30 " :9 : - 53-19 .S
+:3»: 8?}; 53 0 R O
+U'C.‘ . gm 5:“ «Hg :3
+G M o 93‘ -o t:
+”M Q.) . s... QJ~ -
+*“ m 0 33‘ a gal: -O
+.g ;>. 9'5 - Q5 am :35 g
+a.” ”“3 ‘c: MB a: '
+0'54 . 83 a 00 Ga“ «3 g
+"‘ <9 a “E&M 5
+aka» 2% Q “5 0'3 ‘ 5.5
+' :96 :5” ‘5 £35 . 'U 53-
+} 3+5 8.2% ’5 % E53 E 3
+S o o s: 1-; 3-5 3833‘ V} g9
+:55) M8 5 g‘ cati§ :5 g“
+, 0' i {a 3::
+m 0 o 4:“.
+8 . o ‘0 :33: p. w
+5.5?!) 4:: g +4 ﬁgs 5;;
+53:5 ”(‘5 '=. ”:3 3 ﬁt: 0 ""
+0: $3 0 :3 :3 > -m .
+0” 83‘ o 535 +55, .2
+Dog -«.2 35- V) d.) :5 :35:
+' am > m “E u 04 "'81:
+""“""o: :3 m as 3 M
+In ~93 mu'ué- "" :6 ”940
+Q, , ”a . 5 $5, , g o, ”03 3‘
+1: .55 ”T32? _ . £3.31 :3
+<3? ‘3 > ‘3 kw pa: . a aw); g
+r22: 8 cm 3 ._ g; b!) n cu
+3-3 03“" 3“ - -... $310 0
+5. "'3“ >. 5'9 a m ' -~-.o 5
+1:: ﬁg 0&3 *5 9.5 £9 2?? ' 1:.
+'c: ‘00 m :9 $1 H z:
+a :0 a ﬁg 3 E 8 3 3 E
+=9 3‘5 0) 05H 9" m a% «O
+a 5-: 2 m0?) 0 ' H N :u-u-a O '
+E ‘1‘“ U}: . 6.) >33: 8
+:3 «5,3,; 953 8 ‘3 v: 53 a
+as :9; 0 E55: 5.: g 3 3‘5 2 :8 .
+3 Er": “3 0'" - .2 3 - 53%“ e
+0.: 53 G3,...“ 5: M 9.. O O 0.9
+0‘1: 8 > E a O Q Q Q3 0 Q 63
+““00 .94) 0‘35; 0 <2: to 5:130 g:
+h =?- «s 8 9 c: a “m h 8.35% "a
+a“: C} '31“ NE 0 (11 D “m 'F" Gt: 0
+ca - % '9‘ C? N‘ w c: ‘3 0 Qt; Q, .50
+‘ GD :1 ~ ”‘5 a 0 $21 :3... 03
+: ﬂ 9 «a !-d M 'H o {D > O0
+22mm 00 mo 3 m 5.. 550:: . a.
+Q - m Ia d) a :54 >3 :1: 0M 0:9 ,1)
+O H 0 >3 H 0 g:
+QQ m 0 cu , o M 5, m , . 55
+-~ 9 (4‘4 m a—n-q o G) 'v—JE‘
+6.} 54 9'1”...“ 75
+mm m » 0 0 o E 0.35
+a) ‘9 6) M 'C’ 0 5-1:"
+< U) Q) Q) 0))..1 Q
+:91 C0 0’33 g M _
+3m {5 En) ‘ £3
+5 » 0‘63 2 5 g
+33 a m 3»
+mt; . 3; '2“
+1:: m . o . 3
+en E? ‘3‘ V -
+30 LL} {3" (f; 9».
+Egg .5“ Z % Ln 0
+m5: § 3 ‘i E 3
+ca 5, “0“ Q «3‘ .
+g“ m g 5 w 35: 55
+a {/1 3 pg“ 5;: g .
+H {D 3... v5: ' D
+3—: m .32 U ’ . , g
+o m d 5.. U 53 . g ,3-3
+: 50m 0 . . <1)
+66 .0 ﬁg 8‘ ’1’ 3 a
+How‘s .. . 8.g - G) 8
+E §§ 9 3g 0‘5 >1. :3 m ‘3‘:
+U " -. s:
+a 555» 3‘63: - m 5 5 8 553 °
+0"} 5—4 63 C3 .5536: 9““‘5 0. 8.5.. G3 :3 {5
+13¢) O, 5‘) 53 ”-130 E ”m G :33 I
+'6“ m h g- M 0...... l B ‘Mw‘ﬁ S -2
+. gag». 3,52 . “aka ' 5. 3:2 ' w: a +5
+3 ‘SE'BM 3*» G 3’ 3 ”3‘3 - ' 3° ”'3 0 ‘5 3 : 0 E
+. 0: go ﬁg ’55 cu. *O‘g'g :5 ‘5 .-. ;> m
+.55 5 . 555 5 5555: o «a
+‘ : :»35::{3§oa 55 5 .g 5338 a ‘3 a
+I [ géga 2.543% g “5:3 E 8 >» . “£5876 % § 5
+{m '33 “I ‘ 10.9 >5”: - 0.5 o ' :®~“£.° 3 0 U S
+‘3“ 3: “<3 H :3 H G 1—5 '13 H 3:: ' O
+* “#80 “:‘133’3 G ‘53 u 5; ' § 5;: ‘53. 3* o v:- . 3’
+g :53, * : ~ :‘9 8: Q} 3-4 8 - E Di} :1; m h O M:
+.5343»: ; 1:20:91 “5.533” 33- !o- E 33:25:05: i '*"' 33"}:
+* EH‘Ermao * ”a :3 55.53%; :85: .m- 61% - 5-2:: :1 0 £25 .. m I "“
+:5» 55 5 5 5 5-5 5 ._ g; 0 5-5-5 2 5 5.5 a
+{— .2805} 3:35:30 am 59:5. .80 ad. ,2: 9.11““ E
+5 5 v -» 5 55555. ~5§~sg~ 5% .5
+55555355 53?»: ”mg '9 “I E mw‘”lm' E" 15:79. :53
+“583% :12 :9 53:3 3* £59 g Z. 3- E .53 8 £25 :5 g ; m}: g O
+0 c616 ‘9 9”»: at: . 33 M ‘H ”‘ﬁ 8"" ‘9 -S 43 O. 01,“; . ”’33
+’ 0 ‘55:: ""0 ‘9 ails QC ‘3 ”-5 "‘ 33:... q.)
+2 Q)» mg» “3 >~.!'—"‘-« M g» "“ O 5" 9“" '923 I £30
+:4: . 85"“.22 5064—; 313 Q. oo.c‘lg H 0 W“ o
+O €5.00, 0 a8 ,5: u 5, . H ~53 :3 «no 5...
+3 ’ * w: i? “ 5.... .- , “'M : - W ‘
+(.9 $313332 §§§§§ 3‘23": 3’5 :3 2:35 :3 3 ﬁﬁé" 53:3 3% 5
+i525 E51§3 g 3 5 3‘2"“; 3‘2 @339 a 8. a ‘8‘ 3 ‘5 3;; ﬁ é’ 3' 5.3" w
+E A "‘56:: iEgS-"émﬁ ' 0333} < Cm‘ 6.9-‘01533‘ .>~, “Q S
+Q §§§§Qw Eggﬁ‘g 5 $5.555 5.5g: 253-5555.: .8353) £§~§ g
+» " » :3, >650 :3 “094-4’"‘ ,5. ; 3'
+8:5333 3§”%§*§8§:€ :35 55:333§§a 'é33 8
+“33° §§é§§ 53253.33 5.235; g§%'§§ 312' 813,3
+i=3 § (“35 O m d) O Q) 0 g 0 w w 0 H d) E". . 43' 5'3 1“ :6: 76C.
+. 5 {13,9 ‘3 o ”.5 a :65 a .. a ‘3 Q .4
+D 1;; : 7 Q} a) '5; a ~35, $.22 . 9-1 5%” {“4
+U} 345» ""'" :2 §& 88:: 3:: c.) 3.5 ”Q :
+5 ~55 5 . z 5 5 55515 555 z
+m gv 5.5 ‘3 5 i 0’6 00": 35%“ m
+N :36 a5 H 55%? § B 6 LE 1:}
+» N 355 ’ H g E“ o E
+N hp... *— g Z
+"N 33:36 5.5 ' 0 ’
+N a '
+CD
+"'36":
+
+m“ 8 32::
+'3 ca 3 ﬁg
+: 80 g ~h Ea
+33'" R
+! né % 5% 333
+I mo 5: $423 $95:
+Dwmo 39‘” mgo
+£H°8w 0%) zmﬁ -
+“333 33¢ (:80
+£303.... «‘“S-‘J
+P E-ng 8g 594::
+o M“ 0m O ”53 l“
+(:1ng g‘ mﬂv M
+'H020 853 >\ g,“
+"“2320” 08 3% 0
+$233 Us 3 $2“ a
+' ﬁg 1:) 4 o .83: 33:3 0 $2.? ‘ o
+! gage 32 a 883 3
+2;: 3 R a ”‘3?“
+«3.9 Q 133 .33 30‘:
+mmgg £0 ":3 03,8
+.... . m“ ..QQ.‘
+«309* \o g **
+.o“3>g ggg E ’3“ 8
+G ...—‘94 Ova“)
+”38$: %3 3 ads
+"3:4“ 5.. - ah 3* :13 25.3.93
+.hzaggg "Ham :3 -"‘ ‘8”1:
+3 $3 :1, E, .. pi" n). _ E. .. .. g. .{3 0.753
+gas: :28 3' ,gg {H . 2948::
+w ng'ﬁu . «3 “4.... "" 0303*
+a image 3 53 8 u 80%?
+1:5 g.§'$.§'§ $5 3532 'E' ‘3. 193:? 3’9?
+a --3‘:.ﬁ,_} #— '—' H 1- ’5wa
+a $330.53 :3: E‘vg 52 ,5 gmaa
+w mw-Gm‘"; O 135; 5‘5 .2: Or:
+. ' I. ...-1 ' . “m
+n .Eam” g - wn ﬂ 2 n m.
+0013- E as "1 0"" .E 0E8”
+. :9 ﬁx; r1033 E N 8:: m 3 xﬁ
+5 3+: 80-3 3, m :9 g; - 5 game
+'5»; ' _ u "d" :2: m
+:11, .9‘3 0-333 23 E @300 o 0 .2,ng28
+m “ﬁght; a; “3 320% “S .3 8miﬁo
+”=3 E‘an“ g "3 03%.» "c: 5 “Law”
+,3: éwh' g m m “<9“ :2: H “23%
+a “a :3. "H ”a 8 g M m“ :3 Q. ”:3 L) .n
+«'2 mmgow «6 8° "3 a 53“”54 '
+o Hmﬁ 9‘ ‘0 °" m - 3" ....“
+t}: .oﬁmma ‘9 3 3°05 .... 8 EQ“O
+.aﬁc éoaﬁo » E g 538 3 v 3208“
+gag ~gaoﬁg ;§ 3 E38 . é - 3 §§35
+“2% «59%: w 3 35% 8 g g£§g
+gg‘ﬂ mgéaé $3 “£8 g a} 5958‘:
+m.ﬁﬂ {H mm {... m .5000 M M Ewan?
+c»
+.98 \o 1
+mm .z: 5-2 -
+QQ “3-4 \0
+0x .... .
+gm N a osaaAg _3 w w
+gm ox _ ii 55% -QG§$‘QM l\ xx .5
+01-» 94 .O O 0‘ 505m ' 12L
+'3 Z a“ :5“ Svuog<°“ O O O 0
+mo 2 .3 o o 0‘: “~33 :5 1:“ c3“ 23
+...-H... «3 w *6 hmccom o
+cum p. m :1 ~Mo® m 8 8 .33
+o m o o 335%”. «c: . - . o
+m. 3 t: b gang 2 E E E a
+003* a) a a: 0°“o o O o o *5
+gy m o o amzmmm E 2 E d
+a o
+H "i4 0 M Q
+kw ‘39 B .3" “'"‘ e.) “.8 '
+Q Q) Wxﬁé_. Q) m" 5 Egan I 5::
+.0 ”233% o a 8 g; .H . .9
+a $3 3:9 ‘5‘- 1,333.1: SEE Q
+g ’00 "a >» .:°§§ g’ﬁg g
+'6 :3 '0 “J43 "—13:
+$3 | c: '1)“ .53 g..§-,q>g mB'ﬁ .3
+$3 » o 3 “35m $3233; 3
+m": *5 «a 3’s: " angﬁh 0
+“>13, 0 *’ E '0 3"" {3?} '3 . S
+. = <13 , c: 0'39 "-1“. .
+g 0:: m a.) E!“ . .my-«Q .. . o
+one > 3‘. gﬁoh 0-5;   . a
+ﬂu p . , ....4 :3 ' . 1‘
+g I imﬁ .»:3ba» Ego 333 2 ...: :r m
+2 g >_‘_‘ '9 0 xi §_Qw 1 ago 1 1 1 M
+l E «05 m w o°ﬁ I ogo4tiifi I
+’ .wMH » g x“ No .3“ 0.3335” . ' M
+893‘; ~ g @Evﬁ [13“ '8 5
+3 “'a53 3 S o’ ““30 i‘w-§€5“ ‘ A
+r r: » <9 bi: H. .S- tea .rc
+E [0:33) q} :3 {13 £9 ng 3-9 3 : 3&3 Q'jo- i , ‘9
+f gpﬁg I <9.“ 3 :30 8);) . Emcoﬁ'ol t +3 00
+3 cu“ : :0 oﬁamg {:3 «3‘ . U; :3 . . O
+f hob!) :3 a .QOQ-aﬁ." O'ag-‘ﬁ ...: Q 13-“
+i 3‘3 c0 ’mﬁgbm”'¢ 09" ...4 ' an E
+E «354% '3'; -3 o§<§3 . Eggg g w-E 5:
+» wan'ﬁ Q) . O . l -:a
+":9 Snmﬂwf‘i’kﬁ 3 9428 G a
+E 33.9 “.83.,>»g‘a398»§o gn‘sg '3 :8 ~ 2 ....
+0'13“ owe” 0 3 .ﬁ {-«w am a S
+O , >230 : mamacmgm “.0356“; 0 gm &- o
+0 ﬂ :3 >‘”3.89v59*c -6; 7,093. . «...; w“? ’3'.
+3' aﬂm 9: mx 3‘“ g) 62.59% V: “BE Q'G.’ a <
+$3 :EE :ﬁmggiggggg §§§§ﬁ'§$;ag ,w a
+“-1 g “‘53” :4 “gbvﬁowﬁoog “.o f: or: 00 "'3 Z
+Q g "ﬁgwu o, #ﬁ;>,v-Dmg 003 mg...“ “a ' :11}
+s m RHﬁ“ ”@v—‘OLH >‘J3>, ' Q) ' d) a
+U; ﬂung e35 *owngQ-«ﬁ :gw g. 3.... “x: a Q
+m mE-«nu; HmEB-é—«B’3‘8'E 3 8530 2E 53 U 31:
+‘ . .. 2 ~
+. & ;;* igé : 3 g; 33- -;,G
+{:3 . i U
+m J "t "t 0% M. —-« ...3 .1 —-
+m ...... «N N N ’ ’ ‘
+
+G.)
+«:1. )
+8 9-: $88
+Qua .m O Q) {\‘m‘@
+o 8 0 ”mo
+0 .3 a H i '5 {\Qk
+sagt; H S w FLM-
+[ f m’ﬁg 9‘ (AS 00 M50
+2, .M a Y 0 ﬁg 01““
+oz g; s: 94.... mm \o“:
+4.1% “MO .3} O m
+5-4,? 052:“ m 00:21 “3.... v ,5) I\
+o" v.30. >~. 0 wt; Ho“ m
+{(—1 ﬂ 0 e. Um 064.; . g“
+00 33 :3 .931“:
+”a3 5309 M 3.9} “3‘ "'".9 O
+3:: “£9. .2 Nu .ﬁ $3; ~o
+um ’Uc H m. E ‘ 0
+gm +3526; 0.; .5313 a; 389 w
+Que“ 8': H 0 am 0 ‘H ‘3
+m. ”was 5:: .ﬁ. ”3 04
+$32 335% v 8.2;. 32 ﬁgs
+‘90 b‘Q-ﬁd g 9"? H“ N w
+3;: “E ‘“ 8 g “aw” ‘
+3.. ”oh :3 C728 ‘3‘}: ‘03:}
+a). '0.)ng d) i“? '"g m“
+‘3 53:30 E “Q Q‘W'G
+Sm 009. 0 ““3 53 “>5
+0—3 H0 m . 4t—e raw 08
+v—fv H ‘H'
+85 $435 3 :3“ ca 594%
+w; Mﬁ% E 3% .aw éés
+o 334:: '13 0% :93 moo
+00) w o "—4 _mg g: Q Q
+gg o :3 :3 g> gm. mam.
+W: $33 .53“; 38 3-335- £89“;
+a U)“ H." .
+”*0 “v":‘s‘ :3“ £30 m>§ 05'"
+‘3 a - O 0 ~ g
+‘ Own ‘ 0‘“
+v, .a’“ gﬁéé 13° “5?: ad}? gm“
+‘ 3-1-1 03 €80 T” ““4 “8‘: ﬁg?
+4) ﬁr: . "‘ . .8 5:: an O o 33
+E 75 $333 mg gt; .5 g: §©a
+~33 g ugng BE «,3. 82a ggaﬂ
+3 0% E~8~ 30 3w& wgg agﬁA
+9 5 «“765 0° Chg 'n‘a‘za‘u >*::*c
+a m: 82¢ “ 03 vwm EON
+.. Hg: Mb- 00 w - .233
+3 E": 938C333 +5. 33$ 238:3 .g'é‘éEcd
+:3 8% «H» 3*" 08 o” - 00‘: “E‘o
+V1 0 $2300"? “0 Q&O “H8 310“
+3w mug.r- 5° m‘H-ﬁ £1“ ””“m
+"U C: 838.3} gg 0ﬂ> 030 3+».st
+ﬂ “'5‘: 3‘ ”M 00 km: a)“ “303
+a neg 8§g~38 $.13 axis: '33 B'B‘gﬁ
+m. at: mamsa mg 3%»: 8.3%” 'a‘a§%
+«a 0g .52 .329“ “o“ "’ r: u S “<9 2
+u. .E o 0 4;: . >‘mo Q<C 5» c
+ggg "33% g'ﬁgﬁm 9‘5 ﬂag ”£1.48 @608
+ova .am 8:: a ‘61:) a, V GS 'Ea S.Em
+~2¢ ma gamgo m 03;; :2 F5 0
+9-! 9* “6) mm c: m
+m 00 0"“v‘mw Mid
+€39: O \o H.
+”a *2 -- 9..
+C310 _ N $31
+EU) 00 a ﬁ “:2 g
+0361 Q m w" - I 3'”:
+8m :3 «r "‘, g c; M mm H“ 3
+M“ m M M a 0 dc: m 5“
+"g M M q; g“ g. E ‘gg EC: *2“
+as u 0 M
+5“” ‘9 c: 5: .32 m o '9 mm
+3.5 g 3 .42 .5 > ,o g m) 8
+m . r: :5 .9 <3 <5: I
+95-: <1 - :1 g: - 4) o
+3 O oﬂg >023 ”-4
+m 5 ‘90 x4";
+9 8 E - a S Cl ' g)“ g m >5 «2
+‘HQ . ' H I
+. a 7:3 5 0 U, o 54$. 3% ’22
+“ -§ 8 a a b 6% 3m 8
+E v o aw 36" 3 ga 5% B
+:3 w 3 Q ‘ E’x‘ .0 ma 0 . m
+m 51:: “.0 05 33 0+» 0;: a)
+m ‘5 ' M an 0 3-351) 3“ Q4
+' a a C} EWQ “08.. H ‘19:: m’U «a
+. o o a»:- ago «as <£3 1,.D'g mg g .H
+‘53 “a CD £3215... 3.;59 :9 av '33 1 E?
+g .m *“ Egg .- c663. "‘ : Hg ,
+‘ $30 50' 0» ‘E'uﬁ Mast; 2-3 5% 2‘5“ awi U
+¢ :a I” . u r; £4): «3
+. 3.5.3 : d) '“9'49‘4 . i Mm m
+*6) "". 3:: at)” what: 1" géﬁiaz i *" 5’3
+‘ . a 9.8 M “”0 0°33 Eim f;;.w:3 :20 £
+a) 3*?) gm: >9“ . “. 0 “W E ‘>
+3-4 0.8 *2: ax: > “-3.5 .... ”‘1’ 0- ﬁ
+«'3 ”—1 , t ,5
+g £53 , »-Q.‘ .m’ 0"“‘3 haﬂ Q} Hm 0 (0
+ya 5:” 90°“ 9“ 4’ 3% “1
+, é 0“ i5 3.90 6,3,... g 33.55 632... S
+i.“ . ﬁg 5 mg'5 hog, . ‘3 no 3,35 5
+’Z 3. :8 0 $09: '33-; g ‘ 3"“ 0‘08 0
+iii} 03 a3: , g ﬁsts ”“19 «wag u ,3. ..
+“o u“ N ....«:8 “3.9 8 mﬁa gaggg .4
+E 3% 5% a my“ ea“ w ”éi géa‘ <
+«3%» ”:3. Q) 3.29 ggg 3. $3.31: mo‘aj g
+0 =19“ .9 ~ w >,. 9.5a - Ow ’: a *5“?
+*0 m? g: E§ *gﬁw ?SHM ' “3': iwga‘ ﬁwsl E;
+$13.. *5; w m 13 g», > Q.“ M <9 :3 at {g d} 6) "" E” 3.... C1
+is ?‘a‘é'é $3 , 5303?. MM“ {$0 $908 $03 .m-
+:2: i .2: ma 0 “>4. 0% a H ““8; .2: in
+m. ‘93 M54 M a: z: :5 =22“ f'“°« 33“ '2:
+» . :21,“ .13 .
+n. gﬁ c: g amt.) Ens U<Q 20—8 {3
+g gé mo 0 z 2:: § 0
+i g: S' —: ' g
+g; H N ga 99 38 V”
+m \0 ,mm M
+. N M
+
+‘36
+C380
+3 5 Gags
+”M a ‘Goazc:
+In“ .¢§ “m.gm
+- V. 9 VV 0
+{Sggg'ﬁ gggﬁg ‘
+, H
+£§:%§'§ “3+5 §§ng :
+H (
+U3“ 'Ho'a ngﬂ
+.mwopgmﬂm,~$ .
+"doo'ﬁﬂoongog g}
+V 3-. Hag.“
+O awmmv.moﬁ «3
+Yo a .32 o n“
+”£Ov3w8,$f.g‘aa.&
+gg‘Z‘EQSS'stOQ‘
+33 -...§"Uwq_y33¢m '
+934-00ng “'6‘:
+3‘ ”u... 0 ago.“
+M350“ 83'0”???)
+“03'"gos SEQ
+ng—go'ﬁoo-gw
+d3“ “meweé
+330 “m 6)
+oggmhwwogwo
+“@OSOEEgQQﬁ
+"—10 g: m.“
+§o>u h-gm p,
+4:70 mowgcmm I
+0 “Q4 00 npmze)< .
+GA 0'6me em
+0 ,, 34:” H.”
+vgggﬁ§3%§gv8§
+V MA‘“ "-4“ .
+V m gﬂegoﬁ hwgg‘a ‘
+a. 0%83'00..E§amc
+3 25’“3?2°a§3§ .
+, w ©9815 ”'OQNOH...
+H £8513 “wciv'zstam
+g s§§§w§g§g£5§
+vﬁ éagﬁéaggggs
+J: 94‘ m mGoQEoo
+:3 Hgggug'nouuokéd
+'2 Béﬁgéomﬁagomg :2...
+a ngmmsa_§§%§ a
+% “*ameaaesoo a
+wt: Eng ?mv.2gm .M O
+098 30333;:  Omog 0
+”5‘9: 983‘ 808133308 :3
+(I) U} 1.; I
+5:28,. “6.9,.9ﬁEmomnggg ﬁ
+U) C1 O 0 No R
+'H D 0 L4 0mm
+0 Q whkoM-Mo
+”.595 Mann; “
+=5 . gm _ x
+I n m
+nag min “ Egﬁ
+mm o cog
+cu< «9, a man
+a .p-g M “D
+QQ" H} 5 580 3
+«m >1 on 0mm 8
+$12 43 €- ﬁt: m
+E463 “233:3 3 Ag Oaﬁms H
+v ﬁg ﬁgg “BEQ a
+8» En 3%; Emﬂg o
+0 HM h Oak... 3 zv-Q ‘
+m ‘ $3 .NMH
+Zuuu a
+3; mz : a
+, “H” H
+3 ... .5 m 0.54 E
+M o 3::thng .5er CH
+Q .2: cool: a "33mg a
+«a 'SQWEEO ‘QD‘H H
+a... 0.5.0 $8 ‘43QO m
+an L9,. 'ggéggg 335E 8
+’a g 3:2? “ﬁgs gﬁog 8
+, ,..... '“.- I
+a a haw” “gas“ &
+me: on) n a) "a
+g oﬁwhﬂg S'M":
+, m moP-"GOQO gwgﬁ B
+m, §g33& m8w> 3
+o u Oomﬁ log)“ U
+:5 3,333,;wﬁw _£’mw£ m
+> ““30 -
+% Ngégﬁgiaw “3! &
+E E8 Eﬁgagg 'Uggag, £1
+E {O §§48ﬁ>3aor0‘ﬁ'ca o” E
+.. $5: mgﬁuoﬁaam:vgﬁml
+E93 033380§5§%gg a
+, > 0 I 1
+F31 ,mv‘z , wﬂxmowgﬁmgam I H
+g? m’"Mw>£NxaUﬁ->Ow w}
+2 wk 4:103 g,>m>,§$o§w i:
+, 37.12:: §.ﬁ.§89 G53 “?chﬁ
+o, 3 3'" PW": \wf-«E-«i-t'ﬁ 2:,
+‘ 0“"mm3‘2a m
+U M) :3. ~34: ”-4,?“ o“
+.5.“ s V '
+2:23 EQBEO§ ggégg &
+E“ Q": ngmwQ 0053:: V
+O E» w>xowg ﬁnﬁcm U
+, oﬁ Qmwgaw
+m > >
+. 3 g m
+$733 v F;
+:3 m ,_; v
+1“ m A v
+E v
+
+Rev. 1, March 9, gee?
+12. Address fault lines in Kansas and constructiee methods in areas subject to earthquake.
+Groundmter
+1. Evaluate the impacts 0f eenstmctien, heme} Operation, and upset conditions on springs
+and en greundwater wells used fer drinking water.
+
+2. Describe what procedures weeld be put in piece to provide drinking water if groundwater
+is polluted due to a spill, including Ieng—term procedures in the eveﬂt that cleanup after a
+spin does net return groundwater to drinking water quality.
+
+3. Address the potential fer impacts to the West Oaks aquifer in North Dakota.
+
+4. Address the potential for impacts t0 the aquifer in the Vicinity ef Carpenter, South
+Dakota,
+
+5. Address the potential for impacts te the Oglala aquifer (near Seward County, Nebraska).
+
+6. Evaluate the potential for impacts to the Ferdville aquifer (in the vicinity of the
+
+H H ,, H ,, MichiganzNorthDakota}. __ . . . .. .. .. .. .. .. ..
+V H V 7. Consider impacts t0 the Sand Lake aquifer in Dickie County, North Dakota. Consider a
+reroute further to the east of the current preposel.
+8. Addrees impacts to septic systems.
+Surface Water
+
+1. Address the potential for erosion in creek beds during and after pipeline construction.
+
+2. Consider whether or not there would be an effect an the dike nee: Seward, Nebraska as a
+result of installation of the pipeline. Floods are commen in the area and altering the
+ground near the dike could impact its integrity. Consult with the Corps of Engineers on
+the issue.
+
+3. Evaluate the potential impact of the proj ect on reservoirs and i1} particular an the
+Mataj eek Dam (in the Vicinity of Lankin, North Dakota) and the Milford Reservoir in
+Kansas.
+
+4. Evaluate the effects 0f leaks and construction on Seener Lake Reservoir in Oklaheme.
+
+5‘ Evaluate the impacts of censtructien, name! eperatien, and upset cenéitiens en farm
+ponds
+
+6. Evaluate the effects of spills on surface impoundments used for domestic water, and also
+the effects of runeff during construction.
+
+7. Address impacts in sewage treatment plants (in particular the Towanda Treatment
+Facility in Kansas) and individual septic sy stems.
+
+8. Evaluate the effects on drain tiies and the petential for drained famland to become
+inundated. Describe how drainage systems will be reconstructed.
+
+Wetlamit and Vegetation
+1. Evaluate the impact en native erairte and ether ateas ef eetive vegetatiee that the mute
+might emss. Assees impacts eh areas that are hemed' eeeh yea? te eesute pmper grewth,
+
+2, Eeeteete the émpeete ef the prejeet eh wetienés emit {iescréhe the mittgatien procedures
+that weight“: he tteptemeeteé te effeet imgeete.
+
+3‘ Eeeteete the impacts 9? the prefect ea weeétené areas
+
+1-? teciieete whet tegatietéees weaté ?eqets‘e stream batik etehitézetiee @ng amt tmmeééetety
+after eeestmetéeeﬁ as wet} as what regulatéees weeid require that Key steee repair stream
+bank stabﬁization structures that become damaged.
+
+5. How will the temperature of the pipeline impact vegetation and crops in the right-Of-
+way?
+
+Keystene Sewing Sammy Fine} Rev} 4
+
+Rev. 1,, Match 9, 2007
+
+6. Evaluate Whether or not the burial depth of the pipehne is sufﬁcient to aveié problems
+with the roets ef craps such as alfalfa and COR}.
+
+7. Discuss revegetation of the pastures and farm grounds. Inciude discussion 6f how the
+revegetateci areas wouté be monitored to ensure that the vegetation becomes property
+established.
+
+8. Discuss patential for invasive and noxieus weeds infestations and potezttiat for outbreaks
+in future years.
+
+9. Discuss the impacts 0f trenching on regrowth, particulariy during drought periods.
+
+Fish and Wildlzfe
+1~ Describe the impact 0f the Freed. engeneammaie such. as decrandturkey, antler: their. . . . . . . . . . . . . . . . .
+,, ,,, ,,,, ,, ,,, ,,, , ,, ,, ,,, ,, 'wood't'md'habttats.” ...
+2. Address impacts on bull fmgs and toads.
+3. Address disturbance impacts on bald eagles in Oklahoma.
+Land Use, Recreation, attd Vzlvual Resources
+
+1. Address the issue of eminent domain and how it may or may not apply t0 this project.
+
+2. Evaluate the impact of restrictions on land-use over and near the pipeline, such as
+restri'Ctims on Constructing new bhildings. " '
+
+3. Address the potential impacts to bicycle trails in Madison County (South Dakota).
+
+4. Evaluate the impacts of the proj ect 0n daycare centers along the route in Missouri.
+
+5. Evaluate the impact on special use areas (such as walnut tree groves in the Seward
+Nebraska area and a nursery in Sargeant County, North Dakota).
+
+6. Evaluate the impact of soil compaction 0n farmland due to the use of heavy construction
+equipment.
+
+7‘~ Evaluate the impact of the proposed construeti-Qn methods and schedule on agricultural
+activities, particularly in areas where center pivet irrigatien is used? 333d the duration of
+time that it would net be possible ta conduct agricultural activities during constructien.
+
+8. Evaluate the impacts of construction on agricultural uses, including impacts on surface
+and subsurface drainage, ponds, waterlines, and drainage ditches.
+
+9. Evaluate the impact of the project cm CRP pregram lands.
+
+10. Address the potential for farmers to have difﬁcult access t0 famland during construction,
+particularly in areas with extensive amounts of wetlands surreunding the farmland.
+
+11. Evaluate whether 01‘ net wetland impacts that occur during preject construction woutd
+have an effect an farmers who are currently eligible far federal payments associated With
+pretectieh of wetlands er: famlahe {USDA Farm Service Agettey).
+
+123 Evatttete the impact 9f the pm}? est en. landmmers with CR]? tahde.
+
+33. What campehsatim weatd Keyetette pmvide fer impede te emp pmctuet‘ien ateng the
+eeeetmetiett tigheeﬁwey?
+
+34, Hew wit} eettie he pteteeteé daz’tztg eeeetmetiee?
+
+gaggegmg Reseeecee
+1. Address impacts 0:} cemeteries {Native and nGn-Native) end histeric burial grounds.
+Keystene Seepiztg Seminary Fina} Rev .1 5
+
+Rev. 1, March Si, 200’?
+
+2. Address the impact of the prej est en archaeologicai sites (énciuding ancient Indian
+campgrounés in the Cahekia Creek atea, and artifacts and possible buriaj grenade in the
+Michigan, North Dakota area).
+
+3. Address the petentie} impacts of the pteject retested to cultural sites in northeast North
+Dakota, including those relevant to the Turtle Meuntain band of Chippewa Indians.
+
+4. Address the impacts on Native American graves in Oklahoma, and in particular on a
+cemetery fer the Pence. Indians.
+
+5. Ensure that grave site locatiens are not published in the EIS because to do so will invite
+grave robbers.
+
+6. Address impacts of blasting and pipeline Vibration on historic structures, particularly
+those constructed of limestone blocks.
+
+, , ,,, """"'sociaecoumecs . .. .. . . .. .. .. .. .. .. .. ..
+
+‘1. Address the issue of perpetuai easements versus annual rental fees.
+
+2. Address the issue of the petenti-al decrease m prepeity value and impacts on planned
+develepment.
+
+3. Desefihetheieﬂeen-eei'--ef the;pmjeet:*'ee*the*Ui'S-’;' traéef'véeﬁeft'.
+
+4. Evaiuete the ecenomic impact on special use areas (such as walnut tree groves in the
+Seward, Nebraska area, and a nursery in Sergeant County, North Dakota).
+
+5. 'Indieate What the project~related tax revenues would be to the municipalities and eeunties
+along the pipeline route associated with construction and during operation for the life of
+the proj ect.
+
+6. Indicate Whether or not the proj ect~relatedtax revenues would offset casts t0 the
+principalities and counties aiong the route (such as the cost of read repairs due to damage
+caused by construction traffic).
+
+7. Will electricity costs rise due to the need for additional power at the pump stations?
+
+8. Discuss potential ﬁnancial losses associated With destruction efgrasslends.
+
+Transportation and T rafﬂe
+
+1. Address the impacts associated With use of county and private readways during
+construetien, including how Keystone weuid restore 0r previde cempensatien for, or
+repair of the roadways.
+
+2. Describe the methods that would be used te cross readway 5, including the extent and
+duration 0f road closures associated with coestmetien across roadway s, and the impacts
+associated With each censtructien methed.
+
+3. Describe haw accese te ROW will happen.
+
+Air Q&alim Neige ettd Vtﬁretieez
+
+E. Address eeteetteé tmeeet‘s et‘ eeése teem eeme stetiees te beth helmet; teeeptets and
+eettie,
+
+2:5 Aéérees air eeiéetiee eeetemeet fez" game etetieee.
+
+3. Aédress petehtéai fer Git mevieg threegh the péeeiiee te cause vietetiee that weeté then;
+impact heath}; homes.
+
+4. Address impacts 0f reek blasting and dynamiting during construction in rocky areas.
+
+Keystone Seepittg Summaty Fina} Reel 5
+
+,. Rev, 1, March 9, 2007
+Reliabilig) aiui Safety
+1. Describe what precederes would be put in place to protect the pipeline frem terrorist
+activities 0:“ vandalism. Delineate the parties tespeesibie fer pipeline safety
+2. Address the issue 0f unautherized access to or use of the pipeline right~of~wayt
+3. Address the potentiai safety issues asseeiated With crossing under or over ether pipelines.
+4. Describe hew spilts that reach rtvers will be eentained er eieaned up (each as the Red,
+Grand Perks, and Fargo Rivers), and indicate the anticipated likely extent of
+contaminatien (in, terms ef miles demstream 0f the Spill site).
+5. Provide information en cleanup methods that weuld be used in sub~zero temperatures.
+6. Indicate what entity would be responsible for cleanup after a spill.
+7. Describe how a release from the pipelihe would be detected when there is snew cover
+throughout the area of the release.
+8. Address the potential fer deep frost to aﬁect pipeline integrity.
+9. Indicate whether or not Keystone would provide landomers with a mitten commitment
+,,,,, ,, ,, ,,,, ,,, ,,,, ,,,, ,, ,, , , wcompensatethem'fo'r“re'1'eas“esthatwould"affect'the value'cftheland.‘ ... .. ... ......... . . .. .. ... . .. . . ...
+10. Provide information on. the anticipated number 0f leaks per year.
+11‘ Describe alt pipehne safety requirements that Keystene would be required to comply with
+and any additional safety features that would be included in the project.
+12. Provide inﬂammation on environmental problems that have been documented for other
+pipelines in the area.
+13. tTreneQeea’eeefetyfré
+Alternatives " ' '
+1. Describe how the alternatives were determined and screened.
+2. Censider crossing property along routes such as quarterlines that would avoid cutting the
+land up so much that it would be difﬁcult to work on.
+3. In the Clark, Seuth Dakota area, address the possibility of usirzg the abandoned railway
+line as an alternative route.
+4. Describe why an earlier route in Marshall County (N orth Dakota) was revised to move
+the pipeline closer to at ever the West Oaks aquifer.
+5. Describe Why an earlier version 0f the pipeline route was moved in response to concerns
+raised by the US. F ish and Wildlife Service (in North or South Dakota).
+6. Evaluate route alternatives 0r variations that would avoid crossing bicycle trails,
+particularly in Madison County (Seuth Dakota).
+7. Evaluate mute alternatives 0? variatéens that weuld minimize the less of trees and
+woodland areas.
+8. Evaluate route alternatives that woald avoid crossing over the Oglala aquifer (near
+Seward County, Nebraska).
+9. Evaluate route alternatives that weuld amid the ﬂeed plain west of Seward, Nebraska.
+10» Ir}
+eeretzehtemetwee t. _. ,_
+t t. Eeefexeenémgregegegmﬁthet
+”i 2. Eeeteete the eee»e£§eeewebi Sees te- meet: hemeﬁiet éemmethettheerergy
+(teeteii’t’fem the Keystetteetej-e-et:weetetmeet ”MW
+13. Evaluate the altemetéve 0f aveédthg construetien thmngh agricultural areas it: the spring
+and summer.
+Keystone Seepiﬁg Sammary Finai Rev} 7
+
+Rev. 3, March §, 2097
+
+i4. Censider aitemative mates that are adj acent t0 er withir: existieg interstate highway
+rights ef way.
+
+15. Consider alternative routes er route variations that would avoid sensitive areas such as
+cemeteries (f0? exampte, the Sehiekie Cemetery in the vicinity of Lisbon in North
+Dakota).
+
+16. Consider alternative reutes that would amid petentiai impacts to the Sand Lake aquifer in
+Dickie Ceuaty, North Dakota.
+
+17'. Discuss the feasibility of using existing rights-of—way, especially for the Cashing
+Extensien.
+
+Cumulative Im pacts
+
+1. Address impacts when combined with the Rockies Express pipeline.
+
+2. Address past and present effects ef the Flatt Pipeline in eenjunc-tion with the proposed
+Keystoneandotherpipelines __ __ __ __________ .. . .. . .. .
+
+' " ' ' " ' ' ' ' ' ” ' ' ' ' ' ' ' ' ' 3'; " congiderthe cumulative effects 'Of the Stillwater pipeline in Oklahoma (domestic water)
+in conjunction with the proposed prej ect.
+
+4. Consicier impacts in conjunction with other linear projects such as railroads and interstate
+highways. .
+
+5. Discuss the potential for developing another pipeline within the rightmﬁway for
+Keystone.
+
+3.2 Comment Letters Received by DOS
+
+DOS received additienal written scoping comments from several agencies, individuals and
+organizations and are summarized below.
+
+3.2.1 Agency Comment Letters
+
+The DOS has received the following letters from state and/or federal agencies:
+
+1- State Histerieal S-eeiety 9f Nerth Dakete, August 23, 2006 -- “. .. we cement with the level
+and scape of identification efforts proposed for cultural resources in the TransCanada
+Keystone proj ect area.”
+
+0 United Keeteowah Band of Chemkee Indians in Oklahoma, August 21, 2006 -- “We
+accept your invitation to become a consulting party in the matter with a g0vernment«to—
+government rel‘atienship.”
+
+0 See and F OX Nation of Misseuri in Kansas arid Nebraska, September 28, 2006 w “No
+objections». However, if human skeletal remains and/or any Objects falling under
+NAGPRA are uhcevered during. eenstmetieﬁ, piease step immediately and netify the
+NAGPRA represeetetéve. . . ..""
+
+e ﬁdeieety Ceeeeii ee Héeteyie ?regewatieh {ACEP‘L get. 55 2966 « . . the ACE? me
+eater eeeeehetéee at this» time te emigre that the perpeses ef Seetéee E86 are met.”
+
+6 Department ef the Asmya Cerps ef Engieeem Gmahe Bistriet, Qeteher 26, 2006 -~
+F 100d pissing - echstmetien sheuid net be iocated in the IOG~yr ﬁoed. plain. If this is net
+practicabie, eenstmetien must be ﬂeod pmofed. AI} construction should be designed to
+
+Keystone Seeping Semmry Final Rev} 8
+
