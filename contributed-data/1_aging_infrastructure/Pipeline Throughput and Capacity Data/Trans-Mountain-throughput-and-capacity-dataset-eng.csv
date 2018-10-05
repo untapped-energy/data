@@ -1,0 +1,1051 @@
+Month,Year,Corporate Entity,Pipeline Name,Key Point,Latitude,Longitude,Direction of Flow,Trade Type,Product,Throughput 1000 m3/d,Capacity (1000 m3/d),Reason for variance from nameplate capacity
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,15,not available,not available
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,13,not available,not available
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,12,not available,not available
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,14,not available,not available
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,13,not available,not available
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,13,not available,not available
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,15,not available,not available
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,1,not available,not available
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,14,not available,not available
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,0,not available,not available
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,14,not available,not available
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,14,not available,not available
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,11,not available,not available
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,3,not available,not available
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,10,not available,not available
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,5,not available,not available
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,14,not available,not available
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,5,not available,not available
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,12,not available,not available
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,12,not available,not available
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,12,not available,not available
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,13,not available,not available
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,4,not available,not available
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,5,not available,not available
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,14,not available,not available
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,0,not available,not available
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,9,not available,not available
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,4,not available,not available
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,15,not available,not available
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,12,not available,not available
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,12,not available,not available
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,15,not available,not available
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,15,not available,not available
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,4,not available,not available
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,5,not available,not available
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,12,not available,not available
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,5,not available,not available
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,14,not available,not available
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,5,not available,not available
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,11,not available,not available
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,14,not available,not available
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,11,not available,not available
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,7,not available,not available
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,11,not available,not available
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,6,not available,not available
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,13,not available,not available
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,5,not available,not available
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,0,not available,not available
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,12,not available,not available
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,8,not available,not available
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,13,not available,not available
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,5,not available,not available
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,12,not available,not available
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,4,not available,not available
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,15,not available,not available
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,17,not available,not available
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,3,not available,not available
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,5,not available,not available
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,4,not available,not available
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,3,not available,not available
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,4,not available,not available
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,9,not available,not available
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,15,not available,not available
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,12,not available,not available
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,9,not available,not available
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,12,not available,not available
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,14,not available,not available
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,17,not available,not available
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,13,not available,not available
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,9,not available,not available
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,15,not available,not available
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,18,not available,not available
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,11,not available,not available
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,19,not available,not available
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,12,not available,not available
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,11,not available,not available
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,18,not available,not available
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,11,not available,not available
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,12,not available,not available
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,14,not available,not available
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,4,not available,not available
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,4,not available,not available
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,19,not available,not available
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,3,not available,not available
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,18,not available,not available
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,18,not available,not available
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,3,not available,not available
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,18,not available,not available
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,16,not available,not available
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,14,not available,not available
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,18,not available,not available
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,11,not available,not available
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,27,not available,not available
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,4,not available,not available
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,3,not available,not available
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,13,not available,not available
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,25,not available,not available
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,25,not available,not available
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,28,not available,not available
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,4,not available,not available
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,19,not available,not available
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,5,not available,not available
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,11,not available,not available
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,19,not available,not available
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,19,not available,not available
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,12,not available,not available
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,11,not available,not available
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,19,not available,not available
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,11,not available,not available
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,20,not available,not available
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,5,not available,not available
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,11,not available,not available
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,3,not available,not available
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,12,not available,not available
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,25,not available,not available
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,5,not available,not available
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,26,not available,not available
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,18,not available,not available
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,18,not available,not available
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,18,not available,not available
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,17,not available,not available
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,5,not available,not available
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,18,not available,not available
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,19,not available,not available
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,17,not available,not available
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,11,not available,not available
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,3,not available,not available
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,26,not available,not available
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,19,not available,not available
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,4,not available,not available
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,22,not available,not available
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,5,not available,not available
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,4,not available,not available
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,5,not available,not available
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,26,not available,not available
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,1,not available,not available
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,12,not available,not available
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,3,not available,not available
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,27,not available,not available
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,28,not available,not available
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,13,not available,not available
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,29,not available,not available
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,33,not available,not available
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,1,not available,not available
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,30,not available,not available
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,4,not available,not available
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,31,not available,not available
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,29,not available,not available
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,25,not available,not available
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,5,not available,not available
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,31,not available,not available
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,11,not available,not available
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,1,not available,not available
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,29,not available,not available
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,31,not available,not available
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,34,not available,not available
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,5,not available,not available
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,35,not available,not available
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,6,not available,not available
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,3,not available,not available
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,33,not available,not available
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,32,not available,not available
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,10,not available,not available
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,31,not available,not available
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,9,not available,not available
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,1,not available,not available
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,23,not available,not available
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,28,not available,not available
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,6,not available,not available
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,13,not available,not available
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,8,not available,not available
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,26,not available,not available
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,11,not available,not available
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,9,not available,not available
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,12,not available,not available
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,26,not available,not available
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,10,not available,not available
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,29,not available,not available
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,11,not available,not available
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,5,not available,not available
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,26,not available,not available
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,11,not available,not available
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,25,not available,not available
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,1,not available,not available
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,12,not available,not available
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,30,not available,not available
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,12,not available,not available
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,27,not available,not available
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,11,not available,not available
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,2,not available,not available
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,3,not available,not available
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,28,not available,not available
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,11,not available,not available
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,1,not available,not available
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,1,not available,not available
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,27,not available,not available
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,11,not available,not available
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,4,not available,not available
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,9,not available,not available
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,8,not available,not available
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,21,not available,not available
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,3,not available,not available
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,10,not available,not available
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,7,not available,not available
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,7,not available,not available
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,2,not available,not available
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,1,not available,not available
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,12,not available,not available
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,29,not available,not available
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,2,not available,not available
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,6,not available,not available
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,10,not available,not available
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,24,not available,not available
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,7,not available,not available
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,2,not available,not available
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,14,not available,not available
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,25,not available,not available
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,8,not available,not available
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,1,not available,not available
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,0,not available,not available
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,12,not available,not available
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic light,28,not available,not available
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain,Sumas,49.0766,-122.2027,South,export,domestic heavy,0,not available,not available
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic light,11,not available,not available
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,domestic heavy,0,not available,not available
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain,Burnaby,49.2685,-122.9313,West,intracanada,refined petroleum products,1,not available,not available
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic light,4,not available,not available
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain,Westridge,49.2908,-122.9503,West,export,domestic heavy,2,not available,not available

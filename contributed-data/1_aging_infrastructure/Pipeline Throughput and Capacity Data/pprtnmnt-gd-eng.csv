@@ -1,0 +1,19 @@
+Column,Data Value or Column Name Indication,Description of Data Value or Column Name
+Month,1,Month of January
+Month,2,Month of February
+Month,3,Month of March
+Month,4,Month of April
+Month,5,Month of May
+Month,6,Month of June
+Month,7, Month of July
+Month,8,Month of August
+Month,9,Month of September
+Month,10,Month of October
+Month,11,Month of November
+Month,12,Month of December
+Year,,Year data refers to
+Corporate Entity,,Legal entity that owns and operates pipeline
+Pipeline Name,,Name of pipeline system determined by corporate entity
+Key Point,,"Location along pipeline where throughputs are measured and reported, determined by corporate entity"
+Total Nominations (1000 m3/d),,The amount of oil that shippers nominate (request) to ship on the pipeline
+Apportionment percent,,Percent by which each shipper's nominated volume is reduced if total nominations by all shippers if greater than the volume the pipeline can transport

@@ -1,0 +1,27 @@
+Column,Data Value or Column Name Indication,Description of Data Value or Column Name
+Month,1,Month of January
+Month,2,Month of February
+Month,3,Month of March
+Month,4,Month of April
+Month,5,Month of May
+Month,6,Month of June
+Month,7, Month of July
+Month,8,Month of August
+Month,9,Month of September
+Month,10,Month of October
+Month,11,Month of November
+Month,12,Month of December
+Year,,Year data refers to
+Corporate Entity,,Legal entity that owns and operates pipeline
+Pipeline Name,,Name of pipeline system determined by corporate entity
+Key Point,,"Location along pipeline where throughputs are measured and reported, determined by corporate entity"
+Latitude,,The latitude coordinate at the key point where throughputs are reported
+Longitude,,The longitude coordinate at the key point where throughputs are reported
+Direction of Flow,,The direction that the product flows through pipeline at the key point
+Trade Type,Import,"Whether volume of oil is being imported, exported, or shipping intra-provincially."
+,Export,"Whether volume of oil is being imported, exported, or shipping intra-provincially."
+,IntraCanada,"Whether volume of oil is being imported, exported, or shipping intra-provincially."
+Product,,Type of oil product being transported
+Throughput (1000 m3/d),,"The volume of product flowing through the pipeline at the Key Point indicated, in thousand cubic meters per day"
+Capacity (1000 m3/d),,The capacity of the pipeline in thousand cubic meters per day.
+Reason for variance from nameplate capacity,,The reason that capacity provided does not match nameplate capacity

@@ -1,0 +1,27 @@
+Column,Data Value or Column Name Indication,Description of Data Value or Column Name
+Date,,Day for which throughputs are reported
+Month,1,Month of January
+Month,2,Month of February
+Month,3,Month of March
+Month,4,Month of April
+Month,5,Month of May
+Month,6,Month of June
+Month,7, Month of July
+Month,8,Month of August
+Month,9,Month of September
+Month,10,Month of October
+Month,11,Month of November
+Month,12,Month of December
+Year,,Year that data refers to
+Corporate Entity,,Legal entity that owns and operates pipeline
+Pipeline Name,,Name of pipeline system determined by corporate entity
+Key Point,,"Location along pipeline where throughputs are measured and reported, determined by corporate entity"
+Latitude,,The latitude coordinate at the key point where throughputs are reported
+Longitude,,The longitude coordinate at the key point where throughputs are reported
+Direction of Flow,,The direction that natural gas flows through the pipeline at key point
+Trade Type,Import,"Whether volume of natural gas is being imported, exported, or shipping intra-provincially."
+Trade Type,Export,"Whether volume of natural gas is being imported, exported, or shipping intra-provincially."
+Trade Type,IntraCanada,"Whether volume of natural gas is being imported, exported, or shipping intra-provincially."
+Capacity(GJ/d),,"The maximum amount of natural gas that the pipeline can theoretically move at a given time, measured in GigaJoules per day"
+ Throughput (1000 m3/d),,"The volume of natural gas flowing though the pipeline at the Key Point indicated, in thousand cubic meters per day"
+Throughput (GJ/d),,"The energy content of the natural gas flowing though the pipeline at the Key Point indicated, in GigaJoules per day"

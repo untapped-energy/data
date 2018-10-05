@@ -1,0 +1,711 @@
+Month,Year,Corporate Entity,Pipeline Name,Key Point, Total Nominations (1000 m3/d) ,Apportionment percent
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,43,19%
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,74,52%
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,106,65%
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,39,10%
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,29,0%
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,37,2%
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,37,0%
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,37,0%
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,49,20%
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,36,2%
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,43,14%
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,46,34%
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,42,13%
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,37,5%
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,35,0%
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,46,13%
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,49,16%
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,67,37%
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,61,31%
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,50,15%
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,60,30%
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,67,42%
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,61,29%
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,76,47%
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,47,15%
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,42,0%
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,33,0%
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,42,5%
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,42,0%
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,41,0%
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,38,0%
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,36,0%
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,58,28%
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,58,31%
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,55,10%
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,40,0%
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,28,0%
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,40,5%
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,52,8%
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,38,5%
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,32,0%
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,50,8%
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,55,9%
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,64,17%
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,58,15%
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,68,30%
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,63,21%
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,48,0%
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,50,7%
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,47,0%
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,50,9%
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,44,0%
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,73,38%
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,68,26%
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,80,37%
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,78,33%
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,92,51%
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,113,57%
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,93,46%
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,84,43%
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,116,60%
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,125,65%
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,126,62%
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,116,58%
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,105,58%
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,124,69%
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,144,72%
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,157,73%
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,163,74%
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,134,67%
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,142,68%
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,145,75%
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,146,72%
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,164,73%
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,140,69%
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,120,61%
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,136,66%
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,141,68%
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,166,73%
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,157,69%
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,138,67%
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,144,71%
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,161,73%
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,147,70%
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,161,72%
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,156,71%
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,139,66%
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,140,67%
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,125,62%
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,131,63%
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,128,74%
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,138,69%
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,143,74%
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,145,74%
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,141,67%
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,138,72%
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,126,68%
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,142,70%
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,142,69%
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,126,64%
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,140,68%
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,145,69%
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,153,71%
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,157,71%
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,138,68%
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,149,69%
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,143,68%
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,150,67%
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,150,72%
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,145,66%
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,124,62%
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,124,59%
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,118,54%
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,64,22%
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,65,24%
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,74,31%
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,72,36%
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,74,30%
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,63,19%
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,54,18%
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,63,23%
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,56,11%
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,54,9%
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,60,15%
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,59,13%
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,62,18%
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,53,1%
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,57,12%
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,66,19%
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,59,24%
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,59,18%
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,58,21%
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,61,22%
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,71,27%
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,63,25%
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,75,37%
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,58,13%
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,57,17%
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,66,22%
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,56,15%
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,66,16%
+7,2014,Kinder Morgan,Cochin,Ft. Saskatchewan,10.6,0%
+8,2014,Kinder Morgan,Cochin,Ft. Saskatchewan,10.2,0%
+9,2014,Kinder Morgan,Cochin,Ft. Saskatchewan,12.7,0%
+10,2014,Kinder Morgan,Cochin,Ft. Saskatchewan,9,0%
+11,2014,Kinder Morgan,Cochin,Ft. Saskatchewan,9.5,0%
+12,2014,Kinder Morgan,Cochin,Ft. Saskatchewan,15,0%
+1,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,12.2,0%
+2,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,14.6,0%
+3,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,15,0%
+4,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,13.2,0%
+5,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,13.2,0%
+6,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,10.2,0%
+7,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,14,0%
+8,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,14.2,0%
+9,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,13.2,3%
+10,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,12.6,0%
+11,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,11.1,0%
+12,2015,Kinder Morgan,Cochin,Ft. Saskatchewan,13.7,0%
+1,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,13.7,0%
+2,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,12,0%
+3,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,13,0%
+4,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,12.7,0%
+5,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,12.8,0%
+6,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,14.9,0%
+7,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,15.1,6%
+8,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,14.5,0%
+9,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,14.3,5%
+10,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,14.5,10%
+11,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,15.1,5%
+12,2016,Kinder Morgan,Cochin,Ft. Saskatchewan,13.9,0%
+7,2010,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",16.3,0%
+8,2010,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",16.9,10%
+9,2010,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",19,0%
+10,2010,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",28.8,0%
+11,2010,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",18.1,0%
+12,2010,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",35.2,0%
+1,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",44.6,0%
+2,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",69.4,2%
+3,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",68.8,0%
+4,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",66.6,0%
+5,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",65.2,0%
+6,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",63,0%
+7,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",66.2,0%
+8,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",62.9,0%
+9,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",82.5,6%
+10,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",82.8,3%
+11,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",84.5,3%
+12,2011,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",85.5,6%
+1,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",98.5,14%
+2,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",99.4,13%
+3,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",370.1,77%
+4,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",846,91%
+5,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",728.3,88%
+6,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",638.2,87%
+7,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",728.8,88%
+8,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",729.7,88%
+9,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",641.3,87%
+10,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",530.5,84%
+11,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",739.3,89%
+12,2012,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",799.8,90%
+1,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba","1,271.50",93%
+2,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba","1,323.30",93%
+3,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba","1,204.00",93%
+4,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba","1,316.50",94%
+5,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",388,78%
+6,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",222.6,62%
+7,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",186.7,56%
+8,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",203.4,59%
+9,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",301.3,72%
+10,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",297.2,72%
+11,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",279.8,72%
+12,2013,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",284.1,71%
+1,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",204.2,59%
+2,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",103.5,17%
+3,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",196.6,57%
+4,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba","1,050.60",92%
+5,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",198.4,57%
+6,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",205.2,59%
+7,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",101.6,17%
+8,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",197.4,57%
+9,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",199.6,60%
+10,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",100.2,12%
+11,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",90.5,3%
+12,2014,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",89.1,2%
+1,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",97.2,9%
+2,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",89.7,2%
+3,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",85.2,0%
+4,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",87.8,0%
+5,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",84.3,0%
+6,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",84.3,0%
+7,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",86.5,0%
+8,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",89.8,0%
+9,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",95,3%
+10,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",84.3,0%
+11,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",86,0%
+12,2015,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",103.5,10%
+1,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",103.5,9%
+2,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",106.3,12%
+3,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",104.8,12%
+4,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",102.7,9%
+5,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",94.9,9%
+6,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",84.8,0%
+7,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",84.3,0%
+8,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",91.6,4%
+9,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",101.8,12%
+10,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",106.8,18%
+11,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",116,19%
+12,2016,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",115.3,17%
+1,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",117,18%
+2,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",113,18%
+3,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",123,22%
+4,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",127.5,26%
+5,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",96.6,1%
+6,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",98.8,4%
+7,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",108.21,13%
+8,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",101.72,8%
+9,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",116.48,19%
+1,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,13.5,0%
+2,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,15.4,3%
+3,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,14.2,0%
+4,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,14.8,0%
+5,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,15.5,0%
+6,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,13.6,0%
+7,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,14.29,0%
+8,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,15.51,0%
+9,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,13.59,0%
+1,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.7,0%
+2,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.5,0%
+3,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.7,0%
+4,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.5,0%
+5,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.4,0%
+6,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.3,0%
+7,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.5,0%
+8,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+9,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+10,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.3,0%
+11,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.4,0%
+12,2007,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.5,0%
+1,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.3,0%
+2,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+3,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3,0%
+4,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+5,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+6,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3,0%
+7,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+8,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.3,0%
+9,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+10,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+11,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+12,2008,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+1,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+2,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+3,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+4,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+5,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+6,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+7,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3,0%
+8,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+9,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+10,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.8,0%
+11,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3,0%
+12,2009,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.3,0%
+1,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+2,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+3,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.3,0%
+4,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+5,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.5,0%
+6,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+7,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.3,0%
+8,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+9,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3,0%
+10,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.5,0%
+11,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+12,2010,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+1,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+2,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.7,0%
+3,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+4,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.9,0%
+5,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.2,0%
+6,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.6,0%
+7,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.8,0%
+8,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.8,0%
+9,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+10,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.2,0%
+11,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.6,0%
+12,2011,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.6,0%
+1,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.5,0%
+2,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.7,0%
+3,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.5,0%
+4,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,3.1,0%
+5,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.6,0%
+6,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.6,0%
+7,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.3,0%
+8,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+9,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.7,0%
+10,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.5,0%
+11,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.7,0%
+12,2012,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+1,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.6,0%
+2,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.3,0%
+3,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.1,0%
+4,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.6,0%
+5,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.5,0%
+6,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+7,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+8,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.5,0%
+9,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.9,0%
+10,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.1,0%
+11,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.3,0%
+12,2013,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.3,0%
+1,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+2,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.3,0%
+3,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.6,0%
+4,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.5,0%
+5,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+6,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.5,0%
+7,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.3,0%
+8,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.3,0%
+9,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+10,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.7,0%
+11,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.2,0%
+12,2014,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.4,0%
+1,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.1,0%
+2,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.9,0%
+3,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.2,0%
+4,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2,0%
+5,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.1,0%
+6,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.1,0%
+7,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.1,0%
+8,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2,0%
+9,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2,0%
+10,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.2,0%
+11,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2,0%
+12,2015,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2.1,0%
+1,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.8,0%
+2,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2,0%
+3,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2,0%
+4,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.9,0%
+5,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,2,0%
+6,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.9,0%
+7,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.9,0%
+8,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.7,0%
+9,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.6,0%
+10,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.9,0%
+11,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,1.4,0%
+12,2016,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.5,0%
+1,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.2,0%
+2,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.2,0%
+3,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.3,0%
+4,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.3,0%
+5,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.3,0%
+6,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.3,0%
+1,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,710,33%
+2,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,742.5,41%
+3,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,720.7,38%
+4,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,737.4,38%
+4,2017,Enbridge Pipelines Inc.,Canadian Mainline,Regina,737.4,29%
+5,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,642.7,27%
+6,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,634.6,19%
+1,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,642,16%
+1,2016,Enbridge Pipelines Inc.,Canadian Mainline,Clearbrook,642,3%
+2,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,615.9,14%
+2,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,615.9,10%
+3,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,558,2%
+3,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,558,11%
+4,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,508.9,6%
+5,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,565.9,6%
+5,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,565.9,11%
+6,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,573.8,7%
+6,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,573.8,7%
+7,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,539.7,4%
+7,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,539.7,17%
+8,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,578.7,15%
+8,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,578.7,14%
+9,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,609.4,22%
+9,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,609.4,10%
+10,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,593.9,14%
+10,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,593.9,14%
+11,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,610.1,17%
+11,2016,Enbridge Pipelines Inc.,Canadian Mainline,Westover,610.1,10%
+12,2016,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,647.2,23%
+1,2015,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,666.1,41%
+1,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,666.1,30%
+1,2015,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,666.1,5%
+1,2015,Enbridge Pipelines Inc.,Canadian Mainline,Superior,666.1,36%
+2,2015,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,693.7,46%
+2,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,693.7,36%
+2,2015,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,693.7,6%
+2,2015,Enbridge Pipelines Inc.,Canadian Mainline,Cromer,693.7,6%
+2,2015,Enbridge Pipelines Inc.,Canadian Mainline,Superior,693.7,40%
+3,2015,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,696,46%
+3,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,696,33%
+3,2015,Enbridge Pipelines Inc.,Canadian Mainline,Superior,696,41%
+3,2015,Enbridge Pipelines Inc.,Canadian Mainline,Superior,696,12%
+4,2015,Enbridge Pipelines Inc.,Canadian Mainline,Regina,679.5,42%
+4,2015,Enbridge Pipelines Inc.,Canadian Mainline,Superior,679.5,45%
+5,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,636.8,42%
+5,2015,Enbridge Pipelines Inc.,Canadian Mainline,Superior,636.8,7%
+6,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,610.9,42%
+7,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,612.4,31%
+8,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,622.2,29%
+9,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,569.2,16%
+10,2015,Enbridge Pipelines Inc.,Canadian Mainline,Cromer,557.2,3%
+10,2015,Enbridge Pipelines Inc.,Canadian Mainline,Superior,557.2,19%
+10,2015,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,557.2,19%
+10,2015,Enbridge Pipelines Inc.,Canadian Mainline,Westover,557.2,18%
+11,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,609.6,16%
+11,2015,Enbridge Pipelines Inc.,Canadian Mainline,Cromer,609.6,24%
+11,2015,Enbridge Pipelines Inc.,Canadian Mainline,Westover,609.6,17%
+12,2015,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,619.7,19%
+12,2015,Enbridge Pipelines Inc.,Canadian Mainline,Cromer,619.7,9%
+1,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,489.3,17%
+1,2014,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,489.3,3%
+1,2014,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,489.3,53%
+2,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,486.4,13%
+2,2014,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,486.4,54%
+2,2014,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,486.4,6%
+3,2014,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,478.8,10%
+3,2014,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,478.8,5%
+4,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,472,3%
+4,2014,Enbridge Pipelines Inc.,Canadian Mainline,Superior,472,9%
+4,2014,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,472,36%
+5,2014,Enbridge Pipelines Inc.,Canadian Mainline,Superior,479.7,11%
+5,2014,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,479.7,32%
+5,2014,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,479.7,17%
+6,2014,Enbridge Pipelines Inc.,Canadian Mainline,Hardisty,522,16%
+6,2014,Enbridge Pipelines Inc.,Canadian Mainline,Superior,522,23%
+6,2014,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,522,5%
+7,2014,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,541.7,34%
+7,2014,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,541.7,12%
+8,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,539.9,17%
+8,2014,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,539.9,30%
+9,2014,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,526.1,25%
+10,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,569.4,33%
+10,2014,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,569.4,25%
+10,2014,Enbridge Pipelines Inc.,Canadian Mainline,Superior,569.4,30%
+10,2014,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,569.4,30%
+10,2014,Enbridge Pipelines Inc.,Canadian Mainline,Sarnia,569.4,21%
+11,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,656.2,43%
+11,2014,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,656.2,13%
+11,2014,Enbridge Pipelines Inc.,Canadian Mainline,Superior,656.2,33%
+11,2014,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,656.2,27%
+12,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,671.6,41%
+12,2014,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,671.6,22%
+12,2014,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,671.6,12%
+12,2014,Enbridge Pipelines Inc.,Canadian Mainline,Superior,671.6,42%
+12,2014,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,671.6,32%
+1,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,455.4,10%
+1,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,455.4,20%
+1,2013,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,455.4,10%
+1,2013,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,455.4,12%
+1,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,455.4,5%
+1,2013,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,455.4,4%
+2,2013,Enbridge Pipelines Inc.,Canadian Mainline,Hardisty,452.6,7%
+2,2013,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,452.6,7%
+2,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,452.6,21%
+2,2013,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,452.6,12%
+2,2013,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,452.6,8%
+3,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,412.6,37%
+3,2013,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,412.6,10%
+3,2013,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,412.6,11%
+4,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,392.3,11%
+4,2013,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,392.3,14%
+5,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,413.1,17%
+6,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,436.1,32%
+7,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,433.5,27%
+7,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,433.5,7%
+8,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,454.7,25%
+8,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,454.7,32%
+9,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,458.5,28%
+9,2013,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,458.5,7%
+9,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,458.5,6%
+10,2013,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,470.5,12%
+10,2013,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,470.5,7%
+10,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,470.5,32%
+10,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,470.5,12%
+11,2013,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,510.8,15%
+11,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,510.8,36%
+11,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,510.8,17%
+12,2013,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,490.6,10%
+12,2013,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,490.6,6%
+12,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,490.6,30%
+12,2013,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,490.6,45%
+12,2013,Enbridge Pipelines Inc.,Canadian Mainline,Superior,490.6,11%
+1,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,443.4,22%
+2,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,456.3,18%
+3,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,453.7,27%
+4,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,457.8,19%
+5,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,409.8,16%
+6,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,434.2,17%
+7,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,446.2,26%
+8,2012,Enbridge Pipelines Inc.,Canadian Mainline,N/A,415.6,0%
+9,2012,Enbridge Pipelines Inc.,Canadian Mainline,Superior,408.3,20%
+9,2012,Enbridge Pipelines Inc.,Canadian Mainline,Superior,408.3,13%
+9,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,408.3,8%
+10,2012,Enbridge Pipelines Inc.,Canadian Mainline,Hardisty,414.8,8%
+10,2012,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,414.8,8%
+10,2012,Enbridge Pipelines Inc.,Canadian Mainline,Superior,414.8,15%
+10,2012,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,414.8,13%
+10,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,414.8,10%
+11,2012,Enbridge Pipelines Inc.,Canadian Mainline,Superior,428.9,15%
+11,2012,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,428.9,8%
+11,2012,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,428.9,15%
+11,2012,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,428.9,20%
+11,2012,Enbridge Pipelines Inc.,Canadian Mainline,Superior,428.9,15%
+11,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,428.9,17%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Hardisty,470.6,13%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,470.6,13%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Superior,470.6,10%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,470.6,14%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,470.6,10%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,470.6,21%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Superior,470.6,4%
+12,2012,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,470.6,12%
+1,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,445.8,43%
+1,2011,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,445.8,26%
+1,2011,Enbridge Pipelines Inc.,Canadian Mainline,Superior,445.8,26%
+1,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,445.8,33%
+2,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,414.8,16%
+2,2011,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,414.8,7%
+2,2011,Enbridge Pipelines Inc.,Canadian Mainline,Superior,414.8,7%
+2,2011,Enbridge Pipelines Inc.,Canadian Mainline,Superior,414.8,7%
+2,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,414.8,23%
+3,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,376.9,14%
+3,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,376.9,19%
+4,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,359.6,17%
+4,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,359.6,8%
+5,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,364,10%
+5,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,364,7%
+6,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,378.3,23%
+6,2011,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,378.3,11%
+6,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,378.3,6%
+7,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith, N/A ,25%
+7,2011,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge, N/A ,5%
+7,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston, N/A ,4%
+8,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,387.7,21%
+8,2011,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,387.7,13%
+9,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,398.2,21%
+9,2011,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,398.2,2%
+9,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,398.2,4%
+10,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,405,4%
+10,2011,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,405,8%
+10,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,405,7%
+11,2011,Enbridge Pipelines Inc.,Canadian Mainline,Griffith,417,8%
+11,2011,Enbridge Pipelines Inc.,Canadian Mainline,Stockbridge,417,5%
+11,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,417,18%
+12,2011,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,427.1,23%
+1,2010,Enbridge Pipelines Inc.,Canadian Mainline,N/A,373.9,0%
+2,2010,Enbridge Pipelines Inc.,Canadian Mainline,N/A,357,0%
+3,2010,Enbridge Pipelines Inc.,Canadian Mainline,N/A,365.1,0%
+4,2010,Enbridge Pipelines Inc.,Canadian Mainline,N/A,373.8,0%
+5,2010,Enbridge Pipelines Inc.,Canadian Mainline,N/A,386.3,0%
+6,2010,Enbridge Pipelines Inc.,Canadian Mainline,N/A,393.5,0%
+7,2010,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,392.9,4%
+7,2010,Enbridge Pipelines Inc.,Canadian Mainline,Hardisty,392.9,4%
+7,2010,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,392.9,4%
+7,2010,Enbridge Pipelines Inc.,Canadian Mainline,Cromer,392.9,4%
+8,2010,Enbridge Pipelines Inc.,Canadian Mainline,N/A,365.9,0%
+9,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,364,23%
+9,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,364,26%
+10,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,371.3,31%
+10,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,371.3,25%
+11,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,406.6,9%
+11,2010,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,406.6,9%
+11,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,406.6,9%
+11,2010,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,406.6,9%
+12,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,444.8,27%
+12,2010,Enbridge Pipelines Inc.,Canadian Mainline,Flanagan,444.8,27%
+12,2010,Enbridge Pipelines Inc.,Canadian Mainline,Superior,444.8,27%
+12,2010,Enbridge Pipelines Inc.,Canadian Mainline,Lewiston,444.8,27%
+1,2009,Enbridge Pipelines Inc.,Canadian Mainline,Edmonton,372.6,6%
+2,2009,Enbridge Pipelines Inc.,Canadian Mainline,Cromer,343.8,6%
+3,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,340.5,0%
+4,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,337,0%
+5,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,355.6,0%
+6,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,377.1,0%
+7,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,370.4,0%
+8,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,364.4,0%
+9,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,369,0%
+10,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,360.8,0%
+11,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,378.5,0%
+12,2009,Enbridge Pipelines Inc.,Canadian Mainline,N/A,377.1,0%
+1,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,372.3,0%
+2,2008,Enbridge Pipelines Inc.,Canadian Mainline,Superior,394.7,3%
+2,2008,Enbridge Pipelines Inc.,Canadian Mainline,Superior,394.7,3%
+3,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,360.7,0%
+4,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,328.7,0%
+5,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,350.9,0%
+6,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,359.8,0%
+7,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,341.7,0%
+8,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,342.4,0%
+9,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,329.9,0%
+10,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,361.2,0%
+11,2008,Enbridge Pipelines Inc.,Canadian Mainline,N/A,367.2,0%
+12,2008,Enbridge Pipelines Inc.,Canadian Mainline,Cromer,390.8,24%
+1,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,348.9,0%
+2,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,356.2,0%
+3,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,358.9,0%
+4,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,341.3,0%
+5,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,324.5,0%
+6,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,326.4,0%
+7,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,324.3,0%
+8,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,329.5,0%
+9,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,340.1,0%
+10,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,345.5,0%
+11,2007,Enbridge Pipelines Inc.,Canadian Mainline,Superior,366.3,7%
+11,2007,Enbridge Pipelines Inc.,Canadian Mainline,Superior,366.3,7%
+12,2007,Enbridge Pipelines Inc.,Canadian Mainline,N/A,380.5,0%
+7,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,614,10%
+7,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,614,2%
+7,2017,Enbridge Pipelines Inc.,Canadian Mainline,Westover,614,23%
+8,2017,Enbridge Pipelines Inc.,Canadian Mainline,Westover,544,19%
+9,2017,Enbridge Pipelines Inc.,Canadian Mainline,Westover,538,10%
+7,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.32,0%
+8,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.36,0%
+9,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.11,0%
+10,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,14.62,0%
+11,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,13.73,0%
+12,2017,Kinder Morgan,Cochin,Ft. Saskatchewan,12.23,0%
+10,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",116.08,22%
+11,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",98.03,8%
+12,2017,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",126.63,27%
+10,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.13,0%
+11,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.08,0%
+12,2017,Enbridge Pipelines (NW) Inc. ,Norman Wells Pipeline,Zama,0.08,0%
+10,2017,Enbridge Pipelines Inc.,Canadian Mainline,Westover,557.53,18%
+11,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,612.39,5%
+11,2017,Enbridge Pipelines Inc.,Canadian Mainline,Westover,612.39,14%
+12,2017,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,667.18,21%
+12,2017,Enbridge Pipelines Inc.,Canadian Mainline,Clearbrook,667.18,5%
+12,2017,Enbridge Pipelines Inc.,Canadian Mainline,Westover,667.18,6%
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,53,17%
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,67,24%
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,64,23%
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,65,35%
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,72,32%
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,68,32%
+1,2018,Kinder Morgan,Cochin,Ft. Saskatchewan,13.04,0%
+2,2018,Kinder Morgan,Cochin,Ft. Saskatchewan,14.09,0%
+3,2018,Kinder Morgan,Cochin,Ft. Saskatchewan,15.15,0%
+1,2018,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",137.53,31%
+2,2018,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",139.34,32%
+3,2018,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",136.98,32%
+1,2018,Enbridge Pipelines (NW) Inc.,Norman Wells Pipeline,Zama,0.1,0%
+2,2018,Enbridge Pipelines (NW) Inc.,Norman Wells Pipeline,Zama,0.1,0%
+3,2018,Enbridge Pipelines (NW) Inc.,Norman Wells Pipeline,Zama,0.1,0%
+1,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,778.53,36%
+1,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,778.53,17%
+2,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,843.81,46%
+2,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,843.81,23%
+3,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,846.07,51%
+3,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,846.07,9%
+4,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,829.8328,50%
+5,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,835.0677097,43%
+5,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,835.0677097,31%
+6,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,868.5858333,45%
+6,2018,Enbridge Pipelines Inc.,Canadian Mainline,Kerrobert,868.5858333,43%
+4,2018,Enbridge Pipelines (NW) Inc.,Norman Wells Pipeline,Zama,0.05,0%
+5,2018,Enbridge Pipelines (NW) Inc.,Norman Wells Pipeline,Zama,0.06,0%
+6,2018,Enbridge Pipelines (NW) Inc.,Norman Wells Pipeline,Zama,0.05,0%
+4,2018,Kinder Morgan,Cochin,Ft. Saskatchewan,15.39663115,0%
+5,2018,Kinder Morgan,Cochin,Ft. Saskatchewan,11.94441244,0%
+6,2018,Kinder Morgan,Cochin,Ft. Saskatchewan,14.57383484,0%
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,83,44%
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,79,38%
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,All,81,43%
+4,2018,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",142.63,33%
+5,2018,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",124.81,25%
+6,2018,TransCanada Keystone Pipeline GP Ltd.,Keystone Pipeline System,"International boundary at or near Haskett, Manitoba",122.51,23%
