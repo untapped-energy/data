@@ -8,7 +8,7 @@ There are several files being uploaded for each server. wells.csv, meters.csv, p
 
 - [x] Export metadata from server_1
 - [x] Upload metadata from server_1
-- [ ] Export historic data from server_1
+- [ ] Export historic data from server_1 (about 30% done)
 - [ ] Upload historic data from server_1
 - [ ] Export metadata from server_2
 - [ ] Upload metadata from server_2
@@ -17,14 +17,15 @@ There are several files being uploaded for each server. wells.csv, meters.csv, p
 
 ## Server 1 Files
 
-This is SCADA data from a tier 2 producer with properties all over Alberta. Focusing efforts on uploading data from Central Alberta first and will expand data collection as time permits. Areas covered will be near Nordegg, Rocky Mountain House, Sundre, and Caroline. 
+This is SCADA data from a Tier 2 producer with properties all over Alberta. Focusing efforts on uploading data from Central Alberta first and will expand data collection as time permits. There are samples of data from a variety of areas.  
 
 - wells.csv - contains a list of all the wells in the system. 
 - meters.csv - contains a list of the EFM meters in the system and their configuration (includes gas composition/quality). 
-- analog_points.csv - contains a list of all the analog points in the system and their metadata.
-- digital_points.csv - contains a list of all the digital/discrete points in the system and their metadata.
-- historic_data - this folder contains the point history, one file per point. History is from Sept 2017 to Sept 2018. 
+- analog_points.csv - contains a list of all the analog points in the system and their metadata. 
+- digital_points.csv - contains a list of all the digital/discrete points in the system and their metadata. 
+- historic_data - this folder contains the point history, one file per point. History is from Sept 2017 to Sept 2018. Join with the point lists for better context. **I stopped uploading files... too many and some are too large. - Dustin**
 
+You can download a ZIP file of the server_1 files here: https://s3-us-west-2.amazonaws.com/cdn.jpisolutions/untapped_datathon/scada_data/server_1_zip.zip
 
 ## Industry Info
 
