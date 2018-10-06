@@ -1,0 +1,366 @@
+Id,RecordTime,Value,ReasonDesc,StateDesc,QualityDesc
+390441,9/1/2017 1:59:59 PM,-63.3148307800293,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/2/2017 1:59:59 PM,-63.341468811035156,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/3/2017 1:59:59 PM,-63.377326965332031,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/4/2017 1:59:59 PM,-63.312812805175781,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/5/2017 1:59:59 PM,-63.310504913330078,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/6/2017 1:59:59 PM,-63.381645202636719,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/7/2017 1:59:59 PM,-63.385913848876953,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/8/2017 1:59:59 PM,-63.388954162597656,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/9/2017 1:59:59 PM,-63.291824340820313,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/10/2017 1:59:59 PM,-63.315803527832031,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/11/2017 1:59:59 PM,-63.324375152587891,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/12/2017 1:59:59 PM,-63.353542327880859,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/13/2017 1:59:59 PM,-63.308872222900391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/14/2017 1:59:59 PM,-63.346481323242188,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/15/2017 1:59:59 PM,-63.356407165527344,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/16/2017 1:59:59 PM,-63.335929870605469,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/17/2017 1:59:59 PM,-63.350429534912109,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/18/2017 1:59:59 PM,-63.329555511474609,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/19/2017 1:59:59 PM,-63.323650360107422,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/20/2017 1:59:59 PM,-63.343357086181641,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/21/2017 1:59:59 PM,-63.335151672363281,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/22/2017 1:59:59 PM,-63.385959625244141,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/23/2017 1:59:59 PM,-63.389793395996094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/24/2017 1:59:59 PM,-63.355739593505859,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/25/2017 1:59:59 PM,-63.337303161621094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/26/2017 1:59:59 PM,-63.335189819335938,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/27/2017 1:59:59 PM,-63.318374633789063,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/28/2017 1:59:59 PM,-63.369659423828125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/29/2017 1:59:59 PM,-63.334468841552734,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,9/30/2017 1:59:59 PM,-63.334445953369141,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/1/2017 1:59:59 PM,-63.372585296630859,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/2/2017 1:59:59 PM,-63.449272155761719,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/3/2017 1:59:59 PM,-63.395530700683594,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/4/2017 1:59:59 PM,-63.31158447265625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/5/2017 1:59:59 PM,-63.294826507568359,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/6/2017 1:59:59 PM,-63.339263916015625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/7/2017 1:59:59 PM,352.46676635742188,Timed Report,High High,Good
+390441,10/8/2017 1:59:59 PM,-15.122220993041992,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/9/2017 1:59:59 PM,-63.305271148681641,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/10/2017 1:59:59 PM,-63.305988311767578,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/11/2017 1:59:59 PM,-63.256805419921875,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/12/2017 1:59:59 PM,-63.270793914794922,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/13/2017 1:59:59 PM,-63.310108184814453,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/14/2017 1:59:59 PM,-63.293067932128906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/15/2017 1:59:59 PM,-63.333511352539063,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/16/2017 1:59:59 PM,-63.335105895996094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/17/2017 1:59:59 PM,-63.346729278564453,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/18/2017 1:59:59 PM,-63.296134948730469,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/19/2017 1:59:59 PM,-63.300479888916016,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/20/2017 1:59:59 PM,-63.322414398193359,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/21/2017 1:59:59 PM,-63.321197509765625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/22/2017 1:59:59 PM,-63.2730712890625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/23/2017 1:59:59 PM,-63.3176155090332,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/24/2017 1:59:59 PM,-63.331214904785156,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/25/2017 1:59:59 PM,-63.363517761230469,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/26/2017 1:59:59 PM,-63.324821472167969,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/27/2017 1:59:59 PM,-63.292060852050781,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/28/2017 1:59:59 PM,-63.332050323486328,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/29/2017 1:59:59 PM,-63.334938049316406,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/30/2017 1:59:59 PM,-63.296882629394531,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,10/31/2017 1:59:59 PM,-63.301441192626953,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/1/2017 1:59:59 PM,-63.353725433349609,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/2/2017 1:59:59 PM,-63.342880249023438,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/3/2017 1:59:59 PM,-63.271625518798828,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/4/2017 1:59:59 PM,-63.326007843017578,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/5/2017 1:59:59 PM,-63.355281829833984,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/6/2017 1:59:59 PM,-63.293827056884766,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/7/2017 1:59:59 PM,-63.344139099121094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/8/2017 1:59:59 PM,-63.357013702392578,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/9/2017 1:59:59 PM,-63.349124908447266,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/10/2017 1:59:59 PM,-63.386043548583984,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/11/2017 1:59:59 PM,-63.356330871582031,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/12/2017 1:59:59 PM,-63.337631225585938,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/13/2017 1:59:59 PM,-63.308692932128906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/14/2017 1:59:59 PM,-63.323749542236328,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/15/2017 1:59:59 PM,-63.3358154296875,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/16/2017 1:59:59 PM,-63.380516052246094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/17/2017 1:59:59 PM,-63.361846923828125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/18/2017 1:59:59 PM,-63.364242553710938,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/19/2017 1:59:59 PM,-63.346775054931641,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/20/2017 1:59:59 PM,-63.352394104003906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/21/2017 1:59:59 PM,-63.320449829101563,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/22/2017 1:59:59 PM,-63.277587890625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/23/2017 1:59:59 PM,-63.376766204833984,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/24/2017 1:59:59 PM,-63.300022125244141,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/25/2017 1:59:59 PM,-63.30426025390625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/26/2017 1:59:59 PM,-63.292194366455078,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/27/2017 1:59:59 PM,-63.299900054931641,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/28/2017 1:59:59 PM,-63.263065338134766,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/29/2017 1:59:59 PM,-63.269676208496094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,11/30/2017 1:59:59 PM,-63.281257629394531,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/1/2017 1:59:59 PM,-63.278652191162109,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/2/2017 1:59:59 PM,-63.274257659912109,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/3/2017 1:59:59 PM,-63.253684997558594,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/4/2017 1:59:59 PM,-63.307292938232422,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/5/2017 1:59:59 PM,-63.302921295166016,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/6/2017 1:59:59 PM,-63.257747650146484,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/7/2017 1:59:59 PM,-63.280143737792969,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/8/2017 1:59:59 PM,-63.273750305175781,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/9/2017 1:59:59 PM,-63.261070251464844,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/10/2017 1:59:59 PM,-63.302280426025391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/11/2017 1:59:59 PM,-63.268287658691406,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/12/2017 1:59:59 PM,-63.268936157226563,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/13/2017 1:59:59 PM,-63.255039215087891,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/14/2017 1:59:59 PM,-63.265583038330078,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/15/2017 1:59:59 PM,-63.262588500976563,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/16/2017 1:59:59 PM,-63.238105773925781,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/17/2017 1:59:59 PM,-63.313453674316406,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/18/2017 1:59:59 PM,-63.2724609375,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/19/2017 1:59:59 PM,-63.263309478759766,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/20/2017 1:59:59 PM,-63.293117523193359,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/21/2017 1:59:59 PM,-63.294792175292969,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/22/2017 1:59:59 PM,-63.365047454833984,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/23/2017 1:59:59 PM,-63.361614227294922,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/24/2017 1:59:59 PM,-63.390335083007813,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/25/2017 1:59:59 PM,-63.354045867919922,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/26/2017 1:59:59 PM,-63.293651580810547,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/27/2017 1:59:59 PM,-63.387660980224609,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/28/2017 1:59:59 PM,-63.372089385986328,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/29/2017 1:59:59 PM,-63.424266815185547,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/30/2017 1:59:59 PM,-63.36138916015625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,12/31/2017 1:59:59 PM,-63.299537658691406,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/1/2018 1:59:59 PM,-63.333259582519531,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/2/2018 1:59:59 PM,-63.392684936523438,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/3/2018 1:59:59 PM,-63.370094299316406,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/4/2018 1:59:59 PM,-63.350440979003906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/5/2018 1:59:59 PM,-63.336254119873047,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/6/2018 1:59:59 PM,-63.3441276550293,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/7/2018 1:59:59 PM,-63.331222534179688,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/8/2018 1:59:59 PM,-63.351604461669922,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/9/2018 1:59:59 PM,-63.347267150878906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/10/2018 1:59:59 PM,-63.397418975830078,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/11/2018 1:59:59 PM,-63.365577697753906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/12/2018 1:59:59 PM,-63.346233367919922,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/13/2018 1:59:59 PM,-63.407905578613281,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/14/2018 1:59:59 PM,-63.370010375976563,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/15/2018 1:59:59 PM,-63.309700012207031,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/16/2018 1:59:59 PM,-63.3504524230957,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/17/2018 1:59:59 PM,-63.367042541503906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/18/2018 1:59:59 PM,-63.332023620605469,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/19/2018 1:59:59 PM,-63.3238525390625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/20/2018 1:59:59 PM,-63.317203521728516,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/21/2018 1:59:59 PM,-63.280197143554688,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/22/2018 1:59:59 PM,-63.292610168457031,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/23/2018 1:59:59 PM,-63.274112701416016,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/24/2018 1:59:59 PM,-63.304744720458984,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/25/2018 1:59:59 PM,-63.260578155517578,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/26/2018 1:59:59 PM,-63.328830718994141,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/27/2018 1:59:59 PM,-63.349349975585938,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/28/2018 1:59:59 PM,-63.370201110839844,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/29/2018 1:59:59 PM,-63.432052612304688,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/30/2018 1:59:59 PM,-63.381210327148438,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,1/31/2018 1:59:59 PM,-63.324779510498047,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/1/2018 1:59:59 PM,-63.329380035400391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/2/2018 1:59:59 PM,-63.355949401855469,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/3/2018 1:59:59 PM,-63.348331451416016,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/4/2018 1:59:59 PM,-63.315567016601563,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/5/2018 1:59:59 PM,-63.355560302734375,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/6/2018 1:59:59 PM,-63.387863159179688,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/7/2018 1:59:59 PM,-63.339069366455078,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/8/2018 1:59:59 PM,-63.328216552734375,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/9/2018 1:59:59 PM,-63.316841125488281,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/10/2018 1:59:59 PM,-63.337459564208984,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/11/2018 1:59:59 PM,-63.345806121826172,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/12/2018 1:59:59 PM,-63.288013458251953,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/13/2018 1:59:59 PM,-63.366950988769531,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/14/2018 1:59:59 PM,-63.341049194335938,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/15/2018 1:59:59 PM,-63.331390380859375,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/16/2018 1:59:59 PM,-63.3473014831543,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/17/2018 1:59:59 PM,-63.311847686767578,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/18/2018 1:59:59 PM,-63.335723876953125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/19/2018 1:59:59 PM,-63.359790802001953,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/20/2018 1:59:59 PM,-63.363548278808594,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/21/2018 1:59:59 PM,-63.404750823974609,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/22/2018 1:59:59 PM,-63.353450775146484,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/23/2018 1:59:59 PM,-63.292186737060547,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/24/2018 1:59:59 PM,-63.353199005126953,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/25/2018 1:59:59 PM,-63.301307678222656,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/26/2018 1:59:59 PM,-63.285682678222656,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/27/2018 1:59:59 PM,-63.299953460693359,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,2/28/2018 1:59:59 PM,-63.298198699951172,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/1/2018 1:59:59 PM,-63.235404968261719,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/2/2018 1:59:59 PM,-63.258575439453125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/3/2018 1:59:59 PM,-63.233188629150391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/4/2018 1:59:59 PM,-63.367927551269531,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/5/2018 1:59:59 PM,-63.298248291015625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/6/2018 1:59:59 PM,-63.302761077880859,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/7/2018 1:59:59 PM,-63.328407287597656,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/8/2018 1:59:59 PM,-63.318355560302734,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/9/2018 1:59:59 PM,-63.289947509765625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/10/2018 1:59:59 PM,-63.327430725097656,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/11/2018 1:59:59 PM,-63.306255340576172,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/12/2018 1:59:59 PM,-63.308223724365234,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/13/2018 1:59:59 PM,-63.294681549072266,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/14/2018 1:59:59 PM,-63.304542541503906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/15/2018 1:59:59 PM,-63.275371551513672,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/16/2018 1:59:59 PM,-63.320175170898438,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/17/2018 1:59:59 PM,-63.29852294921875,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/18/2018 1:59:59 PM,-63.306884765625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/19/2018 1:59:59 PM,-63.261749267578125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/20/2018 1:59:59 PM,-63.329177856445313,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/21/2018 1:59:59 PM,-63.330028533935547,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/22/2018 1:59:59 PM,-63.314918518066406,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/23/2018 1:59:59 PM,-63.299636840820313,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/24/2018 1:59:59 PM,-63.315364837646484,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/25/2018 1:59:59 PM,-63.273094177246094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/26/2018 1:59:59 PM,-63.261997222900391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/27/2018 1:59:59 PM,-63.275508880615234,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/28/2018 1:59:59 PM,-63.243450164794922,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/29/2018 1:59:59 PM,-63.264766693115234,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/30/2018 1:59:59 PM,-63.350967407226563,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,3/31/2018 1:59:59 PM,-63.346279144287109,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/1/2018 1:59:59 PM,-63.319820404052734,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/2/2018 1:59:59 PM,-63.304107666015625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/3/2018 1:59:59 PM,-63.297950744628906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/4/2018 1:59:59 PM,-63.292564392089844,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/5/2018 1:59:59 PM,-63.300106048583984,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/6/2018 1:59:59 PM,-63.326858520507813,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/7/2018 1:59:59 PM,-63.348472595214844,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/8/2018 1:59:59 PM,-63.359195709228516,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/9/2018 1:59:59 PM,-63.309780120849609,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/10/2018 1:59:59 PM,-63.330398559570313,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/11/2018 1:59:59 PM,-63.316364288330078,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/12/2018 1:59:59 PM,-63.339824676513672,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/13/2018 1:59:59 PM,-63.341049194335938,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/14/2018 1:59:59 PM,-63.311851501464844,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/15/2018 1:59:59 PM,-63.282539367675781,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/16/2018 1:59:59 PM,-63.309619903564453,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/17/2018 1:59:59 PM,-63.348079681396484,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/18/2018 1:59:59 PM,-63.3045654296875,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/19/2018 1:59:59 PM,-63.338100433349609,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/20/2018 1:59:59 PM,-63.312568664550781,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/21/2018 1:59:59 PM,-63.299560546875,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/22/2018 1:59:59 PM,-63.304477691650391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/23/2018 1:59:59 PM,-63.2940673828125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/24/2018 1:59:59 PM,-63.304416656494141,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/25/2018 1:59:59 PM,-63.336093902587891,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/26/2018 1:59:59 PM,-63.293777465820313,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/27/2018 1:59:59 PM,-63.312278747558594,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/28/2018 1:59:59 PM,-63.321792602539063,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/29/2018 1:59:59 PM,-63.356349945068359,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,4/30/2018 1:59:59 PM,-63.232990264892578,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/1/2018 1:59:59 PM,-63.297538757324219,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/2/2018 1:59:59 PM,-63.299037933349609,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/3/2018 1:59:59 PM,-63.305244445800781,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/4/2018 1:59:59 PM,-63.294647216796875,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/5/2018 1:59:59 PM,-63.298576354980469,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/6/2018 1:59:59 PM,-63.294345855712891,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/7/2018 1:59:59 PM,-63.3271484375,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/8/2018 1:59:59 PM,-63.281528472900391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/9/2018 1:59:59 PM,-63.334751129150391,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/10/2018 1:59:59 PM,-63.3266716003418,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/11/2018 1:59:59 PM,-63.325103759765625,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/12/2018 1:59:59 PM,-63.321746826171875,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/13/2018 1:59:59 PM,-63.378841400146484,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/14/2018 1:59:59 PM,-63.291534423828125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/15/2018 1:59:59 PM,-63.332817077636719,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/16/2018 1:59:59 PM,-63.384647369384766,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/17/2018 1:59:59 PM,-63.323097229003906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/18/2018 1:59:59 PM,-63.333881378173828,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/19/2018 1:59:59 PM,-63.390033721923828,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/20/2018 1:59:59 PM,-63.356834411621094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/21/2018 1:59:59 PM,-63.340885162353516,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/22/2018 1:59:59 PM,-63.327049255371094,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/23/2018 1:59:59 PM,-63.327327728271484,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/24/2018 1:59:59 PM,-63.374298095703125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/25/2018 1:59:59 PM,-63.308841705322266,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/26/2018 1:59:59 PM,-63.373878479003906,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/27/2018 1:59:59 PM,-63.296470642089844,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/28/2018 1:59:59 PM,-63.30706787109375,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/29/2018 1:59:59 PM,-63.38958740234375,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/30/2018 1:59:59 PM,-63.271099090576172,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,5/31/2018 1:59:59 PM,-63.238796234130859,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,6/1/2018 1:59:59 PM,-63.290283203125,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,6/2/2018 1:59:59 PM,-63.346378326416016,Timed Report,Underrange,Low : Engineering Units Exceeded
+390441,6/3/2018 1:59:59 PM,268.5162353515625,Timed Report,High High,Good
+390441,6/4/2018 1:59:59 PM,344.47064208984375,Timed Report,High High,Good
+390441,6/5/2018 1:59:59 PM,350.21856689453125,Timed Report,High High,Good
+390441,6/6/2018 1:59:59 PM,336.645263671875,Timed Report,High High,Good
+390441,6/7/2018 1:59:59 PM,331.23849487304688,Timed Report,High High,Good
+390441,6/8/2018 1:59:59 PM,386.51156616210938,Timed Report,High High,Good
+390441,6/9/2018 1:59:59 PM,322.02029418945313,Timed Report,High High,Good
+390441,6/10/2018 1:59:59 PM,321.02456665039063,Timed Report,High High,Good
+390441,6/11/2018 1:59:59 PM,340.44815063476563,Timed Report,High High,Good
+390441,6/12/2018 1:59:59 PM,333.80099487304688,Timed Report,High High,Good
+390441,6/13/2018 1:59:59 PM,336.87115478515625,Timed Report,High High,Good
+390441,6/14/2018 1:59:59 PM,310.7486572265625,Timed Report,High High,Good
+390441,6/15/2018 1:59:59 PM,349.44363403320313,Timed Report,High High,Good
+390441,6/16/2018 1:59:59 PM,319.06268310546875,Timed Report,High High,Good
+390441,6/17/2018 1:59:59 PM,314.8123779296875,Timed Report,High High,Good
+390441,6/18/2018 1:59:59 PM,331.03671264648438,Timed Report,High High,Good
+390441,6/19/2018 1:59:59 PM,310.93423461914063,Timed Report,High High,Good
+390441,6/20/2018 1:59:59 PM,305.15640258789063,Timed Report,High High,Good
+390441,6/21/2018 1:59:59 PM,294.385009765625,Timed Report,High High,Good
+390441,6/22/2018 1:59:59 PM,322.65463256835938,Timed Report,High High,Good
+390441,6/23/2018 1:59:59 PM,313.57086181640625,Timed Report,High High,Good
+390441,6/24/2018 1:59:59 PM,310.14950561523438,Timed Report,High High,Good
+390441,6/25/2018 1:59:59 PM,319.62359619140625,Timed Report,High High,Good
+390441,6/26/2018 1:59:59 PM,317.60482788085938,Timed Report,High High,Good
+390441,6/27/2018 1:59:59 PM,315.87518310546875,Timed Report,High High,Good
+390441,6/28/2018 1:59:59 PM,321.10772705078125,Timed Report,High High,Good
+390441,6/29/2018 1:59:59 PM,310.85336303710938,Timed Report,High High,Good
+390441,6/30/2018 1:59:59 PM,353.62643432617188,Timed Report,High High,Good
+390441,7/1/2018 1:59:59 PM,146.24995422363281,Timed Report,High High,Good
+390441,7/2/2018 1:59:59 PM,102.46584320068359,Timed Report,High High,Good
+390441,7/3/2018 1:59:59 PM,71.309341430664063,Timed Report,High High,Good
+390441,7/4/2018 1:59:59 PM,52.0206413269043,Timed Report,High High,Good
+390441,7/5/2018 1:59:59 PM,328.1214599609375,Timed Report,High High,Good
+390441,7/6/2018 1:59:59 PM,330.6558837890625,Timed Report,High High,Good
+390441,7/7/2018 1:59:59 PM,326.26449584960938,Timed Report,High High,Good
+390441,7/8/2018 1:59:59 PM,330.86679077148438,Timed Report,High High,Good
+390441,7/9/2018 1:59:59 PM,327.732421875,Timed Report,High High,Good
+390441,7/10/2018 1:59:59 PM,346.10406494140625,Timed Report,High High,Good
+390441,7/11/2018 1:59:59 PM,339.7857666015625,Timed Report,High High,Good
+390441,7/12/2018 1:59:59 PM,341.77407836914063,Timed Report,High High,Good
+390441,7/13/2018 1:59:59 PM,325.60214233398438,Timed Report,High High,Good
+390441,7/14/2018 1:59:59 PM,331.58245849609375,Timed Report,High High,Good
+390441,7/15/2018 1:59:59 PM,339.25506591796875,Timed Report,High High,Good
+390441,7/16/2018 1:59:59 PM,304.31808471679688,Timed Report,High High,Good
+390441,7/17/2018 1:59:59 PM,315.13421630859375,Timed Report,High High,Good
+390441,7/18/2018 1:59:59 PM,303.79354858398438,Timed Report,High High,Good
+390441,7/19/2018 1:59:59 PM,303.961669921875,Timed Report,High High,Good
+390441,7/20/2018 1:59:59 PM,368.98477172851563,Timed Report,High High,Good
+390441,7/21/2018 1:59:59 PM,382.56784057617188,Timed Report,High High,Good
+390441,7/22/2018 1:59:59 PM,383.9246826171875,Timed Report,High High,Good
+390441,7/23/2018 1:59:59 PM,232.82731628417969,Timed Report,High High,Good
+390441,7/24/2018 1:59:59 PM,204.54490661621094,Timed Report,High High,Good
+390441,7/25/2018 1:59:59 PM,187.91841125488281,Timed Report,High High,Good
+390441,7/26/2018 1:59:59 PM,205.12301635742188,Timed Report,High High,Good
+390441,7/27/2018 1:59:59 PM,324.75918579101563,Timed Report,High High,Good
+390441,7/28/2018 1:59:59 PM,326.63824462890625,Timed Report,High High,Good
+390441,7/29/2018 1:59:59 PM,388.84246826171875,Timed Report,High High,Good
+390441,7/30/2018 1:59:59 PM,317.81478881835938,Timed Report,High High,Good
+390441,7/31/2018 1:59:59 PM,323.77615356445313,Timed Report,High High,Good
+390441,8/1/2018 1:59:59 PM,326.1356201171875,Timed Report,High High,Good
+390441,8/2/2018 1:59:59 PM,330.97283935546875,Timed Report,High High,Good
+390441,8/3/2018 1:59:59 PM,324.3426513671875,Timed Report,High High,Good
+390441,8/4/2018 1:59:59 PM,328.828369140625,Timed Report,High High,Good
+390441,8/5/2018 1:59:59 PM,339.670654296875,Timed Report,High High,Good
+390441,8/6/2018 1:59:59 PM,345.30474853515625,Timed Report,High High,Good
+390441,8/7/2018 1:59:59 PM,326.21060180664063,Timed Report,High High,Good
+390441,8/8/2018 1:59:59 PM,328.17532348632813,Timed Report,High High,Good
+390441,8/9/2018 1:59:59 PM,313.20248413085938,Timed Report,High High,Good
+390441,8/10/2018 1:59:59 PM,244.33415222167969,Timed Report,High High,Good
+390441,8/11/2018 1:59:59 PM,313.57559204101563,Timed Report,High High,Good
+390441,8/12/2018 1:59:59 PM,329.28265380859375,Timed Report,High High,Good
+390441,8/13/2018 1:59:59 PM,335.76614379882813,Timed Report,High High,Good
+390441,8/14/2018 1:59:59 PM,324.86309814453125,Timed Report,High High,Good
+390441,8/15/2018 1:59:59 PM,317.30291748046875,Timed Report,High High,Good
+390441,8/16/2018 1:59:59 PM,319.56625366210938,Timed Report,High High,Good
+390441,8/17/2018 1:59:59 PM,309.90621948242188,Timed Report,High High,Good
+390441,8/18/2018 1:59:59 PM,346.91583251953125,Timed Report,High High,Good
+390441,8/19/2018 1:59:59 PM,339.081787109375,Timed Report,High High,Good
+390441,8/20/2018 1:59:59 PM,329.61767578125,Timed Report,High High,Good
+390441,8/21/2018 1:59:59 PM,325.97479248046875,Timed Report,High High,Good
+390441,8/22/2018 1:59:59 PM,327.36526489257813,Timed Report,High High,Good
+390441,8/23/2018 1:59:59 PM,341.55047607421875,Timed Report,High High,Good
+390441,8/24/2018 1:59:59 PM,331.72222900390625,Timed Report,High High,Good
+390441,8/25/2018 1:59:59 PM,346.037353515625,Timed Report,High High,Good
+390441,8/26/2018 1:59:59 PM,346.92245483398438,Timed Report,High High,Good
+390441,8/27/2018 1:59:59 PM,333.33380126953125,Timed Report,High High,Good
+390441,8/28/2018 1:59:59 PM,337.9608154296875,Timed Report,High High,Good
+390441,8/29/2018 1:59:59 PM,317.38629150390625,Timed Report,High High,Good
+390441,8/30/2018 1:59:59 PM,347.52688598632813,Timed Report,High High,Good
+390441,8/31/2018 1:59:59 PM,348.79953002929688,Timed Report,High High,Good
