@@ -8,3 +8,5 @@ pipeline-incidents-details.csv reports pipeline leaks and other problems from 20
 2014 NIOSH O&G Worker Fatalities.pdf is a detailed combiled report (not raw data) providing statistics and decriptionary accounts of fatalities that occurred in 2014 in the Oil and Gas industry in the US. NIOSH stands for National Institute for Occupational Health and Safety
 ### Research and Other Investigations
 Turnkey System for Police Services Investigating Workplace SIF Inci...pdf is a summary report of the research and investigation into serious workplace injury and fatality incidents - a system developed for the Calgary Police department. This report puts a bit of a different perspective on work place incidents and what could affect a reduction in them.
+### Company Information
+EnCana - H&S MetaData.xlsx shows the header data is use for data captured for health and safety purposes and for incident reporting
