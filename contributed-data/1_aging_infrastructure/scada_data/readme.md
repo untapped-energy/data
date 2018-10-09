@@ -25,7 +25,7 @@ This is SCADA data from a Tier 2 producer with properties all over Alberta. Focu
 - digital_points.csv - contains a list of all the digital/discrete points in the system and their metadata. 
 - historic_data - this folder contains the point history, one file per point. History is from Sept 2017 to Sept 2018. Join with the point lists for better context. **I stopped uploading files... too many and some are too large. - Dustin**
 
-You can download a ZIP file of the server_1 files here: https://s3-us-west-2.amazonaws.com/cdn.jpisolutions/untapped_datathon/scada_data/server_1_zip.zip
+You can download a ZIP file of the server_1 files here: https://s3-us-west-2.amazonaws.com/cdn.jpisolutions/untapped_datathon/scada_data/server_1_zip.zip (also hosted here in the repository).
 
 ## Industry Info
 
