@@ -1,0 +1,255 @@
+Column;Data Value or Column Name Indication;Description of Data Value or Column Name
+Year;"Name of the Column
+";Year incident was reported
+Incident number;"Name of the Column
+";The number that the NEB assigns to an incident
+Significant;"Name of the Column
+";"Whether the incident is a significant incident, which is an acute event that results in:
+-death;
+-a serious injury (as defined in the OPR);
+-a fire or explosion that causes a pipeline or facility to be inoperative;
+-a LVP hydrocarbon release in excess of "
+Occurrence date and time;"Name of the Column
+";The date that the incident occurred
+Discovered date and time;"Name of the Column
+";The date that the incident was first discovered
+Reported date;"Name of the Column
+";The date that the incident was first reported to the NEB
+Duration of interruption of pipeline operations;"Name of the Column
+";The duration of any interruption to the pipeline operations
+Pipeline or Facility Type;"Name of the Column
+";They type of system on which the incident occurred:  transmission, gathering, distribution, or processing
+Activity being performed at time of incident;"Name of the Column
+";"The type of activity at time of the incident:
+-operation:  typical operation of the pipeline or facility
+-construction: initial construction of a pipeline or facility
+-maintenance: work done to maintain the pipeline or facility
+-abandonment: the work requ"
+How the incident was discovered;"Name of the Column
+";The way that the incident was first discovered
+Status;"Name of the Column
+";"The current status of the incident, which can be one of the following:
+-Initially Submitted: The company has notified the NEB that an incident has occurred and provided preliminary information. An investigation is ongoing.
+-Submitted: The company has subm"
+Closed Date;"Name of the Column
+";The date that the incident review was completed and file closed by the NEB.
+Company;"Name of the Column
+";The name of the company that owns or operates the facility or pipeline where the incident occurred.
+Pipeline or facility equipment involved;"Name of the Column
+";"Whether or not the incident involved any of the following:  
+-mainline pipeline;
+-station/facility;
+-storage; or
+-processing plant."
+Rupture ;"Name of the Column
+";Whether the incident involved a rupture, which is an instantaneous release that immediately impairs the operation of a pipeline segment such that the pressure of the segment cannot be maintained.
+Incident Type;"Name of the Column
+";"The type of incident(s) that occurred, which can be any of the following:
+-Fatality
+-Serious Injury (NEB or TSB)
+-Explosion
+-Fire
+-Release of Substance
+-Operation Beyond Design Limits
+-Adverse Environmental Effects"
+Released Substance Type;"Name of the Column
+";"The category that the released substance falls under:
+-commodity: a product other than oil or gas transported in a pipeline regulated by the NEB;
+-High Vapour Pressure Product: typically natural gas liquids such as ethane, butane or propane. They are liqu"
+Released Substance;"Name of the Column
+";The specific substance that was released
+Released volume (m3);"Name of the Column
+";The approximate volume released in cubic meters
+Recovered volume (m3);"Name of the Column
+";The approximate volume that was recovered during clean-up in cubic meters
+Pipe body release;"Name of the Column
+";Whether the release came from the pipe itself, rather than other sources like equipment or storage
+Residual effects on the environment;"Name of the Column
+";Whether there are residual effects on the environmental, which are environmental effects remaining after mitigation has taken place
+Source of Explosion;"Name of the Column
+";The source of the explosion 
+Source of Fire;"Name of the Column
+";The source of the fire
+Activity at time of fatality;"Name of the Column
+";"The activity being performed at the time of the death:
+-construction;
+-operation of equipment;
+-vehicle accident; or
+-operation and maintenance."
+Number of fatalities;"Name of the Column
+";The number of people that died as a result of this incident
+Type of Injury;"Name of the Column
+";The type of injury
+Number of individuals injured;"Name of the Column
+";The number of people injured as a result of this incident
+Workdays lost;"Name of the Column
+";The number of lost workdays as a result of this incident
+Work restricted by injury;"Name of the Column
+";Whether the worker was put on restricted duties as a result of the injury
+Conditions that resulted in the operation beyond  limits;"Name of the Column
+";"The condition that caused the operations beyond design limits:
+-inappropriate product;
+-over pressure;
+-slope movements;
+-excessive vibration;
+-exposure in a waterbody;
+-outside temperature range."
+Conditions that resulted in adverse effects on the environment;"Name of the Column
+";"The condition that caused the adverse effect on the environment:
+-loss of Species at Risk Act listed species;
+-release of a toxic substance;
+-unintentional return of drilling fluids to the surface (frac-out) into a watercourse during a trench-less pipe cr"
+Number of people evacuated;"Name of the Column
+";The number of people evacuated as a result of the incident
+Regulation;"Name of the Column
+";The regulation that the incident applies to
+Regulation;OPR;The National Energy Board Onshore Pipeline Regulations apply to this incident. 
+Regulation;PPR;The National Energy Board Processing Plant Regulations apply to this incident.
+Pipeline Name ;"Name of the Column
+";The name of the pipeline impacted by the incident as identified by the company
+Pipeline outside diameter (NPS);"Name of the Column
+";The size of the outside diameter of the pipeline, according to the Nominal Pipe Size (NPS) standard of measurement
+Pipeline length (km);"Name of the Column
+";The length of the pipeline in kilometers
+Substance carried;"Name of the Column
+";The substance carried by the pipeline
+Facility Name ;"Name of the Column
+";The name of the facility impacted, as input by the company
+Facility type;"Name of the Column
+";"The type of facility impacted: 
+-building;
+-meter station: a station that measures the quantity and quality of gas being transported;
+-prime mover: a facility to move the product through the pipeline, including compressor and pump stations;
+-pigging facil"
+Province;"Name of the Column
+";The province where the incident occurred
+Facility latitude;"Name of the Column
+";The latitude coordinate for the facility on which the incident occurred
+Facility longitude;"Name of the Column
+";The longitude coordinate for the facility on which the incident occurred
+Country;"Name of the Column
+";The country where the incident occurred
+Nearest Populated Center;"Name of the Column
+";The nearest populated center to the incident, as identified by the company
+Affects Company Property;"Name of the Column
+";Whether the incident affected company-owned property
+Off Company Property ;"Name of the Column
+";Whether the incident affected area off of company property
+Affects Pipeline right-of-way;"Name of the Column
+";Whether the incident affected the pipeline right of way (the land along the route that the company has obtained rights to for the pipeline)
+Affects off Pipeline right-of-way;"Name of the Column
+";Whether the incident affected areas off of the pipeline right of way (the land along the route that the company has obtained rights to for the pipeline) 
+Land Use ;"Name of the Column
+";"The category of land use at the incident location:
+-barren land;
+-shrub land;
+-vegetative barren;
+-forests;
+-agricultural cropland;
+-water or wetlands;
+-Tundra, native prairie or park;
+-Developed land (industrial, small commercial or residential)."
+Population Density ;"Name of the Column
+";The population density at the location of the incident
+Longitude ;"Name of the Column
+";The latitude coordinate for where the incident occurred
+Latitude ;"Name of the Column
+";The longitude coordinate for where the incident occurred
+Kilometre post;"Name of the Column
+";The kilometre post where the incident occurred.  A kilometre post is a location reference point that identifies the linear distance in kilometres along the pipeline from a starting point, as identified by the company.  
+Emergency Level;"Name of the Column
+";The level of emergency (on a scale of 1 to 3, with 3 being the most severe or hazardous) determined based on the level of severity of the incident and the potential hazards to the public and the environment 
+Investigation Type;"Name of the Column
+";An NEB classification, for NEB investigation purposes, of the type of incident  
+Was NEB Staff Deployed;"Name of the Column
+";Whether NEB staff were deployed in response to this incident
+Related NEB event number;"Name of the Column
+";"The event number of any other related events including:
+-other incidents;
+-compliance verification activities;
+-unauthorized activities (National Energy Board Damage Prevention Regulations); or
+-operations and maintenance notifications"
+Equipment or Components involved;"Name of the Column
+";The type of any equipment or components involved in the incident.  Components in this case refer to a segment of the piping that is designed to maintain pipe pressure but is not the main body of the pipe, such as a pipe elbow or flange.
+Design Standard;"Name of the Column
+";The standard which the pipeline or component has been designed to
+Nominal Pipe Size;"Name of the Column
+";The size of the outside diameter of the pipe involved in the incident, according to the Nominal Pipe Size (NPS) standard of measurement
+Material;"Name of the Column
+";The material that the equipment or component involved in the incident is made of
+Material Grade;"Name of the Column
+";The specific grade of material that the equipment or component involved in the incident complies with
+Schedule;"Name of the Column
+";The design schedule for the pipeline, which specifies the wall thickness of the pipe in relation to the Nominal Pipe Size
+Design wall Thickness (mm);"Name of the Column
+";The design thickness of the pipe wall in millimeters (standard measurement)
+Custom design wall thickness (mm);"Name of the Column
+";The design thickness of the pipe wall in millimeters (custom measurement)
+Actual wall thickness (mm);"Name of the Column
+";The actual thickness of the pipe wall at the time of the incident in millimeters
+Licensed maximum operating pressure (kPa);"Name of the Column
+";The maximum pressure that the pipeline can be operated at, as approved by the NEB, in kilopascals
+Restricted operating pressure (kPa) ;"Name of the Column
+";A maximum allowable operating pressure that is set lower than that originally approved by the NEB, in kilopascals
+Actual operating pressure at time of failure (kPa);"Name of the Column
+";The actual operating pressure of the pipeline at the time of the incident, in kilopascals
+Designed depth of cover (m);"Name of the Column
+";The designed depth of soil from the top of the pipeline to the ground surface, in metres
+Actual depth of cover (m);"Name of the Column
+";The actual depth of soil from the top of the pipeline to the ground surface at the time of the incident, in metres
+Year of manufacture;"Name of the Column
+";The year that the equipment or component involved in the incident was made
+Year of installation;"Name of the Column
+";The year that the equipment or component involved in the incident was installed
+Year when put into service;"Name of the Column
+";The year that the equipment or component involved in the incident was first used
+Most recent cathodic protection reading at incident site (mV vs. Cu/CuSO4);"Name of the Column
+";The most recent reading of cathodic protection at the incident site (mV vs. Cu/CuSO4).  Cathodic protection is a method of preventing corrosion where special metals protect the pipe by diverting the corrosion that would normally happen on the pipeline to 
+Weld Type;"Name of the Column
+";The type of pipe weld involved in the incident: girth (around the pipe) or longitudinal (along the pipe)
+Seam Type;"Name of the Column
+";The type of pipe seam (along the pipe): seamless, straight or spiraling
+Seam Joining Method;"Name of the Column
+";The welding process used for manufacturing the pipe
+Seam Clock Position;"Name of the Column
+";The position of the seam along the pipe as seen looking down the pipe in the direction of flow, expressed by position of the numbers on a clock face
+Coating Location;"Name of the Column
+";Whether the pipeline is not coated, or is coated externally or internally.  Coatings are used to protect the pipeline from corrosion.
+Coating Type;"Name of the Column
+";The type of material that coats the pipeline
+Coating Condition;"Name of the Column
+";The condition of the coating at the time of the incident
+Application Method;"Name of the Column
+";Whether the coating was applied to the pipe in a plant or in the field
+Year when the coating was applied;"Name of the Column
+";The year that the coating was applied to the pipe
+Insulation installed;"Name of the Column
+";Whether the pipe was insulated 
+Repair Type;"Name of the Column
+";The type of repair made to the pipe as a result of the incident
+Repair date;"Name of the Column
+";The  date that all repairs made as a result of the incident were completed
+Equipment or component has never been inspected;"Name of the Column
+";Selected if failed equipment or component involved in the incident was never inspected
+Most recent inspection date for the failed equipment or component;"Name of the Column
+";The date of the most recent inspection of the failed equipment or component involved in the incident 
+Type of most recent inspection;"Name of the Column
+";The type of most the recent inspection of the failed equipment or component involved in the incident
+Most recent inspection part of the routine inspection program;"Name of the Column
+";Whether the most recent inspection of the failed equipment or component involved in the incident was part of the company’s routine inspection program
+No maintenance done on this equipment or component;"Name of the Column
+";Selected if failed equipment or component involved in the incident has never had maintenance done
+Date of the most recent maintenance work for the failed equipment or component;"Name of the Column
+";The date of the most recent maintenance work on the failed equipment or component involved in the incident
+Most recent maintenance Type;"Name of the Column
+";The type of most recent maintenance work of the failed equipment or component involved in the incident
+Most recent maintenance work part of the routine maintenance program ;"Name of the Column
+";Whether the most recent maintenance work of the failed equipment or component involved in the incident was part of the company’s routine maintenance program
+Detailed immediate cause;"Name of the Column
+";The circumstances that directly led to the occurrence of the incident.  An incident may have more than one immediate cause.  
+Immediate cause category;"Name of the Column
+";The NEB determined categories for the immediate causes of the incident 
+Detailed basic cause;"Name of the Column
+";The underlying reasons behind the immediate cause that explain why the immediate circumstances existed
+Basic cause category;"Name of the Column
+";The NEB determined categories for the basic causes of the incident
