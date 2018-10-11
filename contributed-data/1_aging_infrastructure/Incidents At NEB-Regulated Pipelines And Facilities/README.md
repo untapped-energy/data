@@ -1,0 +1,151 @@
+# Data Dictionary for pipeline-incidents.csv
+
+#### 1. Incidents
+The unique identifier – or label – the NEB assigns to each incident
+
+#### 2. Reported Date/Year
+The date the company reported the incident to the NEB. This date may differ from when the incident occurred or was discovered
+
+#### 3. Company
+The company that holds the regulatory instrument on the pipeline/facility where the incident took place
+
+#### 4. Provinces
+The province where the incident occurred
+
+#### 5. Incident Type
+- Adverse Environmental Effects - When any chemical substance is released at a concentration or volume that has the potential to change the ambient environment in a manner that would cause harm to human life, wildlife or vegetation (e.g., glycol, potassium carbonate, methanol, methanol mix from hydrostatic testing, etc.).
+- Explosion – An unintended explosion
+- Fatality – Any death involving employees, contractors or members of the public related to the construction, operation, maintenance or abandonment of pipelines
+- Fire – An unintended fire
+- Operation Beyond Design Limits - Includes situations, such as:
+-- over-pressures – i.e., pressures that are higher than the maximum the equipment was designed to safely handle
+-- vibration beyond design limits;
+-- slope movements causing movement in the pipeline beyond design limits;
+-- pipe exposures in rivers or streams; and 
+-- introduction of an inappropriate product (e.g., sour gas in excess of CSA limits)
+- Operation beyond design limit is typically linked to an over-pressure of the product in the pipe; however, if a pipe was exposed to excessive vibration and was not designed for this, this could be considered operation beyond design limits. Operation beyond design limits does not include equipment contacting the pipe, or corrosion pits, etc.
+- Release of Substance - Any time a product is unintentionally released. (Releases of non-gas low pressure products in volumes of less than 1.5 cubic metres are exempt from reporting.)
+- Serious Injury (NEB or Transportation Safety Board) - Any serious injury involving employees, contractors or members of the public related to the construction, operation or maintenance of pipelines.
+
+#### 6. Status
+The current stage of the incident investigation
+- Initially Submitted: The company has notified the NEB that an incident has occurred and provided preliminary information. An investigation is has been initiated.
+- Submitted: The company has submitted all of the required information and the NEB is reviewing the incident.
+- Closed: The NEB’s incident review has been completed and the file is closed.
+
+#### 7. Substance
+The product released in a Release of Substance incident.
+- Amine
+- Calcium carbonate
+- Casing cement
+- Chlorodifluoromethane
+- Contaminated water
+- Corrosion inhibitor
+- Drilling fluid
+- Drip oil
+- Glycol
+- Grey water (sewage)
+- Hydraulic fluid
+- Hydrogen sulphide
+- Lube oil
+- Methanol
+- Methyl tert-Butyl ether
+- Morphysorb
+- Oil well effluent
+- Polychlorinated biphenyls
+- Potassium carbonate
+- Potassium hydroxide (caustic solution)
+- Produced water
+- Sulphur dioxide
+- Toluene
+- Waste oil
+- Water
+- Butane
+- Mixed HVP hydrocarbons
+- Natural gas liquids
+- Propane
+- Condensate
+- Crude oil - sour
+- Crude oil - sweet
+- Crude oil - synthetic
+- Diesel fuel
+- Gasoline
+- Isooctane
+- Jet fuel
+- Carbon dioxide
+- Sulphur
+- Natural gas - sweet
+- Natural gas - sour
+- Odourant
+- Pulp slurry
+
+#### 8. Release Type
+This is the primary product being transported in the pipeline. Examples of the substance types applicable to each category are as follows:
+- Gas: substances such as natural gas, sweet gas, fuel gas, and acid gas
+- Liquid: substances such as low-vapour pressure hydrocarbons, crude oil, natural gas liquids, and jet fuel
+- Miscellaneous: substances such as mechanical pulp slurry, steam, effluent, processed water, and fresh water
+- Not Applicable: incidents that do not involve a release of substance
+
+#### 9. What Happened
+The circumstances that directly led to the incident.
+- Defect and Deterioration - Defects in manufacturing processes or materials, or deterioration as a result of damage or service life limitations, lack of inspection or maintenance
+- Corrosion and Cracking - External corrosion or cracking caused by damage to coating systems or failed coating systems; weld cracking as a result of stress or workmanship issues; or internal corrosion as a result of contaminates in products
+- Equipment Failure - A failure of the pipeline’s equipment components. Examples of equipment include valves, electrical power systems and control systems
+- Incorrect Operation – Typically, personnel fail to follow procedures or use equipment improperly
+- External interference - External activities that cause damage to the pipeline or components. Examples include excavation damage and vandalism
+- Natural Force Damage - Damage caused by natural forces, such as earthquakes, landslides and wash-outs
+- Other Causes - All other causes or when an incident’s circumstances could not be determined
+
+#### 10. Why It Happened
+The underlying reasons for the incident.
+- Engineering and Planning - Failures of assessment, planning or monitoring that may be related to inadequate specifications or design criteria, evaluation of change, or implementation of controls
+- Maintenance - Inadequate preventive maintenance or repairs, and excessive wear and tear
+- Inadequate Procurement - Failures in the purchasing, handling, transport and storage of materials
+- Tools and Equipment - Tools and equipment that are inadequate for the task or used improperly
+- Standards and Procedures - Inadequate development, communication, maintenance or monitoring of standards and procedures
+- Failure in communication - Loss of communication with automatic devices, equipment or people
+- Inadequate Supervision – Lack of oversight of a contractor or employee during construction or maintenance activities
+- Human Factors - Individual conduct or capability, or physical and psychological factors
+- Natural or Environmental Forces - External natural or environmental conditions
+
+#### 11. Pipleline Phase
+The type of activity at time of the incident
+- Operation: typical operation of the pipeline or facility
+- Construction: the building of a pipeline or facility
+- Maintenance: work done to maintain the pipeline or facility
+- Abandonment: the work required to abandon a pipeline or facility
+
+#### 12. Approximate Volume Released (m3)
+The amount released, in cubic metres
+
+#### 13. Were Pipeline System Components Involved?
+1 = yes, 0 = no
+Whether or not the incident involved any of the following:  
+-mainline pipeline;
+-station/facility;
+-storage; 
+-processing plant; 
+-vehicle/mobile equipment
+
+#### 14. System  Component involved
+The type of equipment or components involved in the incident
+Components in this case refer to a segment of the piping that is designed to maintain pipe pressure but is not the main body of the pipe. Examples include a pipe elbow or flange.
+- Compression station
+- Metering station
+- Pigging
+- Pipeline
+- Power generation
+- Processing plant
+- Pumping station
+- Regulating facility
+- Storage facility
+- Vehicle/Mobile equipment
+
+#### 15. Nearest Populated Centre
+The nearest populated centre to the incident, as identified by the company
+
+#### 16. Longitude
+The longitude coordinate for where the incident occurred
+
+#### 17. Latitude
+The latitude coordinate for where the incident occurred
