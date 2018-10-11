@@ -11,4 +11,4 @@ Please ask Drew for write access directly to the repository.
 
 ### Option 2: Use Data Upload Tool ###
 #### For single file uploads for non-technical contributors ####
-Visit https://sharp-edison-5440cb.netlify.com to access the upload tool. The form accepts any type of file, although it has inexplicably garbled Excel files, so please only use text or CSV. My intention is to add some basic metadata analysis, for instance, detecting the names of columns in CSV files, etc. The metadata (currently just the description you enter in the upload tool) will be placed in a separate file that has the same name as your uploaded data file, but appended with .metadata.txt. For those interested, this tool is built with netlify, serverless (Amazon Lambda), and S3.
+Visit https://sharp-edison-5440cb.netlify.com to access the upload tool. The form accepts any type of file, although it has inexplicably garbled Excel files, so please only use text or CSV. The metadata (currently just the description you enter in the upload tool) will be placed in a separate file that has the same name as your uploaded data file, but appended with .metadata.txt.

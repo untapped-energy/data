@@ -1,3 +1,3 @@
-## Pod-Specific Data Folders ##
+# Topic-Specific Data Folders ##
 
-Data for each pod lives in its own folder.
+Please explore the folders to discover the data that has been curated for Untapped.
