@@ -12,6 +12,12 @@ Turnkey System for Police Services Investigating Workplace SIF Inci...pdf is a s
 Stackhouse Stewart 2016 Risk Analysis 12583.pdf is a research paper that explores how the oil and gas industry is performing at risk mitigation in terms of finding and fixing errors when they occur. Second, the present research explores what factors in the work environment relate to a risk-accommodating environment.
 ###
 Deepwater, Deep Ties, Deep Trouble: A State-Corporate Environmental Crime Analysis of the 2010 Gulf of Mexico Oil Spill, its cause and impact.
+###
+OffshoreHydrocarbonReleaseIncidents is raw data of incidents that occurred in UK waters between 1992 and 2014. Please consult the Introduction Tab/Worksheet for further information on the data provided.
+###
+OffshoreInjury-IllHealth-Incidentstatistics is a summary report for time period 2012 to 2013. This also reports offshore activities in UK waters.
+###
+Offshore-Regulatory-Stastistics provides an analysis on incidents for 2017 for activities in UK waters.
 ### Company Information
 EnCana - H&S MetaData.xlsx shows the header data is use for data captured for health and safety purposes and for incident reporting
 ###
